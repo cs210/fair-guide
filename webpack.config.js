@@ -31,6 +31,10 @@ module.exports = {
                 // Fonts
                 test: /\.(eot|svg|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
                 loader: 'file?name=/fonts/[name].[ext]'
+            }, {
+                // Fonts
+                test: /\.handlebars?$/,
+                loader: 'handlebars-loader'
             }
         ]
     },
@@ -46,7 +50,7 @@ module.exports = {
     plugins: [
         new ExtractTextPlugin('./styles/styles.css'),
         new HtmlWebpackPlugin({
-            title: 'Vanaheim',
+            title: 'Faire Guide',
             template: 'html!./src/index.html',
         })
     ],
