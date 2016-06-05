@@ -1,0 +1,39 @@
+{
+  "name": "faire-guide",
+  "version": "1.0.0",
+  "description": "The web app / printable thing for the Software Fair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack-dev-server --progress --colors --compress --inline --hot --open --port 65210",
+    "build": "webpack --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs210/faire-guide.git"
+  },
+  "author": "Derrick Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs210/faire-guide/issues"
+  },
+  "homepage": "https://github.com/cs210/faire-guide#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "purecss": "^0.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.19.0",
+    "image-webpack-loader": "^1.8.0",
+    "node-sass": "^3.7.0",
+    "resolve-url-loader": "^1.4.3",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
