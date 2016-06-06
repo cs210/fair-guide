@@ -1,0 +1,13 @@
+<section class="fair-section section-{{name}}">
+    <div class="fair-section-header">
+        <h1>{{name}}</h1>
+    </div>
+    <div class="fair-section-submissions">
+        {{#each submissions}}
+            {{> fair-submission }}
+        {{/each}}
+    </div>
+    <div class="fair-section-footer">
+        End of <strong>{{name}}</strong> projects.
+    </div>
+</section>

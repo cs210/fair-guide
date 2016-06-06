@@ -1,0 +1,18 @@
+.fair-section {
+    page-break-after: always;
+}
+
+.fair-section-header {
+    border-bottom: 2pt solid rgb(0, 0, 0);
+    padding-bottom: 12pt;
+}
+
+.fair-section-footer {
+    margin-top: 12pt;
+    font-size: 12pt;
+    color: rgba(0, 0, 0, 0.5);
+
+    strong {
+        font-weight: 600;
+    }
+}

@@ -1,0 +1,60 @@
+.fair-submission {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1pt solid rgb(0, 0, 0);
+
+    padding: 12pt 0;
+    page-break-inside: avoid;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fair-submission-info {
+    &-class {
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    &-project {
+        font-size: 16pt;
+    }
+
+    .project-name {
+        font-size: 16pt;
+        font-weight: 600;
+        margin-right: 2pt;
+    }
+
+    &-members {
+        margin-top: 12pt;
+        color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.fair-submission-right {
+    margin-left: 18pt;
+}
+
+.fair-submission-logo {
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @media print {
+        width: 1in;
+        height: 1in;
+    }
+
+    &-image {
+        width: 100px;
+        max-height: 100px;
+
+        @media print {
+            width: 1in;
+            max-height: 1in;
+        }
+    }
+}

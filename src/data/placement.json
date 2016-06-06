@@ -1,0 +1,46 @@
+{
+    "arcade": {
+        "name": "Arcade",
+        "area": "arcade"
+    },
+    "consumer": {
+        "name": "Consumer",
+        "area": [ "front-hall-left", "front-hall-right" ]
+    },
+    "education": {
+        "name": "Education",
+        "area": "right-room"
+    },
+    "enterprise": {
+        "name": "Enterprise and public policy",
+        "area": "top-left-room"
+    },
+    "hardware": {
+        "name": "Hardware",
+        "area": "left-room"
+    },
+    "health": {
+        "name": "Health and biotech",
+        "area": "far-right-room"
+    },
+    "mixedreality": {
+        "name": "Mixed reality",
+        "area": "center-room"
+    },
+    "research": {
+        "name": "Research",
+        "area": "far-left-room"
+    },
+    "judging": {
+        "name": "Judges' area",
+        "area": "top-right-room"
+    },
+    "welcome": {
+        "name": "Welcome area",
+        "area": "front-hall-center"
+    },
+    "stairs": {
+        "name": "Stairs",
+        "area": "stairs"
+    }
+}

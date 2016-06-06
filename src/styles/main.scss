@@ -1,0 +1,63 @@
+@import "fonts";
+
+body {
+    font-family: "WeblySleek UI", "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5 {
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 36pt;
+    margin: 0;
+}
+
+@page {
+    size: US-Letter;
+    margin: 0.5in;
+}
+
+@media screen {
+    .page {
+        margin: 15px;
+    }
+
+    .fair-header,
+    .fair-footer {
+        display: none;
+    }
+
+    .fair-cover {
+        display: none;
+    }
+
+    @media (min-width: 960px) {
+        body {
+            width: 960px;
+        }
+    }
+}
+
+@media print {
+    body {
+        font-size: 11pt;
+    }
+
+    .fair-header,
+    .fair-footer {
+        position: fixed;
+    }
+
+    .fair-footer {
+        bottom: 0;
+        content: counter(page);
+    }
+}
+
+@import "fair-submission";
+@import "fair-cover";
+@import "fair-section";
+@import "fair-map";

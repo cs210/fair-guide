@@ -1,0 +1,21 @@
+.fair-map {
+    page-break-after: always;
+}
+
+svg {
+    font-size: 11px;
+}
+
+svg .area-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+svg .area-text {
+    text-align: center;
+}
+
+svg .stairs {
+    fill: rgba(0, 0, 0, 0.2);
+}
