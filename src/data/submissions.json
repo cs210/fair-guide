@@ -525,6 +525,15 @@
             "description": "In developing countries, poverty data is scarce and labor-intensive to obtain. However, remote sensing data is increasingly large-scale and economical. We extract socioeconomic indicators from satellite imagery using a transfer learning approach where nighttime light intensities is a data-rich proxy. We train a fully convolutional CNN model to predict nighttime lights from daytime imagery, simultaneously learning features useful for poverty prediction. The model learns filters identifying terrains and man-made structures without supervision beyond nighttime lights. These features are informative for poverty mapping, approaching the predictive performance of survey data from the field.",
             "placement": "research",
             "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Shortnotice",
+            "summary": "Shortnotice is an app that let’s you easily make plans with friends and receive great deals from your favorite businesses – all on short notice!",
+            "team_members": "Kush Nijhawan",
+            "description": "Shortnotice is your online tool to get you offline, here's how it works! First, post your activity. Your friends can then “nudge” you when they're also free, so your friends come to you! No more texting friends who are already busy. You can then start a convo on the app to make the plan happen! You can also receive great deals from your favorite businesses near you all on short notice! Shortnotice let's you make memories with your real friends and receive messages from your favorite businesses. After all, life happens on Shortnotice – live it up!",
+            "placement": "consumer",
+            "logo_url": "http://i.imgur.com/NQclDdL.png"
         }
     ]
 }
