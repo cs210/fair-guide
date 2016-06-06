@@ -1,18 +1,64 @@
 .fair-section {
     page-break-after: always;
-}
-
-.fair-section-header {
     border-bottom: 2pt solid rgb(0, 0, 0);
     padding-bottom: 12pt;
+}
+
+.fair-section h2 {
+    display: none;
+
+    @media print {
+        display: block;
+    }
 }
 
 .fair-section-footer {
     margin-top: 12pt;
     font-size: 12pt;
     color: rgba(0, 0, 0, 0.5);
+    display: none;
 
     strong {
         font-weight: 600;
     }
+
+    @media print {
+        display: block;
+    }
+}
+
+/* Minimal css for clickable pure CSS collapsible tree menu */
+/* As specific as possible to prevent interference with other code */
+
+.collapsible-checkbox {
+    opacity: 0;
+    display: none;             /* checkboxes invisible and use no space */
+}                        /* display: none; is better but fails in ie8 */
+
+.collapsible-label {
+    cursor: pointer;
+}
+
+.collapsible-label:after {
+    float: right;
+    position: relative;
+    top: -2em;
+}
+
+.collapsible-checkbox:checked ~ .collapsible-label:after {
+    content: "hide";
+}
+
+.collapsible-checkbox ~ .collapsible-label:after {
+    content: "show";
+}
+
+.collapsible-checkbox ~ .fair-section-submissions > div
+{
+    display: none;         /* prevents sublists below unchecked labels from displaying */
+}
+
+.collapsible-checkbox:checked ~ .fair-section-submissions > div
+{
+    display: block;         /* display submenu on click */
 }
