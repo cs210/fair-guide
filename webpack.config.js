@@ -1,6 +1,7 @@
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
+const webpack = require('webpack');
 
 module.exports = {
     entry: "./src/js/main.js",
@@ -15,26 +16,39 @@ module.exports = {
                 // SCSS
                 test: /\.scss$/,
                 exclude: /node_modules/,
-                loader: ExtractTextPlugin.extract(['css', 'resolve-url', 'sass?sourceMap'])
+                loader: ExtractTextPlugin.extract(['css', 'sass?sourceMap'])
             }, {
                 // Standard css
                 test: /\.css$/,
-                loaders: ['style', 'css', 'resolve-url'],
+                loaders: ['style', 'css'],
             }, {
                 // Images
-                test: /\.(jpe?g|png|svg|gif)$/,
+                test: /\.(jpe?g|png|gif)$/,
                 loaders: [
                     'file?name=/images/[name].[hash].[ext]',
                     'image-webpack?optimizationLevel=7&interlaced=false'
                 ],
             }, {
-                // Fonts
-                test: /\.(eot|svg|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-                loader: 'file?name=/fonts/[name].[ext]'
+                // static files
+                test: /data/,
+                loaders: [
+                    'file?name=/data/[name].[ext]'
+                ]
             }, {
                 // Fonts
+                test: /\.(eot|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+                loader: 'file?name=/fonts/[name].[ext]'
+            }, {
+                // Handlebars
                 test: /\.handlebars?$/,
                 loader: 'handlebars-loader'
+            }, {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                loader: 'babel',
+                query: {
+                    presets: ['es2015']
+                }
             }
         ]
     },
@@ -52,7 +66,10 @@ module.exports = {
         new HtmlWebpackPlugin({
             title: 'Faire Guide',
             template: 'html!./src/index.html',
-        })
+        }),
+        new webpack.ProvidePlugin({
+            'fetch': 'imports?this=>global!exports?global.fetch!whatwg-fetch'
+        }),
     ],
     devServer: {
         stats: {
