@@ -25,19 +25,19 @@ module.exports = {
                 // Images
                 test: /images.*\.(jpe?g|png|svg|gif)$/,
                 loaders: [
-                    'file?name=/images/[name].[hash].[ext]',
+                    'file?name=./images/[name].[hash].[ext]',
                     'image-webpack?optimizationLevel=7&interlaced=false'
                 ],
             }, {
                 // static files
                 test: /data/,
                 loaders: [
-                    'file?name=/data/[name].[ext]'
+                    'file?name=data/[name].[ext]'
                 ]
             }, {
                 // Fonts
                 test: /\.(eot|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-                loader: 'file?name=/fonts/[name].[ext]'
+                loader: 'file?name=fonts/[name].[ext]'
             }, {
                 // Handlebars
                 test: /\.handlebars?$/,
