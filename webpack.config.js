@@ -23,7 +23,7 @@ module.exports = {
                 loaders: ['style', 'css'],
             }, {
                 // Images
-                test: /\.(jpe?g|png|gif)$/,
+                test: /images.*\.(jpe?g|png|svg|gif)$/,
                 loaders: [
                     'file?name=/images/[name].[hash].[ext]',
                     'image-webpack?optimizationLevel=7&interlaced=false'

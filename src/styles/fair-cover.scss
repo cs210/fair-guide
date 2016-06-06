@@ -1,3 +1,33 @@
 .fair-cover {
     page-break-after: always;
+
+    margin-bottom: 15px;
+
+    @media print {
+        margin: 0;
+    }
+}
+
+.fair-cover-banner,
+.fair-cover-page {
+    width: 100%;
+
+    @media print {
+        margin-bottom: 1in;
+    }
+}
+
+.fair-cover-banner-image {
+    @media print {
+        width: 75%;
+    }
+}
+
+.fair-cover-page-image {
+    display: none;
+
+    @media print {
+        display: block;
+        width: 75%;
+    }
 }
