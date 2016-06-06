@@ -61,6 +61,14 @@ h2 {
         bottom: 0;
         content: counter(page);
     }
+
+    a {
+        color: rgba(0, 0, 0, 0.8);
+
+        &:after {
+            content:" (" attr(href) ")";
+        }
+    }
 }
 
 @import "fair-submission";

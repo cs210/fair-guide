@@ -36,11 +36,20 @@
     display: none;
 
     @media print {
+        margin-bottom: 1in;
         display: block;
 
-        a {
+        span {
             display: block;
             font-size: 24pt;
         }
+    }
+}
+
+.fair-acknowledgements {
+    font-size: 8pt;
+
+    @media print {
+        font-size: 11pt;
     }
 }

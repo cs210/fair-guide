@@ -71,3 +71,11 @@
 {
     display: block;         /* display submenu on click */
 }
+
+.fair-guide {
+    padding-bottom: 60px;
+
+    @media print {
+        padding-bottom: 0;
+    }
+}
