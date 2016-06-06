@@ -4,7 +4,9 @@
 
     padding: 12pt 0;
     page-break-inside: avoid;
+}
 
+.fair-submission-sidebyside {
     display: flex;
     flex-direction: row;
     justify-content: space-between;

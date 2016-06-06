@@ -1,20 +1,27 @@
 <div class="fair-submission">
-    <div class="fair-submission-info">
-        <div class="fair-submission-info-class">{{class}}</div>
-        <div class="fair-submission-info-project">
-            <span class="project-name">{{project_name}}</span>
-            {{#if team_name}}
-            by <span class="team-name">{{team_name}}</span>
-            {{/if}}
+    <div class="fair-submission-sidebyside">
+        <div class="fair-submission-info">
+            <div class="fair-submission-info-class">{{class}}</div>
+            <div class="fair-submission-info-project">
+                <span class="project-name">{{project_name}}</span>
+                {{#if team_name}}
+                by <span class="team-name">{{team_name}}</span>
+                {{/if}}
+            </div>
+            <div class="fair-submission-info-summary">{{summary}}</div>
+            <div class="fair-submission-info-members">{{team_members}}</div>
         </div>
-        <div class="fair-submission-info-summary">{{summary}}</div>
-        <div class="fair-submission-info-members">{{team_members}}</div>
-    </div>
-    {{#if logo_url}}
-    <div class="fair-submission-right">
-        <div class="fair-submission-logo">
-            <img class="fair-submission-logo-image" src="{{logo_url}}">
+        {{#if logo_url}}
+        <div class="fair-submission-right">
+            <div class="fair-submission-logo">
+                <img class="fair-submission-logo-image" src="{{logo_url}}">
+            </div>
         </div>
+        {{/if}}
     </div>
-    {{/if}}
+    <div class="fair-submission-deepdive">
+        <p class="fair-submission-deepdive-text">
+            {{description}}
+        </p>
+    </div>
 </div>
