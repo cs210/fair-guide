@@ -43,6 +43,10 @@
     float: right;
     position: relative;
     top: -2em;
+
+    @media print {
+        display: none;
+    }
 }
 
 .collapsible-checkbox:checked ~ .collapsible-label:after {
@@ -56,6 +60,10 @@
 .collapsible-checkbox ~ .fair-section-submissions > div
 {
     display: none;         /* prevents sublists below unchecked labels from displaying */
+
+    @media print {
+        display: block;
+    }
 }
 
 .collapsible-checkbox:checked ~ .fair-section-submissions > div

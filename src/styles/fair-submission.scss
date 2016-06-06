@@ -60,3 +60,9 @@
         }
     }
 }
+
+.fair-submission-deepdive {
+    @media print {
+        display: none;
+    }
+}
