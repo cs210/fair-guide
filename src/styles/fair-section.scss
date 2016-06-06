@@ -39,25 +39,26 @@
     cursor: pointer;
 }
 
-.collapsible-label:after {
+.fair-section > .collapsible-label:after {
     float: right;
     position: relative;
     top: -2em;
+    color: #08f;
 
     @media print {
         display: none;
     }
 }
 
-.collapsible-checkbox:checked ~ .collapsible-label:after {
+.fair-section > .collapsible-checkbox:checked ~ .collapsible-label:after {
     content: "hide";
 }
 
-.collapsible-checkbox ~ .collapsible-label:after {
+.fair-section > .collapsible-checkbox ~ .collapsible-label:after {
     content: "show";
 }
 
-.collapsible-checkbox ~ .fair-section-submissions > div
+.fair-section > .collapsible-checkbox ~ .fair-section-submissions > div
 {
     display: none;         /* prevents sublists below unchecked labels from displaying */
 
@@ -66,7 +67,7 @@
     }
 }
 
-.collapsible-checkbox:checked ~ .fair-section-submissions > div
+.fair-section > .collapsible-checkbox:checked ~ .fair-section-submissions > div
 {
     display: block;         /* display submenu on click */
 }

@@ -19,9 +19,13 @@
         </div>
         {{/if}}
     </div>
-    <div class="fair-submission-deepdive">
-        <p class="fair-submission-deepdive-text">
-            {{description}}
-        </p>
-    </div>
+    {{#if description}}
+        <div class="fair-submission-deepdive">
+            <input type="checkbox" id="collapsible-{{id}}" class="collapsible-checkbox" />
+            <label class="collapsible-label" for="collapsible-{{id}}"></label>
+            <p class="fair-submission-deepdive-text">
+                {{description}}
+            </p>
+        </div>
+    {{/if}}
 </div>

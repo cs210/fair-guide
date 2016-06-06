@@ -25,7 +25,7 @@ function generateGuideListings(placements) {
         _.forIn(groups, (group, name) => {
             const sectionData = {
                 name: placements[name].name,
-                submissions: group
+                submissions: group.map((submission, index) => Object.assign({}, submission, { id: `${name}-${index}` }))
             }
 
             const sectionHtml = sectionTemplate(sectionData);

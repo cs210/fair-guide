@@ -31,3 +31,16 @@
         width: 75%;
     }
 }
+
+.fair-cover-mobile {
+    display: none;
+
+    @media print {
+        display: block;
+
+        a {
+            display: block;
+            font-size: 24pt;
+        }
+    }
+}

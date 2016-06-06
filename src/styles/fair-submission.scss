@@ -66,3 +66,36 @@
         display: none;
     }
 }
+
+.fair-submission-deepdive {
+    margin-top: 12pt;
+
+    & label {
+        color: #08f;
+    }
+
+    p {
+        margin: 15px -15px;
+        padding: 15px;
+
+        background-color: #eee;
+    }
+}
+
+.fair-submission-deepdive > .collapsible-checkbox ~ .collapsible-label:before {
+    content: "Show deep dive";
+}
+
+.fair-submission-deepdive > .collapsible-checkbox:checked ~ .collapsible-label:before {
+    content: "Hide deep dive";
+}
+
+.fair-submission-deepdive > .collapsible-checkbox ~ p
+{
+    display: none;         /* prevents sublists below unchecked labels from displaying */
+}
+
+.fair-submission-deepdive > .collapsible-checkbox:checked ~ p
+{
+    display: block;         /* display submenu on click */
+}
