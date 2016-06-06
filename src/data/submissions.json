@@ -1,572 +1,530 @@
-
-[
-  {
-    "class": "CS210",
-    "project_name": "Emoti",
-    "team_name": "",
-    "summary": "Teaching emotional intelligence using emotionally intelligent VR",
-    "team_members": "Steve Kim, Matthew Millett, Stephen Rice, Vinamrata Singal",
-    "description": "Emoti is an edtech product aimed at grades 5-8 that uses virtual reality (VR) to teach emotional self-recognition and regulation in order to create a personalized emotional educational experience for all. We do this through showing students VR simulations and measuring emotional response to these VR simulations using physiological signs. Stop by our booth to see all this technology in action and learn how we're creating the next generation of emotionally responsible kids!",
-    "category": "Virtual reality",
-    "logo_url": "http://imgur.com/zm0gJuF"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Helios",
-    "team_name": "Helios",
-    "summary": "ridiculously simple data integration for Unreal Engine",
-    "team_members": "Derin Dutz, Dennis Xu, Ryan Davies, Ashley Ngu",
-    "description": "Helios is a realtime backend platform enabling developers to quickly store and retrieve data from Unreal Engine. We make it effortless to externally manipulate and track variables in a live game environment using auto-generated Blueprint nodes and an accompanying API. Come check out our VR demo to see how Helios makes data sharing and collaboration across devices easier than ever.",
-    "category": "Virtual reality",
-    "logo_url": "https://raw.githubusercontent.com/cs210/Helios/master/green.png?token=AGDR1H3CqWBfTsak2qDa4vHE9oMq4RFoks5XVzndwA=="
-  },
-  {
-    "class": "CS210",
-    "project_name": "Starke",
-    "team_name": "",
-    "summary": "An app to tell you what’s hot on a night out",
-    "team_members": "Peter Farejowicz, Haiyin Wang, Milan Doshi, ChangYoung Park, Steven Qian",
-    "description": "Starke recommends places based on real-time social data. Your recommendations change with each new check-in, review, or like a place receives on social media. Now, when you search for your destination, you’re given different recommendations from one day to the next, one weekend to another, and one search to the next. Don’t waste your time on the same search results.",
-    "category": "Social and Entertainment",
-    "logo_url": "https://raw.githubusercontent.com/cs210/starke/master/Assets/logo/starke_csx.png?token=AHgxklObFFELVZ9WrlgVw8XTIOsrltgbks5XV0nnwA=="
-  },
-  {
-    "class": "CS191",
-    "project_name": "Smartspace",
-    "team_name": "Smartspace",
-    "summary": "Analytics to optimize the use of physical spaces",
-    "team_members": "Miraj Rahematpura, Austin Whittier, Sigberto Alarcon",
-    "description": "We're building a market for smart space management — providing analytics for insights on how to best use physical spaces. We're starting with workspaces, which are compelling because companies invest in workspaces to positively impact employee productivity, innovation, and satisfaction. These same companies seek out data driven decisions, but just use guessing and intuition to design workspaces. We've built a small, secure hardware device that uses computer vision to provide anonymous metrics on how employees interact with their workspace.",
-    "category": "Internet of Things",
-    "logo_url": "http://i.imgur.com/kRbBLTv.png"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Cargi",
-    "team_name": "Team Cargi",
-    "summary": "Cargi is your personalized driving assistant. Cargi integrates with your apps to provide a seamless driving experience.",
-    "team_members": "Maya Balakrishnan, Tara Balakrishnan, Emily Tang, Edwin Park, Kartik Sawhney, Ishita Prasad",
-    "description": "You have dinner with your friend at a steakhouse scheduled for 6:30 on your Calendar. You get into your car and open Cargi. Cargi automatically recognizes your event and navigates you to dinner. Cargi places the contact information of your friend on the dashboard, so you can send them your ETA."
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "You’re stuck in traffic and want to stay entertained. Cargi lets you open your favorite Music app with one tap. You’re almost at dinner when you realize you’re running low on gas. You tap Cargi’s gas button and the nearest and cheapest gas stations are immediately visible to you.\"",
-    "project_name": "Automotive",
-    "team_name": "https://drive.google.com/open?id=0B9Jtns7w2L8rRUNlRnVxX2FxSjg"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Crevice",
-    "team_name": "",
-    "summary": "Crevice is a system that utilizes drones to analyze crop health.",
-    "team_members": "Mitchell Douglass, Deeksha Goyal, Sachin Padmanabhan, Robert Fearon",
-    "description": "Crevice uses drones with specialized infrared cameras to analyze the health of photosynthesizing plants. Users can manage their fields, run missions in which the drone autonomously captures the necessary image data, and view these images on Crevice's website.",
-    "category": "Drones/Agriculture",
-    "logo_url": "https://camo.githubusercontent.com/ac302a351a6e284e69f7826f549b447f8bda7667/687474703a2f2f692e696d6775722e636f6d2f426d69586564672e6a7067"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Sparrow",
-    "team_name": "Sparrow",
-    "summary": "Environment Agnostic Drone Navigation for Search and Rescue",
-    "team_members": "Amy Bearman, Catherine Dong, Andrew Lim, Pavitra Rengarajan, Andrei Terentiev",
-    "description": "Sparrow is an environment agnostic drone navigation system with the goal of allowing drones to fly autonomously and with stability in new and dynamically changing environments. Our platform allows a drone to integrate multiple sensor inputs including GPS, motion tracking, and depth sensing techniques to localize in urban/indoor spaces. While there are many applications for our drone technology, we have focused initially on search and rescue (SAR). With our client, SAR operators can focus their searches, receive live video, and manually explore before isolating key areas to further investigate with more expensive assets such as helicopters or human search teams.",
-    "category": "Drones",
-    "logo_url": "https://drive.google.com/a/stanford.edu/file/d/0B-mJIgHeDPDqMl9aUFhQMnlELWM/view"
-  },
-  {
-    "class": "CS194",
-    "project_name": "Foxtrot",
-    "team_name": "Kale",
-    "summary": "Cross-platform team-based fitness challenges for maximized incentive via social pressure.",
-    "team_members": "Kenny Leung, Julien Kawawa-Beaudan, Lorena Huang Liu",
-    "description": "Foxtrot allows users of Fitbit & Jawbone devices to compare their activity and interact with each other through competitive fitness challenges. In addition to allowing users to connect with each other cross-platform, our application includes features such as fitness tracking and setting activity goals. In particular, this app allows users to participate in team challenges, in which users compete with other teams in fitness-based challenges. Overall, we hope that this application will encourage users of wearable devices to meet their fitness goals by connecting them to a larger circle of peers, and instilling healthy habits through fun team challenges and competitions.",
-    "category": "Health and Biotech",
-    "logo_url": "https://drive.google.com/open?id=0B0Yq8egdQL5pYWdqVkpNdklJa0k"
-  },
-  {
-    "class": "CS194",
-    "project_name": "Theratree",
-    "team_name": "Theratree",
-    "summary": "Web application to help Stanford students find therapists with relevant expertise",
-    "team_members": "James Cranston, Vanessa Friedemann, Daria Lamberson, Raymond Liu, Galina Meyer",
-    "description": "Current online therapist databases make it difficult for students to select the best therapist to suit their needs. This is particularly true when the students do not know what category their mental illnesses fall under, or feel that their ailments are not limited to one category. To amend this problem, we created Theratree, a web application using Natural Language Processing that allows students to describe their problems in their own words. It then provides students with a list of therapists ordered by relevance. Students have the option to further filter by features such as insurance and location.",
-    "category": "Social Good",
-    "logo_url": "http://i.imgur.com/uwBgkQd.jpg"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Navi",
-    "team_name": "Navi",
-    "summary": "Navi is a Google Tango mobile application that improves indoor navigation with augmented reality (AR).",
-    "team_members": "Alan Luo, Catherine Mullings,  Emma Peng, Genie Hyatt, Lucas Liu",
-    "description": "Ever felt lost looking for a store item in complex, large retailer stores or shopping malls?"
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "Navi is a Google Tango mobile application that improves indoor navigation with augmented reality (AR)."
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "Navi guides you with an AR digital route so you can confidently navigate complex",
-    "project_name": "large indoor environments and find what you are looking for.\"",
-    "team_name": "Augmented Reality",
-    "summary": "http://web.stanford.edu/~cmulling/Navi_team_logo.png"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Pathfinding in a Grid with Obstacles",
-    "team_name": "Yimo Chen",
-    "summary": "We solve a simple yet challenging pathfinding game involving a grid with walls and blocks.",
-    "team_members": "Yimo Chen",
-    "description": "We attempt to create an algorithm that can solve levels of a simple online puzzle game called Psychopath. The objective of the game is to find a path from one point to another point in a grid with obstacles in the way. We came up with a few different approaches on how to tackle the puzzle, mainly ones that involve heuristic search. Using these results, we able to successfully solve over 50 of the 71 levels.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "VisualStack",
-    "team_name": "VisualStack",
-    "summary": "Visual education tool for students learning about C, assembly, and how the stack works.",
-    "team_members": "Rachel Mellon & Helen Hastings",
-    "description": "VisualStack is designed to serve the students and instructors of CS107: Computer Organization and Systems. As such, it runs of myth and takes a source file in C, compiles it, and runs through it in gdb. Through a web interface, a user can step through the code either by source line or by assembly instruction, and see for each step the contents of each register and the current stack frame. VisualStack identifies where arguments and locals are stored and highlights changes in memory. It also allows the user to step backwards.",
-    "category": "Education",
-    "logo_url": "N/A"
-  },
-  {
-    "class": "CS191",
-    "project_name": "High dimensional intuitions: Exploring high dimensional non-linearity with word embeddings",
-    "team_name": "Keenon Werling",
-    "summary": "Studying ML model capacity, and laying out high-dimensional intuitions",
-    "team_members": "Keenon Werling",
-    "description": "Intuitions about word embedding spaces are becoming increasingly important to NLP researchers."
-  },
-  {
-    "class": "This paper lays out an intuition about the interactions between high-dimensions and non-linearity in word embeddings",
-    "project_name": "by laying out theory and empirically studying the behavior of several classifiers."
-  },
-  {
-    "class": "This leads us to a useful and counterintuitive finding that despite the large learning capacity of neural networks",
-    "project_name": "the bias for linearity introduced at every layer gives them a strong advantage over SVMs and KNNs at low data scales.\"",
-    "team_name": "Machine Learning Theory",
-    "summary": "https://avatars0.githubusercontent.com/u/2073180?v=3&s=460"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Teaching Statistical Language Generators to be Honest",
-    "team_name": "",
-    "summary": "Teaching Statistical Language Generators to be Honest",
-    "team_members": "John Miller and Kelvin Guu",
-    "description": "We study the problem of using facts in a knowledge base to generate natural language articles. Statistical language generators can automatically scale to diverse topics and writing styles, by learning from a large corpus of human-authored articles. However, such articles inevitably contain many claims which cannot be validated by any knowledge base. We present a novel neural network architecture and training objective that yields higher quality and more truthful articles, as judged by human and automated evaluation.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "BB-8 Robot",
-    "team_name": "BeepBoop-8",
-    "summary": "A robot inspired by the movie Star Wars: The Force Awakens that can explore and respond autonomously and be controlled with an iPhone",
-    "team_members": "Edric Kyauk, Timothy Lee, James Pham",
-    "description": "",
-    "category": "Software development",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Cover Four",
-    "team_name": "",
-    "summary": "A play-calling assistant for football defensive coaches that provides play-logging and real-time analysis.",
-    "team_members": "Michael Peterson",
-    "description": "Several years ago, the NFL approved the use of tablets by coaches and players during games to view footage of past plays. Following in the NFL's footsteps, in 2015 the MLB began to allow teams to use tablets for all purposes in dugouts. It is expected that soon NCAA football and NFL teams will be allowed to use tablets for any purpose during a game. With this expectation, Cover Four was designed to replace the current hand-logging of plays by coaches with a quick, streamlined interface that simultaneously provides coaches with real-time analysis gathered from both the current game and the research done prior to the game.",
-    "category": "Sports",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Exam Distributor and Monitor",
-    "team_name": "",
-    "summary": "Hosts an online exam while monitoring network traffic for honor code violations.",
-    "team_members": "Eric Theis",
-    "description": "My CS191 project both distributes electronic exams and monitors web traffic in the exam space for honor code violations. The software is deployed on Ubuntu Linux utilizing multiple wireless network interfaces. Exam distribution occurs via a simple web server and database combination. The server records which mac addresses access the exam and map SUNET IDs to said addresses. The program concurrently monitors packets in the testing environment, checking that no externally communicating mac addresses have accessed the exam (filtering out traffic to the exam distribution router).",
-    "category": "Education Technology & Network Security",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "The Chef",
-    "team_name": "Team TalkThrough",
-    "summary": "The Chef is a personal cooking assistant for the Amazon Echo that provides recipe suggestions and step-by-step hands-free guidance.",
-    "team_members": "Jordan Rodak, Alberto Huerta, Helen Fang, Nicholas Dupoux",
-    "description": "The Chef is a personal cooking assistant available in the comfort of your own home. Users are able to receive recipe recommendations and step-by-step guidance driven entirely by voice. Through the Amazon Echo, users hear steps of recipes read aloud to them and then use various voice commands to continue to the next step, repeat a step, or start a different recipe. The Chef’s catalog of recipes is also available online, where users can use more powerful search options to find recipes and save them for the next time they use the service on the Amazon Echo.",
-    "category": "Voice Assistance",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Bounding Memory Usage in RAMCloud Crash Recovery",
-    "team_name": "",
-    "summary": "I changed RAMCloud (a distributed storage system) crash recovery to use a fixed amount of memory without increasing recovery time.",
-    "team_members": "Jacqueline Speiser",
-    "description": "RAMCloud is a distributed storage system based in DRAM. Its current crash recovery mechanism uses an unbounded amount of memory, leading to out-of-memory errors on large recoveries. The system does not know how many servers will request any given replica, making it a non-trivial problem to know when memory can be freed. I bounded memory usage without incurring duplicate disk reads by using a cyclic buffer and a timer-based eviction policy based on disk read speeds.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Foodie",
-    "team_name": "Foodie",
-    "summary": "Foodie is an iOS app that makes social meals simpler, matching you with friends and a restaurant, and handling transportation."
-  },
-  {
-    "class": ",John Louie",
-    "project_name": "Catherine Mullings",
-    "team_name": "Nick Troccoli\"",
-    "summary": "Foodie’s goal is to help people meet over food. Eating out is one of the most common social activities, yet people tend to have a hard time finding people with whom to go out, and picking a place to go. Foodie is an iOS app that helps with this by connecting you with other users looking for a bite to eat, finding a restaurant everyone will love, and even making a reservation for you and taking you to and from the restaurant, all at the touch of a button. Foodie can be used to either eat out with just your friends, or eat out with other users you have never met before.",
-    "team_members": "Social and Entertainment",
-    "description": "http://web.stanford.edu/~cmulling/Foodie_logo_software_fair.jpg"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Shelf Height Optimizer",
-    "team_name": "Kolibri Techologies",
-    "summary": "Optimization and computer vision to better pack warehouse shelves",
-    "team_members": "Nishant Karandikar, Carla Remulla, Jack Zhu, Paul Quigley, Ralph Ma",
-    "description": "Goods of every sector move through thousands of warehouses in the U.S. Distributors record troves of data – order- and shipment-level information, aggregate measures of product movement, etc. – but don’t analyze it to pack warehouses more tightly. We combine existing data with computer vision techniques and mathematical optimization in a web application (built with Flux, React, Node, and various Python libraries) to compute and display optimal warehouse shelf configurations.",
-    "category": "Business and commerce",
-    "logo_url": "http://puu.sh/pdFHG/2ad951c11e.png"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Protein-Specific Chromatin Loops Reveal Principles of Gene Regulation",
-    "team_name": "",
-    "summary": "Three-dimensional interactions between active regions of DNA are a new layer of gene regulation.",
-    "team_members": "Brian Do",
-    "description": "",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Energy Portal",
-    "team_name": "energy-portal",
-    "summary": "We provide a complete energy usage profile for our users grading them against community and national standards.",
-    "team_members": "Yash Savani, Matt Stevens, Seokho Hong, Brian Wai",
-    "description": "Energy Portal provides an educational service to citizens, policy makers, and organizations who are interested in energy consumption patterns in the United States. We designed a model built with robust machine learning techniques that will show you how your energy consumption compares to others and how your community fits into the national patterns of energy consumption.",
-    "category": "Energy",
-    "logo_url": "http://s33.postimg.org/ojeura78v/favicon.png"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping",
-    "team_name": "",
-    "summary": "A deep transfer learning approach to the data-poor poverty mapping problem in Africa using CNNs.",
-    "team_members": "Michael Xie, Neal Jean, Marshall Burke, David Lobell, Stefano Ermon",
-    "description": "In developing countries, poverty data is scarce and labor-intensive to obtain. However, remote sensing data is increasingly large-scale and economical. We extract socioeconomic indicators from satellite imagery using a transfer learning approach where nighttime light intensities is a data-rich proxy. We train a fully convolutional CNN model to predict nighttime lights from daytime imagery, simultaneously learning features useful for poverty prediction. The model learns filters identifying terrains and man-made structures without supervision beyond nighttime lights. These features are informative for poverty mapping, approaching the predictive performance of survey data from the field.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Generative Adversarial Networks for Robust Single-View Reconstruction",
-    "team_name": "",
-    "summary": "We investigate the application of Generative Adversarial Networks (GANs) for 3D-Reconstruction from 2D images.",
-    "team_members": "Amani V. Peddada",
-    "description": "In this project, we present the first approach to apply Generative Adversarial Networks to the task of single-view 3D-reconstruction. This task is remarkably difficult since three-dimensional information is inherently lost in the conversion from world coordinates to the image plane. We investigate whether integrating feedback from a discriminative model, which can distinguish between valid and artificial reconstructions, can enhance the overall quality of the reconstructions produced by a convolutional generator. Our results are promising, and demonstrate that GANs might be useful in a variety of similar computer vision contexts.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Deep Tutor",
-    "team_name": "",
-    "summary": "We used recurrent neural networks to build an autonomous \"deep\" tutor to train on a synthetic dataset of students.",
-    "team_members": "Raymond Wu, Karen Wang",
-    "description": "",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Nosko",
-    "team_name": "Devon",
-    "summary": "A tool for thought",
-    "team_members": "Devon Zuegel",
-    "description": "",
-    "category": "Research",
-    "logo_url": "http://i.imgur.com/iMhLT1u.png"
-  },
-  {
-    "class": "CS210",
-    "project_name": "History Class 2.0",
-    "team_name": "Patrick O'Grady CS211 Makeup",
-    "summary": "Wonder what education will be like in the future? Come check out history class 2.0",
-    "team_members": "Patrick O'Grady",
-    "description": "My education experience always left something to be desired. This is that desire. In this VR experience, I rethought the way the Battle of Cannae could be taught in middle school. With a balance of video media and an impersonation of Hannibal, the player gets a deeper understanding of the magnitude of the battle as well as the talent of Hannibal.",
-    "category": "Virtual reality",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Traffic Signal Timing   Routing Apps",
-    "team_name": "Andrew Aude",
-    "summary": "If apps like Google Maps were aware of exact stoplight timings, how much better could the routes be?",
-    "team_members": "Andrew Aude",
-    "description": "I built a microsimulation for iPad that simulates a traffic grid with various signal timing models. I also modified the Dijkstra shortest path algorithm  to take signal timing into account. With the simulation, I was able to measure overall throughput and end-to-end delays. The results showed promise for bridging traffic light timings to routing applications.",
-    "category": "Civil Infrastructure",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Development of an Algorithm for Autonomous Scientific Sampling with the VALKYRIE Cryobot",
-    "team_name": "Evan Clark",
-    "summary": "Development and analysis of an algorithm enabling autonomous science capabilities on a glacier penetrating robot",
-    "team_members": "Evan Clark",
-    "description": "VALKYRIE is a prototype cryobot (ice penetrating robot) developed for NASA by Stone Aerospace for exploration of icy-worlds such as Europa or Enceladus. VALKYRIE was deployed to the Matanuska glacier in Alaska during the summer 2014 and 2015 field seasons, and conducted a series of missions that penetrated into the glacier to demonstrate novel cryobot technology and gather scientific data. On Europa or Enceladus, light time delays will prevent real time command of the robot by mission control, so onboard autonomous science capabilities will be necessary. Here we present an algorithm for intelligently collecting water samples during the descent when the environment is unknown a priori.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Lollipop",
-    "team_name": "",
-    "summary": "Lollipop is a pseudocode to source code translator implemented as a web app.",
-    "team_members": "Lachlan Busby, Nicole Crawford, Emre Orbay",
-    "description": "Lollipop is a pseudocode-to-source-code compiler with a web interface, as well as a new paradigm for compiler construction. Unlike previous compilers, we do not define a syntax for a new programming language, and instead use machine learning and probabilistic parsing to infer the syntax and semantics of the input pseudocode. Lollipop is targeted at computer science students and aims to help students to get a better grasp of complex algorithms by translating abstract pseudocode into source code that can be more readily understood and interacted with. Our approach parses the pseudocode into an abstract syntax tree that can be used to produce code in many different languages.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Crowdsourcing and Activism",
-    "team_name": "",
-    "summary": "Proof of concept for crowdsourcing activist-targeted news.",
-    "team_members": "Shabnum (Sukhi) Gulati, Mason Stricklin-Elam, Raymond Luong",
-    "description": "",
-    "category": "Social Good",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Power Parrot",
-    "team_name": "RAM",
-    "summary": "Power Parrot is an electronic device monitoring system letting you get accurate device usage updates to your phone.",
-    "team_members": "Ambika Acharya, Michael Maduabum, Ruben Rodriguez Buchillon",
-    "description": "Power Parrot is a text-driven service meant as a proof of concept for light-weight device usage updates. Imagine shared devices - be it a dorm laundry machine or television, an office coffee maker, or the living-room Playstation. Currently built using wemo-switches, and a software-driven home-hub, Power Parrot enables you to follow a particular device and get notified when its usage changes. modular design allows to me incorporated with the devices already in use. Start the laundry, and get a text once its done. Check if the dorm-TV is in use. Or get notified once the coffee maker is done making your latte. Its",
-    "category": "Internet of Things",
-    "logo_url": "http://imgur.com/rNGbrGk"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Mobile Deep Learning for Skin Lesion Classification",
-    "team_name": "",
-    "summary": "iOS-based platforms for physicians to gather training data and use a deep-learning based system for skin lesion classification.",
-    "team_members": "Catherine Wong, Caroline Frost, Andre Esteva, Brett Kuprel, Sebastian Thrun",
-    "description": "",
-    "category": "Health and Biotech",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Prediction and Characterization of Disease-Gene Associations",
-    "team_name": "",
-    "summary": "Predicting new genes associated with a disease phenotype, and characterizing the network structure of disease pathways.",
-    "team_members": "Monica Agrawal",
-    "description": "",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Congressionalist",
-    "team_name": "",
-    "summary": "A web app to provide easy access to information about your congressional district and representative.",
-    "team_members": "Ben Isaacs",
-    "description": "",
-    "category": "Social Good",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Teen Screen",
-    "team_name": "",
-    "summary": "Screening tool application for detecting early warning signs of various mental illnesses in adolescents.",
-    "team_members": "Piper Keyes, Stephany Liu, Kevin Zhai, Eli Shayer, Grace Hong, Angela Kong",
-    "description": "Teen Screen is a newly developed web application rebooting an old mental health screening questionnaire for large-scale use in high schools across the nation. School administrators may register their students to complete the ~120 question survey, receive immediate feedback regarding at-risk individuals, and generate reports for their students. An administrator may customize the disorders for which he would like to screen his students. This project is part of the umbrella organization of CS   Mental Health, and under the direction of Dr. Adelsheim.",
-    "category": "Health and Biotech",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Tied Together",
-    "team_name": "",
-    "summary": "Multiplayer exploratory/competitive game. Twist - you're attached by a rope to another player, so coordinate and strategize wisely!",
-    "team_members": "Gus, Lingtong, Anthony, Justin, Jonathan",
-    "description": "Competitive and collaborative multiplayer game where you explore the map, collect items that boost stats, and play a fun minigame at the end that includes a maze, bumper cars, and more. However, you'll always be attached by a rope to another player, so coordinate and strategize wisely! The game has 2 stages. First is an open world phase to obtain items and learn the map layout. Second is a shorter minigame, usually competitive, where item effects carry over. The main goal of the game is to try things, learn about the game, and communicate with others!",
-    "category": "Video game",
-    "logo_url": ""
-  },
-  {
-    "class": "CS210",
-    "project_name": "Smart Hotel by CheckIn",
-    "team_name": "CheckIn",
-    "summary": "Check in, unlock, and control your hotel room’s smart devices without ever visiting the front desk -- all through your personal smartphone.",
-    "team_members": "Emeline Wu, Lucy Wang, Minna Xiao, Justin Meier, Louis Brion",
-    "description": "How many times have you waited in line at 3pm check-in to get your room keycard? CheckIn is a smart hotel solution that allows guests to check into and unlock their hotel room with their smartphone, without ever visiting the front desk. Guests can control the smart devices in their room using their smartphone, from the inside or outside. CheckIn - your hotel stay, reimagined.",
-    "category": "Internet of Things",
-    "logo_url": "https://drive.google.com/open?id=0B8FfCFBtf8JnWEtVRktTRFk4aE0"
-  },
-  {
-    "class": "CS210",
-    "project_name": "Soterya",
-    "team_name": "Soterya",
-    "summary": "A platform for sharing access to vehicles using biometrics as an authentication mechanism",
-    "team_members": "Zachary Zapata, William Kim, Jia Wen, Jordan Duprey, Christina Gilbert",
-    "description": "We allow users to use their fingerprints to unlock their vehicles. We built a platform to allow users to manage who has fingerprint access to their vehicles. Users can request fingerprint access to vehicles owned by their contacts, or give fingerprint access to vehicles they own to any of their contacts. Users can choose to authorize access to their vehicles without constraints, or can restrict authorization to certain dates, times of day, or geographic regions.",
-    "category": "Automotive",
-    "logo_url": "https://github.com/cs210/soterya/blob/master/Photos/Logo/LogoShadow300x300.png"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Intercess",
-    "team_name": "",
-    "summary": "An application that facilitates prayer through quick scheduling and management features, easy access to resources, and peer support.",
-    "team_members": "Adrienne Ivey",
-    "description": "",
-    "category": "Productivity",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Nooz",
-    "team_name": "Nooz",
-    "summary": "News consumption platform for following news curators who filter and post content, making reading the news more relevant and time-efficient",
-    "team_members": "Kirby Gee, Alice Hau, Matthew Leong",
-    "description": "Nooz is a news consumption platform oriented around following news curators you trust to filter through the plethora of news and post what they read to stay informed on a daily basis. The platform is geared toward creating a community of experts including politicians, venture capitalists, artists, etc., who avidly read news every day as part of their profession or hobby and have followers interested in consuming the same content. Instead of reading through Flipboard or Facebook, read through the lenses of Marc Andreessen, Bill Gates, Donald Trump, and others!",
-    "category": "Social and Entertainment",
-    "logo_url": "http://web.stanford.edu/~alicehau/Nooz-logo.png"
-  },
-  {
-    "class": "CS194",
-    "project_name": "Settlers Of Catan Implementation and AI",
-    "team_name": "",
-    "summary": "An implementation of Settlers of Catan, with an AI opponent",
-    "team_members": "David Beam, Matt Fernandez, Ben Limonchik, Mark Schramm, Ben Ulmer",
-    "description": "",
-    "category": "Social and Entertainment",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Chronobyt.es",
-    "team_name": "Birdsall, Fang, Mizumoto",
-    "summary": "Decentralized document timestamping with the blockchain",
-    "team_members": "Eric Birdsall, Dennis Fang, Weston Mizumoto",
-    "description": "Chronobyt.es is a web application that publishes a document hash to the Bitcoin blockchain, allowing users to prove the existence of data at a particular point in time. The Bitcoin network is a distributed consensus protocol, and provides support for transactions which include arbitrary data. Our web application takes payment and a file from the user, and submits the file hash in this arbitrary data field to the Bitcoin blockchain. Because Bitcoin blocks have known generation times and are publicly available, users can prove without a trusted authority that they had possession of this file at a particular point in time.",
-    "category": "Software development",
-    "logo_url": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Nebula",
-    "team_name": "Photopology",
-    "summary": "Easily go through all those similar photos and select your favorites.",
-    "team_members": "Paula Kusumaputri, Vishesh Gupta, Alex Richards",
-    "description": "Have you ever sat down after a family trip to go through your photos, only to see something like:"
-  },
-  {
-    "class": "A photo of a forest",
-    "project_name": "a photo of your family in front of the forest",
-    "team_name": "another photo of your family in front of the forest",
-    "summary": "a photo of something completely unrelated",
-    "team_members": "another forest photo..."
-  },
-  {
-    "class": "It's tricky to select your favorite forest photo",
-    "project_name": "since they're not next to each other for you to easily compare."
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "We've solved this problem by writing a desktop app that clusters your photos for you. Then",
-    "project_name": "you can go through the groups",
-    "team_name": "select your favorite",
-    "summary": "and discard the rest!\"",
-    "team_members": "Social and Entertainment",
-    "description": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "TwoTravel",
-    "team_name": "TwoTravel",
-    "summary": "A website that helps people find travel partners.",
-    "team_members": "Connie Zeng, Alan Zhao, Larry Lam",
-    "description": "TwoTravel is a website for individuals to meet new faces while out traveling. With frequent job changes, relocations, and busy lifestyles making it difficult to have a go-to travel partner, TwoTravel allows travelers to make friends on the go. Based on travel plans and common interests, our service suggests a list of potential matches. Users can then look at user profiles and feedback from past travel partners to help finalize their decisions. This streamlined tool for finding a companion gives travelers more freedom to explore new places, while also enhancing their experiences during their trip."
-  },
-  {
-    "class": ",Social and Entertainment,"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Learning How Students Learn",
-    "team_name": "Deep Knowledge Tracing",
-    "summary": "How do students’ learning progress as they write code? We use recurrent neural nets to model students and aim to provide automated feedback.",
-    "team_members": "Lisa Wang, Angela Sy, Larry Liu",
-    "description": "With hundreds of online courses available today, educators around the world can now reach millions of students. To help students learn even more effectively online, how might we provide personalized feedback to each student?"
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "Our project focuses on “Knowledge Tracing” which models students’ understanding as they learn new concepts. This has been done for binary problems (which have yes or no answers)",
-    "project_name": "but not for open-ended questions. We use a data set from code.org",
-    "team_name": "an online platform that teaches anyone how to code through a series of coding challenges. We train deep recurrent neural networks (RNNs) to predict each student’s next piece of code in solving a particular coding challenge. \"",
-    "summary": "Social Good",
-    "team_members": ""
-  },
-  {
-    "class": "CS194",
-    "project_name": "Bingo for the Classroom",
-    "team_name": "Team Nearpod",
-    "summary": "Interactive, educational Bingo game that can be integrated into Nearpod presentations for the classroom",
-    "team_members": "Rachel Grau, Julianna Lamb, Madeleine Bayer",
-    "description": "Many teachers have expressed that they want to include educational games in their Nearpod presentations, a feature that Nearpod does not yet provide. We created an educational Bingo game for Nearpod’s platform using Nearpod’s API. Bingo could ultimately be integrated into Nearpod and fulfill many teachers’ expressed desire for a game."
-  },
-  {
-    "class": ""
-  },
-  {
-    "class": "We chose Bingo as our educational game because it enables teachers to have a large degree of flexibility in what kinds of material they teach using the application. Bingo can be applied to math",
-    "project_name": "science",
-    "team_name": "vocabulary",
-    "summary": "or any subject. It is also engaging and fun for students and easy to create for teachers.\"",
-    "team_members": "Education",
-    "description": "https://docs.google.com/document/d/1CAjm4RxQBW6YC3e0vgng0VlCCMB46MxGocdEcAcEd3c/edit?usp=sharing"
-  },
-  {
-    "class": "CS191",
-    "project_name": "Schizophrenia Speech Detection",
-    "team_name": "",
-    "summary": "Building a coherence model to detect schizophrenia speech",
-    "team_members": "Nadav Lidor",
-    "description": "Schizophrenia is commonly associated with incoherent speech. In this project, I used neural word embeddings to determine the coherence level of dialogue, to enable an automated diagnosis of schizophrenia, currently executed manual and subjectively by clinicians.",
-    "category": "Research",
-    "logo_url": ""
-  },
-  {
-    "class": "CS191",
-    "project_name": "Contact robotics",
-    "team_name": "",
-    "summary": "Programmed a robot to complete robust surface alignment as well as a GUI feature",
-    "team_members": "TJ Melanson, Robert Sun",
-    "description": "",
-    "category": "Robotics",
-    "logo_url": ""
-  }
-]
+{
+    "submissions": [
+        {
+            "class": "CS194",
+            "project_name": "BB-8 Robot",
+            "team_name": "BeepBoop-8",
+            "summary": "A robot inspired by the movie Star Wars: The Force Awakens that can explore and respond autonomously and be controlled with an iPhone",
+            "team_members": "Edric Kyauk, Timothy Lee, James Pham",
+            "description": "",
+            "placement": "arcade",
+            "logo_url": ""
+        },
+        {
+            "class": "CS210",
+            "project_name": "Cargi",
+            "summary": "Cargi is your personalized driving assistant. Cargi integrates with your apps to provide a seamless driving experience.",
+            "team_members": "Maya Balakrishnan, Tara Balakrishnan, Emily Tang, Edwin Park, Kartik Sawhney, Ishita Prasad",
+            "description": "You have dinner with your friend at a steakhouse scheduled for 6:30 on your Calendar. You get into your car and open Cargi. Cargi automatically recognizes your event and navigates you to dinner. Cargi places the contact information of your friend on the dashboard, so you can send them your ETA.\n\nYou’re stuck in traffic and want to stay entertained. Cargi lets you open your favorite Music app with one tap. You’re almost at dinner when you realize you’re running low on gas. You tap Cargi’s gas button and the nearest and cheapest gas stations are immediately visible to you.",
+            "placement": "arcade",
+            "logo_url": "http://i.imgur.com/KtZQmas.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Ginger",
+            "team_name": "Kyros",
+            "summary": "Ginger empowers you to cook healthy and cheap. We help you select tasty recipes and guide you step-by-step through the cooking process. ",
+            "team_members": "Jessie Alvarez; Varun Gupta; Nadav Hollander; Whitney LaRow; Vijay Singh",
+            "description": "Ginger is your personal sous chef. By leveraging smartwatch technology, Ginger provides users with a hassle-free cooking experience. With Ginger, users can pick out their next meals and snacks from a curated list of healthy, inexpensive, and tasty recipes. For any recipe, the Ginger smartwatch app guides the user step-by-step through the cooking process. To make life easy, Ginger lets the user navigate hands-free through the instructions using simple gestures. Ginger can also show users how to complete a step, such as mincing some garlic, and set timed notifications for actions like baking in an oven.",
+            "placement": "arcade",
+            "logo_url": "http://i.imgur.com/VN9dvqd.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Soterya",
+            "summary": "A platform for sharing access to vehicles using biometrics as an authentication mechanism",
+            "team_members": "Zachary Zapata, William Kim, Jia Wen, Jordan Duprey, Christina Gilbert",
+            "description": "We allow users to use their fingerprints to unlock their vehicles. We built a platform to allow users to manage who has fingerprint access to their vehicles. Users can request fingerprint access to vehicles owned by their contacts, or give fingerprint access to vehicles they own to any of their contacts. Users can choose to authorize access to their vehicles without constraints, or can restrict authorization to certain dates, times of day, or geographic regions.",
+            "placement": "arcade",
+            "logo_url": "https://raw.githubusercontent.com/cs210/soterya/master/Photos/Logo/LogoShadow300x300.png?token=ABBxkMdKZ8HW1xuENAK7jPIqsnE8K8RSks5XXiiQwA%3D%3D"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Sparrow",
+            "summary": "Environment Agnostic Drone Navigation for Search and Rescue",
+            "team_members": "Amy Bearman, Catherine Dong, Andrew Lim, Pavitra Rengarajan, Andrei Terentiev",
+            "description": "Sparrow is an environment agnostic drone navigation system with the goal of allowing drones to fly autonomously and with stability in new and dynamically changing environments. Our platform allows a drone to integrate multiple sensor inputs including GPS, motion tracking, and depth sensing techniques to localize in urban/indoor spaces. While there are many applications for our drone technology, we have focused initially on search and rescue (SAR). With our client, SAR operators can focus their searches, receive live video, and manually explore before isolating key areas to further investigate with more expensive assets such as helicopters or human search teams.",
+            "placement": "arcade",
+            "logo_url": "http://i.imgur.com/2fXIqpc.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Crevice",
+            "summary": "Crevice is a system that utilizes drones to analyze crop health.",
+            "team_members": "Mitchell Douglass, Deeksha Goyal, Sachin Padmanabhan, Robert Fearon",
+            "description": "Crevice uses drones with specialized infrared cameras to analyze the health of photosynthesizing plants. Users can manage their fields, run missions in which the drone autonomously captures the necessary image data, and view these images on Crevice's website.",
+            "placement": "arcade",
+            "logo_url": "https://camo.githubusercontent.com/ac302a351a6e284e69f7826f549b447f8bda7667/687474703a2f2f692e696d6775722e636f6d2f426d69586564672e6a7067"
+        },
+        {
+            "class": "CS194",
+            "project_name": "The Chef",
+            "team_name": "Team TalkThrough",
+            "summary": "The Chef is a personal cooking assistant for the Amazon Echo that provides recipe suggestions and step-by-step hands-free guidance.",
+            "team_members": "Jordan Rodak, Alberto Huerta, Helen Fang, Nicholas Dupoux",
+            "description": "The Chef is a personal cooking assistant available in the comfort of your own home. Users are able to receive recipe recommendations and step-by-step guidance driven entirely by voice. Through the Amazon Echo, users hear steps of recipes read aloud to them and then use various voice commands to continue to the next step, repeat a step, or start a different recipe. The Chef’s catalog of recipes is also available online, where users can use more powerful search options to find recipes and save them for the next time they use the service on the Amazon Echo.",
+            "placement": "arcade",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Disqo",
+            "summary": "The social music platform to generate curated playlists for groups",
+            "team_members": "Peter Doyle, Aditya Ramakrishnen, Jared Wolens, Eric Holmdahl, Max Flores",
+            "description": "Disqo allows users to create groups and services those groups with curated playlists based on the musical preferences of its members. Thus Disqo integrates machine learning to give the power of the DJ to the whole group instead of concentrating it in a single person. Furthermore, all group playlists are public to all Disqo users, allowing anyone to get a taste for what others are listening to.",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Foodie",
+            "summary": "Foodie is an iOS app that makes social meals simpler, matching you with friends and a restaurant, and handling transportation.\n",
+            "team_members": "John Louie, Catherine Mullings, Nick Troccoli",
+            "description": "Foodie’s goal is to help people meet over food. Eating out is one of the most common social activities, yet people tend to have a hard time finding people with whom to go out, and picking a place to go. Foodie is an iOS app that helps with this by connecting you with other users looking for a bite to eat, finding a restaurant everyone will love, and even making a reservation for you and taking you to and from the restaurant, all at the touch of a button. Foodie can be used to either eat out with just your friends, or eat out with other users you have never met before.",
+            "placement": "consumer",
+            "logo_url": "http://web.stanford.edu/~cmulling/Foodie_logo_software_fair.jpg"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Intercess",
+            "summary": "An application that facilitates prayer through quick scheduling and management features, easy access to resources, and peer support.",
+            "team_members": "Adrienne Ivey",
+            "description": "",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Nebula",
+            "team_name": "Photopology",
+            "summary": "Easily go through all those similar photos and select your favorites.",
+            "team_members": "Paula Kusumaputri, Vishesh Gupta, Alex Richards",
+            "description": "Have you ever sat down after a family trip to go through your photos, only to see something like:\nA photo of a forest, a photo of your family in front of the forest, another photo of your family in front of the forest, a photo of something completely unrelated, another forest photo... \nIt's tricky to select your favorite forest photo, since they're not next to each other for you to easily compare.\n\nWe've solved this problem by writing a desktop app that clusters your photos for you. Then, you can go through the groups, select your favorite, and discard the rest!",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Nooz",
+            "summary": "News consumption platform for following news curators who filter and post content, making reading the news more relevant and time-efficient",
+            "team_members": "Kirby Gee, Alice Hau, Matthew Leong",
+            "description": "Nooz is a news consumption platform oriented around following news curators you trust to filter through the plethora of news and post what they read to stay informed on a daily basis. The platform is geared toward creating a community of experts including politicians, venture capitalists, artists, etc., who avidly read news every day as part of their profession or hobby and have followers interested in consuming the same content. Instead of reading through Flipboard or Facebook, read through the lenses of Marc Andreessen, Bill Gates, Donald Trump, and others!",
+            "placement": "consumer",
+            "logo_url": "http://web.stanford.edu/~alicehau/Nooz-logo.png"
+        },
+        {
+            "class": "CS194",
+            "project_name": "Settlers Of Catan Implementation and AI",
+            "summary": "An implementation of Settlers of Catan, with an AI opponent",
+            "team_members": "David Beam, Matt Fernandez, Ben Limonchik, Mark Schramm, Ben Ulmer",
+            "description": "",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS210",
+            "project_name": "Starke",
+            "summary": "An app to tell you what’s hot on a night out",
+            "team_members": "Peter Farejowicz, Haiyin Wang, Milan Doshi, ChangYoung Park, Steven Qian",
+            "description": "Starke recommends places based on real-time social data. Your recommendations change with each new check-in, review, or like a place receives on social media. Now, when you search for your destination, you’re given different recommendations from one day to the next, one weekend to another, and one search to the next. Don’t waste your time on the same search results.",
+            "placement": "consumer",
+            "logo_url": "https://raw.githubusercontent.com/cs210/starke/master/Assets/logo/starke_csx.png?token=AHgxklObFFELVZ9WrlgVw8XTIOsrltgbks5XV0nnwA%3D%3D"
+        },
+        {
+            "class": "CS194",
+            "project_name": "Tied Together",
+            "summary": "Multiplayer exploratory/competitive game. Twist - you're attached by a rope to another player, so coordinate and strategize wisely!",
+            "team_members": "Gus, Lingtong, Anthony, Justin, Jonathan",
+            "description": "Competitive and collaborative multiplayer game where you explore the map, collect items that boost stats, and play a fun minigame at the end that includes a maze, bumper cars, and more. However, you'll always be attached by a rope to another player, so coordinate and strategize wisely! The game has 2 stages. First is an open world phase to obtain items and learn the map layout. Second is a shorter minigame, usually competitive, where item effects carry over. The main goal of the game is to try things, learn about the game, and communicate with others!",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "TwoTravel",
+            "summary": "A website that helps people find travel partners.",
+            "team_members": "Connie Zeng, Alan Zhao, Larry Lam",
+            "description": "TwoTravel is a website for individuals to meet new faces while out traveling. With frequent job changes, relocations, and busy lifestyles making it difficult to have a go-to travel partner, TwoTravel allows travelers to make friends on the go. Based on travel plans and common interests, our service suggests a list of potential matches. Users can then look at user profiles and feedback from past travel partners to help finalize their decisions. This streamlined tool for finding a companion gives travelers more freedom to explore new places, while also enhancing their experiences during their trip.\n",
+            "placement": "consumer",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Bingo for the Classroom",
+            "team_name": "Team Nearpod",
+            "summary": "Interactive, educational Bingo game that can be integrated into Nearpod presentations for the classroom",
+            "team_members": "Rachel Grau, Julianna Lamb, Madeleine Bayer",
+            "description": "Many teachers have expressed that they want to include educational games in their Nearpod presentations, a feature that Nearpod does not yet provide. We created an educational Bingo game for Nearpod’s platform using Nearpod’s API. Bingo could ultimately be integrated into Nearpod and fulfill many teachers’ expressed desire for a game.\n\nWe chose Bingo as our educational game because it enables teachers to have a large degree of flexibility in what kinds of material they teach using the application. Bingo can be applied to math, science, vocabulary, or any subject. It is also engaging and fun for students and easy to create for teachers.",
+            "placement": "education",
+            "logo_url": "http://i.imgur.com/EiOGEQW.png"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Deep Tutor",
+            "summary": "We used recurrent neural networks to build an autonomous \"deep\" tutor to train on a synthetic dataset of students.",
+            "team_members": "Raymond Wu, Karen Wang",
+            "description": "",
+            "placement": "education",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Exam Distributor and Monitor",
+            "summary": "Hosts an online exam while monitoring network traffic for honor code violations.",
+            "team_members": "Eric Theis",
+            "description": "My CS191 project both distributes electronic exams and monitors web traffic in the exam space for honor code violations. The software is deployed on Ubuntu Linux utilizing multiple wireless network interfaces. Exam distribution occurs via a simple web server and database combination. The server records which mac addresses access the exam and map SUNET IDs to said addresses. The program concurrently monitors packets in the testing environment, checking that no externally communicating mac addresses have accessed the exam (filtering out traffic to the exam distribution router).",
+            "placement": "education",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Learning How Students Learn",
+            "team_name": "Deep Knowledge Tracing",
+            "summary": "How do students’ learning progress as they write code? We use recurrent neural nets to model students and aim to provide automated feedback.",
+            "team_members": "Lisa Wang, Angela Sy, Larry Liu",
+            "description": "With hundreds of online courses available today, educators around the world can now reach millions of students. To help students learn even more effectively online, how might we provide personalized feedback to each student? \n\nOur project focuses on “Knowledge Tracing” which models students’ understanding as they learn new concepts. This has been done for binary problems (which have yes or no answers), but not for open-ended questions. We use a data set from code.org, an online platform that teaches anyone how to code through a series of coding challenges. We train deep recurrent neural networks (RNNs) to predict each student’s next piece of code in solving a particular coding challenge. ",
+            "placement": "education",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "VisualStack",
+            "summary": "Visual education tool for students learning about C, assembly, and how the stack works.",
+            "team_members": "Rachel Mellon & Helen Hastings",
+            "description": "VisualStack is designed to serve the students and instructors of CS107: Computer Organization and Systems. As such, it runs of myth and takes a source file in C, compiles it, and runs through it in gdb. Through a web interface, a user can step through the code either by source line or by assembly instruction, and see for each step the contents of each register and the current stack frame. VisualStack identifies where arguments and locals are stored and highlights changes in memory. It also allows the user to step backwards.",
+            "placement": "education",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "CiteGraph",
+            "summary": "A visual representation of research papers to better understand their relationships.",
+            "team_members": "Malina Jiang, Evan Lin, Colin Man, Alfred Xue, Spencer Yee",
+            "description": "Citegraph is a product that uses citations and keywords to help researchers visualize how papers interact with each other. Unlike traditional views of research papers, Citegraph focuses on the connections between papers. It gives researchers the opportunity to filter papers by topics, and allows them to narrow their search of related papers in a meaningful way. ",
+            "placement": "enterprise",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Congressionalist",
+            "summary": "A web app to provide easy access to information about your congressional district and representative.",
+            "team_members": "Ben Isaacs",
+            "description": "",
+            "placement": "enterprise",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Cover Four",
+            "summary": "A play-calling assistant for football defensive coaches that provides play-logging and real-time analysis.",
+            "team_members": "Michael Peterson",
+            "description": "Several years ago, the NFL approved the use of tablets by coaches and players during games to view footage of past plays. Following in the NFL's footsteps, in 2015 the MLB began to allow teams to use tablets for all purposes in dugouts. It is expected that soon NCAA football and NFL teams will be allowed to use tablets for any purpose during a game. With this expectation, Cover Four was designed to replace the current hand-logging of plays by coaches with a quick, streamlined interface that simultaneously provides coaches with real-time analysis gathered from both the current game and the research done prior to the game.",
+            "placement": "enterprise",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Crowdsourcing and Activism",
+            "summary": "Proof of concept for crowdsourcing activist-targeted news.",
+            "team_members": "Shabnum (Sukhi) Gulati, Mason Stricklin-Elam, Raymond Luong",
+            "description": "",
+            "placement": "enterprise",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Energy Portal",
+            "summary": "We provide a complete energy usage profile for our users grading them against community and national standards.",
+            "team_members": "Yash Savani, Matt Stevens, Seokho Hong, Brian Wai",
+            "description": "Energy Portal provides an educational service to citizens, policy makers, and organizations who are interested in energy consumption patterns in the United States. We designed a model built with robust machine learning techniques that will show you how your energy consumption compares to others and how your community fits into the national patterns of energy consumption.",
+            "placement": "enterprise",
+            "logo_url": "http://s33.postimg.org/ojeura78v/favicon.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Facet",
+            "team_name": "Team Hokusai",
+            "summary": "Meetings made more effective. ",
+            "team_members": "Luda Zhao, Vivian Hare, Bryan Anenberg, Dylan Moore, Gaspar Garcia",
+            "description": "Facet Echo integrates seamlessly with the Amazon Echo to provide real-time assistance during meetings. Just say, “Facet”!, followed by what you want to do. Features include meeting bookmarking, action items capture, and automatic “are we on track” notifications that help teams stay focused. \n\nFacet Dashboard aggregates and present meetings in an easy-to-use graphical UI. The collected bookmarks, actions items, and text transcription are laid out temporally for easy access. We also surfaces more advanced metrics such as “social tones” scores and “energy” scores for managers to manage their meetings more effectively. ",
+            "placement": "enterprise",
+            "logo_url": "http://i.imgur.com/fKkyBjP.png?1"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Shelf Height Optimizer",
+            "team_name": "Kolibri Techologies",
+            "summary": "Optimization and computer vision to better pack warehouse shelves",
+            "team_members": "Nishant Karandikar, Carla Remulla, Jack Zhu, Paul Quigley, Ralph Ma",
+            "description": "Goods of every sector move through thousands of warehouses in the U.S. Distributors record troves of data – order- and shipment-level information, aggregate measures of product movement, etc. – but don’t analyze it to pack warehouses more tightly. We combine existing data with computer vision techniques and mathematical optimization in a web application (built with Flux, React, Node, and various Python libraries) to compute and display optimal warehouse shelf configurations.",
+            "placement": "enterprise",
+            "logo_url": "http://puu.sh/pdFHG/2ad951c11e.png"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Traffic Signal Timing + Routing Apps",
+            "summary": "If apps like Google Maps were aware of exact stoplight timings, how much better could the routes be?",
+            "team_members": "Andrew Aude",
+            "description": "I built a microsimulation for iPad that simulates a traffic grid with various signal timing models. I also modified the Dijkstra shortest path algorithm  to take signal timing into account. With the simulation, I was able to measure overall throughput and end-to-end delays. The results showed promise for bridging traffic light timings to routing applications. ",
+            "placement": "enterprise",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Contact robotics",
+            "summary": "Programmed a robot to complete robust surface alignment as well as a GUI feature",
+            "team_members": "TJ Melanson, Robert Sun",
+            "description": "",
+            "placement": "hardware",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Development of an Algorithm for Autonomous Scientific Sampling with the VALKYRIE Cryobot",
+            "summary": "Development and analysis of an algorithm enabling autonomous science capabilities on a glacier penetrating robot",
+            "team_members": "Evan Clark",
+            "description": "VALKYRIE is a prototype cryobot (ice penetrating robot) developed for NASA by Stone Aerospace for exploration of icy-worlds such as Europa or Enceladus. VALKYRIE was deployed to the Matanuska glacier in Alaska during the summer 2014 and 2015 field seasons, and conducted a series of missions that penetrated into the glacier to demonstrate novel cryobot technology and gather scientific data. On Europa or Enceladus, light time delays will prevent real time command of the robot by mission control, so onboard autonomous science capabilities will be necessary. Here we present an algorithm for intelligently collecting water samples during the descent when the environment is unknown a priori.  ",
+            "placement": "hardware",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Power Parrot",
+            "team_name": "RAM",
+            "summary": "Power Parrot is an electronic device monitoring system letting you get accurate device usage updates to your phone.",
+            "team_members": "Ambika Acharya, Michael Maduabum, Ruben Rodriguez Buchillon",
+            "description": "Power Parrot is a text-driven service meant as a proof of concept for light-weight device usage updates. Imagine shared devices - be it a dorm laundry machine or television, an office coffee maker, or the living-room Playstation. Currently built using wemo-switches, and a software-driven home-hub, Power Parrot enables you to follow a particular device and get notified when its usage changes. modular design allows to me incorporated with the devices already in use. Start the laundry, and get a text once its done. Check if the dorm-TV is in use. Or get notified once the coffee maker is done making your latte. Its ",
+            "placement": "hardware",
+            "logo_url": "http://imgur.com/rNGbrGk.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Smart Hotel",
+            "team_name": "CheckIn",
+            "summary": "Check in, unlock, and control your hotel room’s smart devices without ever visiting the front desk -- all through your personal smartphone. ",
+            "team_members": "Emeline Wu, Lucy Wang, Minna Xiao, Justin Meier, Louis Brion ",
+            "description": "How many times have you waited in line at 3pm check-in to get your room keycard? CheckIn is a smart hotel solution that allows guests to check into and unlock their hotel room with their smartphone, without ever visiting the front desk. Guests can control the smart devices in their room using their smartphone, from the inside or outside. CheckIn - your hotel stay, reimagined. ",
+            "placement": "hardware",
+            "logo_url": "http://imgur.com/qdhEpgh.png"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Smartspace",
+            "summary": "Analytics to optimize the use of physical spaces",
+            "team_members": "Miraj Rahematpura, Austin Whittier, Sigberto Alarcon",
+            "description": "We're building a market for smart space management — providing analytics for insights on how to best use physical spaces. We're starting with workspaces, which are compelling because companies invest in workspaces to positively impact employee productivity, innovation, and satisfaction. These same companies seek out data driven decisions, but just use guessing and intuition to design workspaces. We've built a small, secure hardware device that uses computer vision to provide anonymous metrics on how employees interact with their workspace.",
+            "placement": "hardware",
+            "logo_url": "http://i.imgur.com/kRbBLTv.png"
+        },
+        {
+            "class": "CS194",
+            "project_name": "Foxtrot",
+            "team_name": "Kale",
+            "summary": "Cross-platform team-based fitness challenges for maximized incentive via social pressure.",
+            "team_members": "Kenny Leung, Julien Kawawa-Beaudan, Lorena Huang Liu",
+            "description": "Foxtrot allows users of Fitbit & Jawbone devices to compare their activity and interact with each other through competitive fitness challenges. In addition to allowing users to connect with each other cross-platform, our application includes features such as fitness tracking and setting activity goals. In particular, this app allows users to participate in team challenges, in which users compete with other teams in fitness-based challenges. Overall, we hope that this application will encourage users of wearable devices to meet their fitness goals by connecting them to a larger circle of peers, and instilling healthy habits through fun team challenges and competitions.",
+            "placement": "health",
+            "logo_url": "http://i.imgur.com/ro6jaLH.png"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Mobile Deep Learning for Skin Lesion Classification",
+            "summary": "iOS-based platforms for physicians to gather training data and use a deep-learning based system for skin lesion classification.",
+            "team_members": "Catherine Wong, Caroline Frost, Andre Esteva, Brett Kuprel, Sebastian Thrun",
+            "description": "",
+            "placement": "health",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Prediction and Characterization of Disease-Gene Associations",
+            "summary": "Predicting new genes associated with a disease phenotype, and characterizing the network structure of disease pathways.",
+            "team_members": "Monica Agrawal",
+            "description": "",
+            "placement": "health",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Protein-Specific Chromatin Loops Reveal Principles of Gene Regulation ",
+            "summary": "Three-dimensional interactions between active regions of DNA are a new layer of gene regulation.",
+            "team_members": "Brian Do",
+            "description": "",
+            "placement": "health",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Schizophrenia Speech Detection",
+            "summary": "Building a coherence model to detect schizophrenia speech ",
+            "team_members": "Nadav Lidor",
+            "description": "Schizophrenia is commonly associated with incoherent speech. In this project, I used neural word embeddings to determine the coherence level of dialogue, to enable an automated diagnosis of schizophrenia, currently executed manual and subjectively by clinicians. ",
+            "placement": "health",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Teen Screen",
+            "summary": "Screening tool application for detecting early warning signs of various mental illnesses in adolescents.",
+            "team_members": "Piper Keyes, Stephany Liu, Kevin Zhai, Eli Shayer, Grace Hong, Angela Kong",
+            "description": "Teen Screen is a newly developed web application rebooting an old mental health screening questionnaire for large-scale use in high schools across the nation. School administrators may register their students to complete the ~120 question survey, receive immediate feedback regarding at-risk individuals, and generate reports for their students. An administrator may customize the disorders for which he would like to screen his students. This project is part of the umbrella organization of CS + Mental Health, and under the direction of Dr. Adelsheim.",
+            "placement": "health",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Theratree",
+            "summary": "Web application to help Stanford students find therapists with relevant expertise",
+            "team_members": "James Cranston, Vanessa Friedemann, Daria Lamberson, Raymond Liu, Galina Meyer",
+            "description": "Current online therapist databases make it difficult for students to select the best therapist to suit their needs. This is particularly true when the students do not know what category their mental illnesses fall under, or feel that their ailments are not limited to one category. To amend this problem, we created Theratree, a web application using Natural Language Processing that allows students to describe their problems in their own words. It then provides students with a list of therapists ordered by relevance. Students have the option to further filter by features such as insurance and location. ",
+            "placement": "health",
+            "logo_url": "http://i.imgur.com/uwBgkQd.jpg"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Emoti",
+            "summary": "Teaching emotional intelligence using emotionally intelligent VR",
+            "team_members": "Steve Kim, Matthew Millett, Stephen Rice, Vinamrata Singal",
+            "description": "Emoti is an edtech product aimed at grades 5-8 that uses virtual reality (VR) to teach emotional self-recognition and regulation in order to create a personalized emotional educational experience for all. We do this through showing students VR simulations and measuring emotional response to these VR simulations using physiological signs. Stop by our booth to see all this technology in action and learn how we're creating the next generation of emotionally responsible kids!",
+            "placement": "mixedreality",
+            "logo_url": "http://imgur.com/zm0gJuF.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Helios",
+            "summary": "ridiculously simple data integration for Unreal Engine",
+            "team_members": "Derin Dutz, Dennis Xu, Ryan Davies, Ashley Ngu",
+            "description": "Helios is a realtime backend platform enabling developers to quickly store and retrieve data from Unreal Engine. We make it effortless to externally manipulate and track variables in a live game environment using auto-generated Blueprint nodes and an accompanying API. Come check out our VR demo to see how Helios makes data sharing and collaboration across devices easier than ever.",
+            "placement": "mixedreality",
+            "logo_url": "https://raw.githubusercontent.com/cs210/Helios/master/green.png?token=AGDR1H3CqWBfTsak2qDa4vHE9oMq4RFoks5XVzndwA%3D%3D"
+        },
+        {
+            "class": "CS210",
+            "project_name": "History Class 2.0",
+            "summary": "Wonder what education will be like in the future? Come check out history class 2.0",
+            "team_members": "Patrick O'Grady",
+            "description": "My education experience always left something to be desired. This is that desire. In this VR experience, I rethought the way the Battle of Cannae could be taught in middle school. With a balance of video media and an impersonation of Hannibal, the player gets a deeper understanding of the magnitude of the battle as well as the talent of Hannibal. ",
+            "placement": "mixedreality",
+            "logo_url": ""
+        },
+        {
+            "class": "CS210",
+            "project_name": "Navi",
+            "summary": "Navi is a Google Tango mobile application that improves indoor navigation with augmented reality (AR).",
+            "team_members": "Alan Luo, Catherine Mullings,  Emma Peng, Genie Hyatt, Lucas Liu",
+            "description": "Ever felt lost looking for a store item in complex, large retailer stores or shopping malls?\n\nNavi is a Google Tango mobile application that improves indoor navigation with augmented reality (AR).\n\nNavi guides you with an AR digital route so you can confidently navigate complex, large indoor environments and find what you are looking for.",
+            "placement": "mixedreality",
+            "logo_url": "http://web.stanford.edu/~cmulling/Navi_team_logo.png"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Autism Social Skill Building",
+            "team_name": "SpectrumVR",
+            "summary": "An cooperative city building game that enables children to practice executive planning, teamwork, and interpersonal skills",
+            "team_members": "Abhi Garg, Maneesh Dilip Apte, Christine Andrea Tataru, Austin Timothy Chustz, Adrian Schuyler Leven ",
+            "description": "An interactive virtual reality game that helps children with autism to improve their social skills, executive planning skills, and emotional regulation under stimulation in a safe, controlled environment. The gameplay necessitates cooperation between one player using an Oculus headset and another player using a mouse in order to place buildings in a city in advance of an impending meteor shower.  The player with the Oculus interacts with non-player characters during the game, simulating non-verbal social interactions to advance in the game.",
+            "placement": "mixedreality",
+            "logo_url": "https://raw.githubusercontent.com/cs210/spectrum-vr/master/Spectrum-Black.png?token=ADF20hGYipECg0QP_yGL5OCgd8BxbcSJks5XXaM1wA%3D%3D"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Automatic Quote Attribution of Fiction",
+            "summary": "We built a system for predicting the speaker of quotes in fiction novels. ",
+            "team_members": "Michael Fang",
+            "description": "An important part of understanding a novel is knowing the speaker of each quote in dialogue. We build a system that attempts to learn this automatically, using a hybrid of deterministic and learned features. We apply our method to a dataset from Pride and Prejudice. ",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Bounding Memory Usage in RAMCloud Crash Recovery",
+            "summary": "I changed RAMCloud (a distributed storage system) crash recovery to use a fixed amount of memory without increasing recovery time.",
+            "team_members": "Jacqueline Speiser",
+            "description": "RAMCloud is a distributed storage system based in DRAM. Its current crash recovery mechanism uses an unbounded amount of memory, leading to out-of-memory errors on large recoveries. The system does not know how many servers will request any given replica, making it a non-trivial problem to know when memory can be freed. I bounded memory usage without incurring duplicate disk reads by using a cyclic buffer and a timer-based eviction policy based on disk read speeds.",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS194",
+            "project_name": "Chronobyt.es",
+            "summary": "Decentralized document timestamping with the blockchain",
+            "team_members": "Eric Birdsall, Dennis Fang, Weston Mizumoto",
+            "description": "Chronobyt.es is a web application that publishes a document hash to the Bitcoin blockchain, allowing users to prove the existence of data at a particular point in time. The Bitcoin network is a distributed consensus protocol, and provides support for transactions which include arbitrary data. Our web application takes payment and a file from the user, and submits the file hash in this arbitrary data field to the Bitcoin blockchain. Because Bitcoin blocks have known generation times and are publicly available, users can prove without a trusted authority that they had possession of this file at a particular point in time.",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Generative Adversarial Networks for Robust Single-View Reconstruction",
+            "summary": "We investigate the application of Generative Adversarial Networks (GANs) for 3D-Reconstruction from 2D images.",
+            "team_members": "Amani V. Peddada",
+            "description": "In this project, we present the first approach to apply Generative Adversarial Networks to the task of single-view 3D-reconstruction. This task is remarkably difficult since three-dimensional information is inherently lost in the conversion from world coordinates to the image plane. We investigate whether integrating feedback from a discriminative model, which can distinguish between valid and artificial reconstructions, can enhance the overall quality of the reconstructions produced by a convolutional generator. Our results are promising, and demonstrate that GANs might be useful in a variety of similar computer vision contexts.",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "High dimensional intuitions: Exploring high dimensional non-linearity with word embeddings",
+            "summary": "Studying ML model capacity, and laying out high-dimensional intuitions",
+            "team_members": "Keenon Werling",
+            "description": "Intuitions about word embedding spaces are becoming increasingly important to NLP researchers.\nThis paper lays out an intuition about the interactions between high-dimensions and non-linearity in word embeddings, by laying out theory and empirically studying the behavior of several classifiers.\nThis leads us to a useful and counterintuitive finding that despite the large learning capacity of neural networks, the bias for linearity introduced at every layer gives them a strong advantage over SVMs and KNNs at low data scales.",
+            "placement": "research",
+            "logo_url": "https://avatars0.githubusercontent.com/u/2073180?v=3&s=460"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Intelligent Tweet Streamer",
+            "team_name": "Visual Genome Project",
+            "summary": "Intelligent tweet streamer learns about what is trending in social media, namely Twitter, before Twitter knows its trending. ",
+            "team_members": "Asli Kimya",
+            "description": "Intelligent Tweet Streamer complements the larger project Visual Genome conducted as part of HCI Research Group. Visual Genome is a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language. Tweet Streamer is an attempt to teach the dataset about trending topics on social media. As Tweet Streamer live streams all posts, the Visual Genome engine annotates the content to detect patterns. Some applications of the Visual Genome Tweet Streamer include journalism, where the journalist learns about an event on the fly as it becomes popular in the social media, to a search engine, where the user is the first one to be informed if the instance of an event occurs.",
+            "placement": "research",
+            "logo_url": "https://visualgenome.org/static/images/front-page/logo_visual_genome_only.png"
+        },
+        {
+            "class": "CS194",
+            "project_name": "Lollipop",
+            "summary": "Lollipop is a pseudocode to source code translator implemented as a web app.",
+            "team_members": "Lachlan Busby, Nicole Crawford, Emre Orbay",
+            "description": "Lollipop is a pseudocode-to-source-code compiler with a web interface, as well as a new paradigm for compiler construction. Unlike previous compilers, we do not define a syntax for a new programming language, and instead use machine learning and probabilistic parsing to infer the syntax and semantics of the input pseudocode. Lollipop is targeted at computer science students and aims to help students to get a better grasp of complex algorithms by translating abstract pseudocode into source code that can be more readily understood and interacted with. Our approach parses the pseudocode into an abstract syntax tree that can be used to produce code in many different languages.",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Nosko",
+            "summary": "A tool for thought",
+            "team_members": "Devon Zuegel",
+            "description": "",
+            "placement": "research",
+            "logo_url": "http://i.imgur.com/iMhLT1u.png"
+        },
+        {
+            "class": "CS191",
+            "project_name": "Pathfinding in a Grid with Obstacles",
+            "summary": "We solve a simple yet challenging pathfinding game involving a grid with walls and blocks.",
+            "team_members": "Yimo Chen",
+            "description": "We attempt to create an algorithm that can solve levels of a simple online puzzle game called Psychopath. The objective of the game is to find a path from one point to another point in a grid with obstacles in the way. We came up with a few different approaches on how to tackle the puzzle, mainly ones that involve heuristic search. Using these results, we able to successfully solve over 50 of the 71 levels. ",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Teaching Statistical Language Generators to be Honest",
+            "summary": "Teaching Statistical Language Generators to be Honest",
+            "team_members": "John Miller and Kelvin Guu",
+            "description": "We study the problem of using facts in a knowledge base to generate natural language articles. Statistical language generators can automatically scale to diverse topics and writing styles, by learning from a large corpus of human-authored articles. However, such articles inevitably contain many claims which cannot be validated by any knowledge base. We present a novel neural network architecture and training objective that yields higher quality and more truthful articles, as judged by human and automated evaluation.",
+            "placement": "research",
+            "logo_url": ""
+        },
+        {
+            "class": "CS191",
+            "project_name": "Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping",
+            "summary": "A deep transfer learning approach to the data-poor poverty mapping problem in Africa using CNNs.",
+            "team_members": "Michael Xie, Neal Jean, Marshall Burke, David Lobell, Stefano Ermon",
+            "description": "In developing countries, poverty data is scarce and labor-intensive to obtain. However, remote sensing data is increasingly large-scale and economical. We extract socioeconomic indicators from satellite imagery using a transfer learning approach where nighttime light intensities is a data-rich proxy. We train a fully convolutional CNN model to predict nighttime lights from daytime imagery, simultaneously learning features useful for poverty prediction. The model learns filters identifying terrains and man-made structures without supervision beyond nighttime lights. These features are informative for poverty mapping, approaching the predictive performance of survey data from the field.",
+            "placement": "research",
+            "logo_url": ""
+        }
+    ]
+}
