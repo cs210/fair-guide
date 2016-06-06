@@ -280,7 +280,7 @@
         },
         {
             "class": "CS191",
-            "project_name": "Development of an Algorithm for Autonomous Scientific Sampling with the VALKYRIE Cryobot",
+            "project_name": "The VALKYRIE Cryobot",
             "summary": "Development and analysis of an algorithm enabling autonomous science capabilities on a glacier penetrating robot",
             "team_members": "Evan Clark",
             "description": "VALKYRIE is a prototype cryobot (ice penetrating robot) developed for NASA by Stone Aerospace for exploration of icy-worlds such as Europa or Enceladus. VALKYRIE was deployed to the Matanuska glacier in Alaska during the summer 2014 and 2015 field seasons, and conducted a series of missions that penetrated into the glacier to demonstrate novel cryobot technology and gather scientific data. On Europa or Enceladus, light time delays will prevent real time command of the robot by mission control, so onboard autonomous science capabilities will be necessary. Here we present an algorithm for intelligently collecting water samples during the descent when the environment is unknown a priori.  ",
