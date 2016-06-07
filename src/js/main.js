@@ -23,8 +23,9 @@ function generateGuideListings(placements) {
 
         let content = document.querySelector('.fair-guide');
         _.forIn(placements, (placementData, placementKey) => {
+            const name = placementData.name
             const sectionData = {
-                name: placementData.name,
+                name,
                 submissions: groups[placementKey].map((submission, index) =>
                     Object.assign({}, submission, { id: `${name}-${index}` }))
             };
