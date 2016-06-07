@@ -570,6 +570,14 @@
             "team_members": "Vineeth Gangaram",
             "description": "The Visual Field Test is a medical test used every day by ophthalmologists to manage glaucoma, survey optical nerve damage, and identify brain tumors. Because the machines currently used to run these tests are extremely expensive and not portable, these tests can only be done in the doctor's office. Consequently, it becomes very inconvenient and sometimes impossible for disabled or elderly patients to take this test. The hardware of the Oculus lends itself well to recreating this test in a more patient friendly package. This project is a proof of concept to see whether an at-home version of the Visual Field Test can be made.",
             "placement": "mixedreality"
+        },
+        {
+            "class": "CS191",
+            "project_name": "End-to-end Frameworks for Hierarchical Deep Reinforcement Learning",
+            "summary": "Deep-Q-Learning for Delayed, Sparse-Reward Games",
+            "team_members": "Nishith Khandwala",
+            "description": "Current hierarchical Deep-Q-Networks (h-DQN) define hand-curated goals to provide efficient space for exploration using reinforcement learning. We propose a method to remove this human intervention by combining unsupervised models for disentangling objects and the h-DQN framework. This work is still in progress."
+            "placement": "research"
         }
     ]
 }
