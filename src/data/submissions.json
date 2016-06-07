@@ -128,7 +128,7 @@
             "team_members": "Peter Farejowicz, Haiyin Wang, Milan Doshi, ChangYoung Park, Steven Qian",
             "description": "Starke recommends places based on real-time social data. Your recommendations change with each new check-in, review, or like a place receives on social media. Now, when you search for your destination, you’re given different recommendations from one day to the next, one weekend to another, and one search to the next. Don’t waste your time on the same search results.",
             "placement": "consumer",
-            "logo_url": "https://raw.githubusercontent.com/cs210/starke/master/Assets/logo/starke_csx.png?token=AHgxklObFFELVZ9WrlgVw8XTIOsrltgbks5XV0nnwA%3D%3D"
+            "logo_url": "http://www.starkeup.com/img/starke_csx.png"
         },
         {
             "class": "CS194",
