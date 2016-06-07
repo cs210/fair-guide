@@ -562,6 +562,14 @@
             "description": "We propose to build a Personal Network Management Tool called Contacts.ai. As graduating seniors we realize that we will loose track with most of our friends from Stanford after leaving the farm. We also saw that even while we are at Stanford it’s very hard to remember all of our previous communications with our connections. The trends of individuals having more and more communications and interpersonal communication becoming increasingly online based, creates the need for a Personal Network Management Tool like Contacts.ai.",
             "placement": "consumer",
             "logo_url": "http://image005.flaticon.com/5/png/128/3/3638.png"
+        },
+        {
+            "class": "CS211",
+            "project_name": "VR Visual Field Testing",
+            "summary": "Repurposing VR hardware to do a medical test used every day to manage glaucoma, survey optical nerve damage, and identify brain tumors.",
+            "team_members": "Vineeth Gangaram",
+            "description": "The Visual Field Test is a medical test used every day by ophthalmologists to manage glaucoma, survey optical nerve damage, and identify brain tumors. Because the machines currently used to run these tests are extremely expensive and not portable, these tests can only be done in the doctor's office. Consequently, it becomes very inconvenient and sometimes impossible for disabled or elderly patients to take this test. The hardware of the Oculus lends itself well to recreating this test in a more patient friendly package. This project is a proof of concept to see whether an at-home version of the Visual Field Test can be made.",
+            "placement": "mixedreality"
         }
     ]
 }
