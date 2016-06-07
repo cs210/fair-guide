@@ -542,6 +542,16 @@
             "team_members": "Amanda Chow",
             "description": "This project introduces a set of tools for analyzing dialogues, in order to assess the feasibility of using conversational agents for psychotherapy. These tools answer a series of questions about dialogues: How does the topic of conversation influence the conversation? Do humans react differently to chatbots than to human conversational partners? Is the human tendency to mirror sentiment still present in human-agent conversations?",
             "placement": "research"
+        },
+        {
+            "class": "CS210",
+            "project_name": "Kaleidoscope",
+            "team_name": "Versatile VR",
+            "summary": "Kaleidoscope is an educational toolkit designed to improve social and emotional skills in students via immersive and engaging VR experiences.",
+            "team_members": "Alex Martinez, Cathy Zhu, Jennifer Farman, Sophie Ye",
+            "description": "Kaleidoscope is a virtual reality experience designed to increase social and emotional learning in middle and high school students. Virtual reality is uniquely immersive, and we’ve leveraged this immersion in order to create an experience with immediacy and emotional resonance. Against the dramatic backdrop of a space mission gone horribly wrong, students are prompted to think critically about the emotional states of others. With the help of teachers, administrators, students, and education experts, we have crafted a powerful new way to teach social and emotional skills that will help students be successful in the classroom and beyond.",
+            "placement": "mixedreality",
+            "logo_url": "http://imgur.com/NGnGd4k.png"
         }
     ]
 }
