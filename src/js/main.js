@@ -18,15 +18,16 @@ function generateGuideListings(placements) {
     data.then((response) => {
         return response.json();
     }).then((json) => {
-        const submissions = json.submissions;
+        const submissions = _.sortBy(json.submissions, (submission) => submission.project_name);
         const groups = _.groupBy(submissions, 'placement');
 
         let content = document.querySelector('.fair-guide');
-        _.forIn(groups, (group, name) => {
+        _.forIn(placements, (placementData, placementKey) => {
             const sectionData = {
-                name: placements[name].name,
-                submissions: group.map((submission, index) => Object.assign({}, submission, { id: `${name}-${index}` }))
-            }
+                name: placementData.name,
+                submissions: groups[placementKey].map((submission, index) =>
+                    Object.assign({}, submission, { id: `${name}-${index}` }))
+            };
 
             const sectionHtml = sectionTemplate(sectionData);
 
