@@ -396,7 +396,7 @@
             "team_members": "Derin Dutz, Dennis Xu, Ryan Davies, Ashley Ngu",
             "description": "Helios is a realtime backend platform enabling developers to quickly store and retrieve data from Unreal Engine. We make it effortless to externally manipulate and track variables in a live game environment using auto-generated Blueprint nodes and an accompanying API. Come check out our VR demo to see how Helios makes data sharing and collaboration across devices easier than ever.",
             "placement": "mixedreality",
-            "logo_url": "https://raw.githubusercontent.com/cs210/Helios/master/green.png?token=AGDR1H3CqWBfTsak2qDa4vHE9oMq4RFoks5XVzndwA%3D%3D"
+            "logo_url": "http://i.imgur.com/UHMa94u.png?1"
         },
         {
             "class": "CS210",
