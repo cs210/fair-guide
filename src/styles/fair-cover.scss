@@ -11,6 +11,10 @@
 .fair-cover-banner,
 .fair-cover-page {
     width: 100%;
+    
+    @media screen and (min-width: 400px) {
+        width: 400px;
+    }
 
     @media print {
         margin-bottom: 1in;
