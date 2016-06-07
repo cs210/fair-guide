@@ -1,5 +1,7 @@
 # Software Fair Guide
 
+**Available here: http://cs210.github.io/fair-guide/**
+
 ## Getting started
 
 Clone this repository and run
