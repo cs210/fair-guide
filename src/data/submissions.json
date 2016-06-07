@@ -552,6 +552,16 @@
             "description": "Kaleidoscope is a virtual reality experience designed to increase social and emotional learning in middle and high school students. Virtual reality is uniquely immersive, and we’ve leveraged this immersion in order to create an experience with immediacy and emotional resonance. Against the dramatic backdrop of a space mission gone horribly wrong, students are prompted to think critically about the emotional states of others. With the help of teachers, administrators, students, and education experts, we have crafted a powerful new way to teach social and emotional skills that will help students be successful in the classroom and beyond.",
             "placement": "mixedreality",
             "logo_url": "http://imgur.com/NGnGd4k.png"
+        },
+        {
+            "class": "CS194",
+            "project_name": "Me.ai",
+            "team_name": "Contacts.ai",
+            "summary": "Me.ai is a personal network management tool that serves as a hub for your connections and provides context about your contacts through an interaction timeline.",
+            "team_members": "Baris Akis, Kat Gregory, Arushi Jain",
+            "description": "We propose to build a Personal Network Management Tool called Contacts.ai. As graduating seniors we realize that we will loose track with most of our friends from Stanford after leaving the farm. We also saw that even while we are at Stanford it’s very hard to remember all of our previous communications with our connections. The trends of individuals having more and more communications and interpersonal communication becoming increasingly online based, creates the need for a Personal Network Management Tool like Contacts.ai.",
+            "placement": "consumer",
+            "logo_url": "http://image005.flaticon.com/5/png/128/3/3638.png"
         }
     ]
 }
