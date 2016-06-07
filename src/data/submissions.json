@@ -576,7 +576,7 @@
             "project_name": "End-to-end Frameworks for Hierarchical Deep Reinforcement Learning",
             "summary": "Deep-Q-Learning for Delayed, Sparse-Reward Games",
             "team_members": "Nishith Khandwala",
-            "description": "Current hierarchical Deep-Q-Networks (h-DQN) define hand-curated goals to provide efficient space for exploration using reinforcement learning. We propose a method to remove this human intervention by combining unsupervised models for disentangling objects and the h-DQN framework. This work is still in progress."
+            "description": "Current hierarchical Deep-Q-Networks (h-DQN) define hand-curated goals to provide efficient space for exploration using reinforcement learning. We propose a method to remove this human intervention by combining unsupervised models for disentangling objects and the h-DQN framework. This work is still in progress.",
             "placement": "research"
         }
     ]
