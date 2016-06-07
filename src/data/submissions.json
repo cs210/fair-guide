@@ -416,13 +416,13 @@
             "placement": "mixedreality",
             "logo_url": "http://web.stanford.edu/~cmulling/Navi_team_logo.png"
         },
-        {
+         {
             "class": "CS210",
-            "project_name": "Autism Social Skill Building",
+            "project_name": "SpectrumCity",
             "team_name": "SpectrumVR",
-            "summary": "An cooperative city building game that enables children to practice executive planning, teamwork, and interpersonal skills",
+            "summary": "SpectrumCity is a cooperative city building game that enables children to practice executive planning, teamwork, and interpersonal skills",
             "team_members": "Abhi Garg, Maneesh Dilip Apte, Christine Andrea Tataru, Austin Timothy Chustz, Adrian Schuyler Leven ",
-            "description": "An interactive virtual reality game that helps children with autism to improve their social skills, executive planning skills, and emotional regulation under stimulation in a safe, controlled environment. The gameplay necessitates cooperation between one player using an Oculus headset and another player using a mouse in order to place buildings in a city in advance of an impending meteor shower.  The player with the Oculus interacts with non-player characters during the game, simulating non-verbal social interactions to advance in the game.",
+            "description": "SpectrumCity is an interactive virtual reality game that helps children with autism improve their social skills, executive planning skills, and emotional regulation under stimulation in a safe, controlled environment. The gameplay necessitates cooperation between one player using an Oculus headset and another player using a mouse in order to place buildings in a city in advance of an impending meteor shower.  The player with the Oculus interacts with non-player characters during the game, simulating non-verbal social interactions to advance in the game.",
             "placement": "mixedreality",
             "logo_url": "https://raw.githubusercontent.com/cs210/spectrum-vr/master/Spectrum-Black.png?token=ADF20hGYipECg0QP_yGL5OCgd8BxbcSJks5XXaM1wA%3D%3D"
         },
