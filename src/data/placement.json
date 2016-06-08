@@ -13,15 +13,15 @@
     },
     "enterprise": {
         "name": "Enterprise and public policy",
-        "area": "top-left-room"
+        "area": "left-room"
     },
     "hardware": {
         "name": "Hardware",
-        "area": "left-room"
+        "area": "top-left-room"
     },
     "health": {
         "name": "Health and biotech",
-        "area": "far-right-room"
+        "area": "far-left-room"
     },
     "mixedreality": {
         "name": "Mixed reality",
@@ -29,7 +29,7 @@
     },
     "research": {
         "name": "Research",
-        "area": "far-left-room"
+        "area": "far-right-room"
     },
     "judging": {
         "name": "Judges' area",
