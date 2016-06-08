@@ -359,7 +359,7 @@
             "summary": "Building a coherence model to detect schizophrenia speech ",
             "team_members": "Nadav Lidor",
             "description": "Schizophrenia is commonly associated with incoherent speech. In this project, I used neural word embeddings to determine the coherence level of dialogue, to enable an automated diagnosis of schizophrenia, currently executed manual and subjectively by clinicians. ",
-            "placement": "health",
+            "placement": "research",
             "logo_url": ""
         },
         {
