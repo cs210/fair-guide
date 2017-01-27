@@ -16,7 +16,7 @@ To run a development server on `localhost:8080`, run
 npm run serve
 ```
 
-To build a copy into the `dist/` folder, run
+To build a copy into the `docs/` folder, run
 
 ```
 npm run build
