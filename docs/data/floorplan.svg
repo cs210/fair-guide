@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493 280">
+  <defs>
+    <style>
+      .area { fill: transparent; }
+      text { text-anchor: middle; }
+    </style>
+  </defs>
+  <title>floorplan</title>
+  <g><foreignObject x="19" y="96" width="70" height="76"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area far-left-room room room-120" x="19" y="96" width="70" height="76"/></g>
+  <g><foreignObject x="132" y="96" width="57" height="76"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area left-room room room-123" x="132" y="96" width="57" height="76"/></g>
+  <g><foreignObject x="307" y="96" width="56" height="76"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area right-room room room-125" x="307" y="96" width="56" height="76"/></g>
+  <g><foreignObject x="400" y="104" width="80" height="64"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area far-right-room room-129" x="400" y="104" width="80" height="64"/></g>
+  <g><foreignObject x="386" y="38" width="92" height="63"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area top-right-room room room-127" x="386" y="38" width="92" height="63"/></g>
+  <g><foreignObject x="16" y="36" width="90" height="57"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area top-left-room room room-121" x="16" y="36" width="90" height="57"/></g>
+  <g><foreignObject x="192" y="81" width="112" height="69"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area center-room room room-124" x="192" y="81" width="112" height="69"/></g>
+  <g><foreignObject x="192" y="152" width="112" height="56"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area front-hall-center room-118" x="192" y="152" width="112" height="56"/></g>
+  <g><foreignObject x="347" y="175" width="133" height="33"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area front-hall-right" x="347" y="175" width="133" height="33"/></g>
+  <g><foreignObject x="0" y="218" width="493" height="56"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area arcade" x="0" y="218" width="493" height="56"/></g>
+  <g><foreignObject x="92" y="93" width="36" height="90"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area left-corridor room-119" x="92" y="93" width="36" height="90"/></g>
+  <g><foreignObject x="16" y="175" width="62" height="33"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area stairs" x="16" y="175" width="62" height="33"/></g>
+  <g><foreignObject x="80" y="175" width="68" height="33"><div class="area-text-container"><p class="area-text"></p></div></foreignObject><rect class="area front-hall-left" x="80" y="175" width="68" height="33"/></g>
+  <g>
+    <rect x="0" y="274" width="493" height="6"/>
+    <polygon points="16 208 16 175 16 87 6 87 6 70 16 70 16 36 106 36 106 44 112 44 112 84 114 84 114 44 115 44 115 36 115 31 115 27 150 27 150 31 150 73 128 73 128 104 129 104 129 104 132 104 132 96 189 96 189 104 190 104 190 104 192 104 192 104 192 104 192 93 192 93 192 81 303 81 303 104 304 104 304 104 307 104 307 96 363 96 363 104 366 104 366 93 366 93 366 73 345 73 345 27 380 27 380 36 380 84 384 84 384 104 387 104 387 102 386 102 386 44 389 44 389 38 478 38 478 102 400 102 400 104 480 104 480 167 402 167 402 175 480 175 480 208 347 208 347 218 494 218 494 21 344 21 344 0 294 0 294 21 238 21 238 0 150 0 150 21 -0 21 -0 218 148 218 148 208 16 208"/>
+    <rect x="178" y="208" width="138" height="10"/>
+    <polygon points="146 175 192 175 192 152 205 152 205 150 192 150 192 129 189 129 189 172 132 172 132 129 129 129 129 175 146 175 146 175"/>
+    <polygon points="304 128 304 175 366 175 366 128 363 128 363 172 307 172 307 128 304 128"/>
+    <polygon points="92 165 89 165 89 172 19 172 19 96 89 96 89 156 92 156 92 93 16 93 16 175 92 175 92 165"/>
+    <rect x="291" y="150" width="13" height="2"/>
+    <rect class="i" x="129" y="175" width="18" height="0"/>
+  </g>
+</svg>
