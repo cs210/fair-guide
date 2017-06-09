@@ -20,19 +20,22 @@ function generateGuideListings(placements) {
     }).then((json) => {
         const submissions = _.sortBy(json.submissions, (submission) => submission.project_name);
         const groups = _.groupBy(submissions, 'placement');
+				console.log(groups);
 
         let content = document.querySelector('.fair-guide');
         _.forIn(placements, (placementData, placementKey) => {
-            const name = placementData.name
-            const sectionData = {
-                name,
-                submissions: groups[placementKey].map((submission, index) =>
-                    Object.assign({}, submission, { id: `${name}-${index}` }))
-            };
+						if (placementKey in groups) {
+								const name = placementData.name
+								const sectionData = {
+										name,
+										submissions: placementKey in groups ? groups[placementKey].map((submission, index) =>
+												Object.assign({}, submission, { id: `${name}-${index}` })) : []
+								};
 
-            const sectionHtml = sectionTemplate(sectionData);
+								const sectionHtml = sectionTemplate(sectionData);
 
-            content.insertAdjacentHTML('beforeend', sectionHtml);
+								content.insertAdjacentHTML('beforeend', sectionHtml);
+						}
         });
     });
 }
