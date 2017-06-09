@@ -59,7 +59,7 @@
             "project_name": "Privacy-Preserving Knowledge Transfer for Hand Hygiene Detection",
             "summary": "Improving the privacy of a computer vision system for hand hygiene detection",
             "description": "We use a state-of-the-art strategy for secure knowledge transfer and aggregation to improve the privacy of a computer vision system for hand hygiene detection. Given a learning context involving multiple hospitals, we develop an accurate and robust classification system that preserves the privacy of each hospital’s data and avoids model inversion attacks that would put all parties’ training data at risk. We demonstrate strong differential privacy bounds on the resulting classifier, and characterize performance and privacy bounds for a range of architectures and aggregation parameters in the student-teacher ensemble approach.",
-            "placement": "research"
+            "placement": "health"
         },
 				{
             "class": "CS191",
@@ -75,7 +75,7 @@
             "project_name": "Haven",
 						"summary": "Haven connects NGOs with community volunteers during the aftermath of a crisis so that neighbors can help each other recover and rebuild.",
 						"description": "In the aftermath of a publicized natural disaster, spontaneous unverified volunteers often arrive at the scene in the hundreds or even thousands. These volunteers are regular people who want to help rebuild their own communities, but aren’t necessarily skilled or trained and, without proper instruction, can often do more harm than good. Haven connects these volunteers with non-governmental organizations that are doing relief work in the area so that volunteers are able to find ways to help that both suit them and aid their community. Haven’s web platform gives non-governmental organizations the ability to post about volunteer opportunities, manage volunteers, and coordinate efforts with other organizations, while Haven’s mobile app offers volunteers an easy way to find volunteer tasks that match their skills and preferences.",
-          "placement": "enterprise-public-policy",
+          "placement": "public-policy",
 					"logo_url": "https://lh5.googleusercontent.com/rpYg0QI4P0zLvYvbHjzvNumuWYD8mGfja1JJjTv13y6qf_m7DEuDMseRXF81u9m7rOXrAQjKwus93ug=w2422-h1390-rw"
         },
 				{
@@ -92,7 +92,7 @@
             "project_name": "Synapse",
             "summary": "Synapse is a low data app that helps individuals on the ground share information in the immediate aftermath of a disaster.",
             "description": "Be prepared for disaster with Synapse. Synapse is a mobile crowdsourcing platform that takes in user generated information about a disaster, verifies the data, and shares accurate reports with users. Synapse is designed for low-connectivity situations, and limits data consumption to provide a seamless experience in scenarios where internet connectivity is spotty. Users can report road closures, aid stations, and more through the Synapse Android application, and can view verified reports through the app and through the Synapse SMS client. A Synapse web portal gives approved administrators a birds-eye view of the disaster. The Synapse mobile application, SMS wrapper, and web portal can help civilians and governments build an accurate picture of the situation on the ground in the immediate aftermath of a disaster.",
-          "placement": "enterprise-public-policy",
+          "placement": "public-policy",
 					"logo_url": "https://lh6.googleusercontent.com/fclGUlSpuf3RDQJ8cKf-3yiVsQ3jiRI-oHS1kF4JBAQBW5vnSZHAQrE9LMgHKcubdFCBvvkxENAQRf4=w2422-h1390"
         },
 				{  
@@ -122,12 +122,175 @@
         },
 				{   
             "class": "CS210",
-            "team_members": "Jake Rachleff, Jack Payette, Eric Ehizokhale, Austin Chambers, Reese Pathak",
-            "project_name": "VARScan - Environment Capture for Creators",
-						"summary": "VARScan is an environment scanning solution that makes content creation for Virtual Reality easy and affordable.",
-            "description": "VARScan is an end-to-end environment scanning solution that allows users to create content for VR easily and at a low cost.  Our product will enable content creation at a price and ease of use that is unavailable on the market today.  With a main target audience of Social VR, VARScan will allow you to capture your world and both experience and share it in VR applications.  We combine a software and hardware modules in order to maximize the value that we can deliver to the user, while maintaining a very low price.",
+            "team_members": "Eric Ehizokhale, Jack Payette, Jake Rachleff, Austin Chambers, Reese Pathak",
+            "project_name": "VARScan: Reality Capture for Creators",
+						"summary": "VARScan automatically captures and constructs colorized 3D reconstructions of indoor environments. This brings the real world to virtual, enabling new opportunities for VR/AR and innovative creators.", 
+            "description": "VARScan is an end-to-end environment scanning solution that allows users to create content for VR easily and at a low cost. Our product will enable content creation at a price and ease of use that is unavailable on the market today. With a main target audience of Social VR, VARScan will allow you to capture your world and both experience and share it in VR applications. We combine a software and hardware modules in order to maximize the value that we can deliver to the user, while maintaining a very low price.",
+          "placement": "vr",
+					"logo_url": "https://lh5.googleusercontent.com/jYN4jFbcy_6A0KYIqy7mXUgZ7DyR5xwJgHfJnTW4wsUXiRLp7AzXhpvgujaHu33YLDkHm_4AaIV3hIM=w2422-h1478"
+				},
+				{
+				 		"class": "CS210",
+            "team_members": "Melissa Du, Maddie Saviano, Mark Kwon, Jaebum Lee, Sewon Jang",
+            "project_name": "Chainge",
+            "summary": "Chainge is a new technology which allows users to securely store sensitive, user-specific information (such as identity) onto a distributed blockchain ledger and harness the power of blockchain's decentralized, distributed nature to do so.",
+            "description": "Previous attempts to link identity information along with public keys store that information in a central database and establish a pairwise link between the information and the corresponding public key within a blockchain. However, such solutions introduce security failures and sacrifice the decentralized advantages of the blockchain in the first place. In order to fully harness the advantages of blockchain technology while also allowing users a way to store sensitive information, Chainge has introduced a modification to the original blockchain architecture. At a high-level, our new blockchain consists of multiple blocks that are linked to each other by a timestamp server, a proof of work mechanism and distributed consensus mechanism, and most importantly: 1) the existence of user blocks on the main chain, and 2) answer blocks that are attached onto the request block.",
           "placement": "arcade",
-					"logo_url": "https://lh6.googleusercontent.com/SC7aTOnXTQfbx_u1083OuQyTVt_Ve99aAtnnoAk7eC4sunMVlr0ygGzQHN_qmB7QXA2_VMaV52iBOOo=w2422-h1478-rw"
-				}	
+          "logo_url": "https://lh5.googleusercontent.com/cPamI05rDpalUgJpHWqkDYHQQnObGjFPzVH-XfdUp4LLYuMCN13JKtwW9RuH74QN12Ygii_z4bdWPEc=w2422-h1478"
+        },
+				{
+            "class": "CS210",
+            "team_members": "Luke Wilson, Dennis Jeong, Amy Xu, Jay Moon, Jackie Becker",
+            "project_name": "Forge",
+            "summary": "Making your ideas a (virtual) reality.",
+						"description": "Here at Forge, we aim to make it easier than ever to build your ideas in virtual reality. Whether you want to test a new UI, product experience, or interaction paradigm, Forge allows you to build it quickly with intuitive tools. Create your experience with easy-to-use prefabs, drawing tools, and built-in methods of interaction that abstract away the technical aspects of 3D development to make communication of ideas easy and fast. Don't waste time building out a product in VR only to find out you don't like the way it feels: make the process of testing and iterating simple with Forge. With the ability to import the UI's you've already built in other software platforms as well as the ease of scaling experiences and making your UI's interactive, Forge allows you to build and test a prototype in minutes rather than days.",
+          "placement": "vr",          
+					"logo_url": "https://lh6.googleusercontent.com/Y2l3Y5chsLSV1tV61E9fDGapOcX_lL-cPpgRZ1B76ZIOXQKCcA4wLC2vOcDhw6zq227gHO8ssH3p4EQ=w2422-h1478"
+        },
+				{
+            "class": "CS210",
+            "team_members": "Isaiah Brandt-Sims, Timothy Lee, Shubha Raghvendra, Sarah Rosston",
+            "project_name": "Tree Search",
+            "summary": "Tree Search allows coaches to spend less time evaluating transcripts of potential recruits by automatically extracting information to calculate GPAs.",
+            "description": "Tree Search intelligently processes high school transcripts to automate most of the transcript evaluation process, the first step in the recruiting process. Our system identifies courses, grades, and credits across transcripts, which vary significantly across high schools, and uses human interaction to confirm the output and continually improve the system. Tree Search allows teams like Stanford Football, which receives more than 5,000 transcripts per year, to focus on current athletes and viable recruits instead of  tedious data processing tasks.",
+          "placement": "education",
+          "logo_url": "https://lh3.googleusercontent.com/RX0Co-bge_jSxCAj0G2ly6n-HVLMMlpUNP8IfoaR8fc2-0NMTD1cBtruEXrTeEwr-KZ6IxgIQofLpVc=w2422-h1478"
+        },
+				{
+            "class": "CS210",
+            "team_members": "Zoe Robert, Anna Wang, Maya Israni, Steven Safreno",
+            "project_name": "Atticus",
+            "summary": "A secure peer-to-peer ticket resale platform backed by blockchain technology",
+						"description": "The peer to peer ticket resale market is plagued by fraud. Fake tickets, duplicate tickets, stolen tickets, forged tickets, and lack of payment are common issues in this sphere. We at Atticus have built an IOS app to be used in conjunction with external ticket search platforms such as Facebook event pages to re-sell tickets. We work directly with the ticket issuers and maintain a universal record of ownership on the blockchain in order to guarantee verified and valid ticket purchases.",
+          "placement": "consumer",
+          "logo_url": "https://lh4.googleusercontent.com/f0ZZ7mRqgDplqMLr24hyF6c6ylFjRUAh7gycMOZOw70H0YNb9fI8n_PLT16dOZSUFJjO-L8c3LSqnXc=w2422-h1478"
+        },
+				{
+            "class": "CS191",
+            "team_members": "Nicholas Bagamian, Ian Proulx, Jaak Uudmae",
+            "project_name": "Portal Wars",
+            "summary": "Portal wars is a fast-paced sci-fi multiplayer shooter game that combines the strategic elements of Portal with the explosive gameplay mechanics of Halo.",
+						"description": "Portal wars is a fast-paced sci-fi multiplayer shooter game that combines the strategic elements of Portal with the explosive gameplay of Halo. Built in Unreal Engine 4 and powered through Steam, you can play with friends online or versus the AI. This project started in January and has turned into a fully-functional game that we hope you enjoy!",
+          "placement": "consumer" 
+        },
+				{   
+            "class": "CS191",
+            "team_members": "Colin Wei",
+            "project_name": "Uniform Sampling via Linear Embeddings",
+            "summary": "We propose an algorithm to sample uniformly from arbitrary sets using a linear embedding approach.",
+            "description": "Sampling from complex sets is a fundamental problem that has applications such as machine learning and model counting. A recent line of work has reduced the task of sampling to solving a series of integer programs that may be NP-hard in the worst case but are usually feasible in practice. We propose a new algorithm that performs provable uniform sampling by solving integer linear programs that are very simple to express. We implement the algorithm and evaluate its performance in practice.",
+          "placement": "research" 
+        },
+				{
+            "class": "CS191",
+            "team_members": "Zachary Sorenson",
+            "project_name": "Legidor",
+            "summary": "Legidor is an easy-to-use portal into California's legislative process that provides information about individual elected officials and analyzes their votes on proposed legislation.",
+						"description": "Using publicly available data, Legidor provides a public portal into California's legislature. The platform links legislators with their bills and votes, and makes the information easily accessible to users. The site also measures each legislator's \"independence\" and each vote's \"surprise\" based on legislators' voting patterns. The site uses the standardized data schema developed by Open Civic Data so that the underlying software can be easily adapted to other state or local governments.",
+          "placement": "arcade",
+					"logo_url": "https://lh4.googleusercontent.com/fbX25bJ5mZ_6cuP2nYC85IyJXMfooRn9q8VvNAPzBrlLKF3lmSHD4YPYBFHtobPz5zinTU6-PoXqS3k=w2422-h1478"
+        },
+				{
+          "class": "CS210",
+          "team_members": "John Carlo Buenaflor, Katherine Phan, Brandon Solis, Hilary Sun, Jacob Conrad Trinidad",
+          "project_name": "ARc",
+          "summary": "A personal car dealership in your pocket. Visualize your car anywhere and talk to a virtual car dealer anytime.",
+					"description": "ARc is a virtual assistant that helps you find your perfect Volkswagen car. Our application consists on two components: visualization of Volkswagen cars and a virtual car dealer. The visualization of the car will help you get a glimpse of what your car would look like in their driveway, on the road, etc. Additionally, you will be able to see how the car would look with added customizations. Our smart car dealer offers car recommendations tailored to your style, price, and lifestyle preferences based on your user profile and conversations with you. Lastly, ARc connects you to nearby dealerships for a seamless car buying experience.",
+          "placement": "vr",
+          "logo_url": "https://lh3.googleusercontent.com/Q9ELcKw5L6-tYO8h1tofvFuyLDFXJ2otrzDvFaz-1ILw9Eo7gmK-sOBIWPjTo9rMruwJIa79tUYtdL4=w2422-h1478-rw"
+        },
+        {
+          "class": "CS210",
+          "team_members": "Mark Orozco, Anu Rajan, David Xue, Al Yuen",
+          "project_name": "Konstruu",
+          "summary": "Konstruu is an iOS app that allows users to submit ideas for potential software projects. Users find and form teams to work on these projects and share their progress to their friends, all inside the app.",
+					"description": "Konstruu encourages high-schoolers to get involved with their community and hone their programming skills via collaborative software projects. On Konstruu, users submit and view software challenges geared towards improving their community. They form their own teams and get working immediately or request to join existing teams, leveraging Konstruu's messaging system between teams and individuals. Teams share their software progress directly from the app on Facebook and Instagram, showing off to their friends that they are learning to code and making their community a better place!",
+          "placement": "education"
+				},
+				{ 
+          "class": "CS210",
+          "team_members": "Ethan Li, TJ Melanson, Aashna Shroff, Jessica Zhao",
+          "project_name": "Display of Car Surroundings for Autonomous Vehicles",
+					"team_name": "Chariot",
+          "summary": "Chariot aims to enable fast, intuitive, and effortless monitoring of surroundings of autonomous vehicles. We will show the driver an immersive display of the car and its full surroundings using real-time 3-D reconstruction from camera and range sensors.",
+          "description": "Chariot is redesigning the driving experience for users of autonomous vehicles. We aim to enable fast, intuitive, and effortless monitoring of the car’s surroundings during Level 4 and Level 5 autonomy. We will use the windshield as a display to render the car and its surroundings using real-time 3-D reconstruction of data from on-board sensors. Additionally, the viewpoint responds to the position and orientation of the driver’s head. By revolutionizing the way drivers interact with their cars, our product will increase their sense of safety on the road and their trust in autonomous driving systems. We will present a software prototype of our concept.",
+          "placement": "arcade",
+					"logo_url": "https://lh3.googleusercontent.com/lzFZ1oZAh2pk3jk7RZRc7kG0h0GKvEz9xHnKhTUcLNuVRujwzAqfGIVt-75TmP1qcxzp3ifbtTRSXV8=w2422-h1478-rw"
+        },
+				{
+          "class": "CS191",
+          "team_members": "Juan Camacho",
+          "project_name": "Implementation of Image Processing operations in Spatial",
+          "summary": "The project consisted of trying out different parallel implementations of common image processing algorithms in Spatial, a domain-specifc language for hardware acclerators that's currently being developed by the Stanford PPL.",
+					"description": "Due to the slowdown of Moore's Law and end of Dennard Scaling, conventional general-purpose CPUs are no longer scaling at a fast rate. Thus, hardware accelerators are becoming more and more deployed for improving performance per watt of crucial applications. To raise the layer of abstraction of hardware accelerator design, the Stanford PPL is currently developing Spatial, a domain-specific language for hardware accelerators. Computationally-intensive applications such as image processing are good candidates to port onto hardware accelerator platform. I've developed key parts of image processing algorithms in Spatial, including the mean and median filtering for noise removal and a subset of Canny edge detection.",
+          "placement": "research"
+        },
+				{ 
+          "class": "CS191",
+          "team_members": "Michelle Zhao",
+          "project_name": "Global Health and Policy Model: Diabetes in India",
+          "summary": "The Global Health and Policy Model (GHAP) is a microsimulation model of different diseases. This project is an adaptation of the GHAP model to diabetes mellitus in India, using a new set of diabetes equations currently being developed at Stanford.",
+          "description": "There is a critical need to understand the future effects of chronic disease on developing countries. This is particularly true in India, the most populated country in the world. One particular disease that results in burdensome and fatal complications is diabetes mellitus. Complications include renal failure, blindness, amputation, etc. In such a populated country, it is crucial to estimate what future populations will look like in terms of diabetes prevalence and diabetes complication prevalence, in order to perform analyses pertaining to prevention and early detection of an increasingly common chronic disease. We have built a microsimulation model that can estimate the future diabetes landscape of India.",
+          "placement": "public-policy"
+        },
+				{
+          "class": "CS191",
+          "team_members": "Shyamal Buch",
+          "project_name": "Temporal Action Localization in Videos",
+          "summary": "Towards efficient temporal action detection in untrimmed videos",
+          "description": "Temporal action localization is a fundamental component of video understanding, and there is a clear need for the development of efficient computer vision algorithms for untrimmed videos. In this ongoing work, we describe our recent developments towards this goal and promising results.",
+          "placement": "research"
+        },
+				{
+          "class": "CS191",
+          "team_members": "Katie Hufker",
+          "project_name": "Transmission of Psychiatric Disorder Risk Genes in Autism",
+          "summary": "I investigated how risk genes for schizophrenia and ADHD are transmitted in children with Autism.",
+					"description": "Polygenic risk scores were calculated to determine how the presence of risk alleles for schizophrenia and ADHD differed between people with and without Autism. Then, polygenic transmission disequilibrium scores were calculated to determine how these risk alleles were passed down from parents to (a) children affected by Autism versus (b) unaffected siblings. Finally, I investigated whether polygenic risk scores and polygenic transmission disequilibrium scores were correlated with any subscales from the Autism Diagnostic Interview-Revised or Autism Diagnostic Observation Schedule.",
+          "placement": "health"
+        },
+				{
+          "class": "CS210",
+          "team_members": "Mitchell Dumovic, Richard Ridley, Max Drach",
+          "project_name": "Vitruvio",
+          "summary": "Vitruvio is an Unreal Engine 4 Plugin that uses machine learning to enable developers to easily create immersive VR animations.",
+          "description": "Vitruvio uses machine learning to predict skeletal joint locations given inputs from a head mounted display and two hand controllers. Developers can create their own machine learning models in our \"Training Level\", where a Kinect 2 sensor collects motion capture data for training. These models can be used to generate realistic animations for characters in any VR experience. Come to our booth to see your body animated in VR.",
+          "placement": "vr",
+					"logo_url": "https://lh4.googleusercontent.com/ztIgJPEhMRoK96rir_d2Bs5rZiVWCLOrCXYEvKH9PDAZd3CZhJ1LByz9CoyvtrBfOtPL-9HRUljU5ss=w2422-h1478-rw"
+        },
+				{
+          "class": "CS191",
+          "team_members": "Jasmine Guillory",
+          "project_name": "Dr. Martin Luther King, Jr. and the Chicago Tribune: Sentiment and Themes in Press Coverage",
+          "summary": "An analysis of sentiment and theme in the Chicago Tribune's coverage of Dr. Martin Luther King, Jr. from 1955 to 1970",
+					"description": "In history classes across the United States, Dr. Martin Luther King is portrayed as an unquestioned hero of nonviolent resistance and American progress. This portrayal erases the opposition he faced over the course of his career, opposition that came not only from stereotypical white racists with fire hoses and dogs, but also from moderate and liberal white people and even some African-Americans. I wanted to explore contemporary press coverage of King to unearth differences in sentiment expressed toward him over the course of his career. The shifts in tone shown in Chicago Tribune articles reflect both changes in the perceived distance of King’s campaigns - he obviously received a great deal more attention from a newspaper in Chicago when he came to Chicago to fight for open housing - and in the themes he espoused as central parts of his ideology. After gathering a dataset of newspaper articles, researching the context behind various events, and writing scripts to extract information about sentiment and theme, I created data visualizations with the hope of shedding light on the various campaigns on which King embarked and how they were received by the Chicago audience.",
+          "placement": "public-policy"
+        },
+				{ 
+          "class": "CS194",
+          "team_members": "Kevin Khieu, Lucas Sanchez, Manuel Torres Rojo",
+					"project_name": "Jam",
+          "summary": "Jam is a mobile/web app that allows users to more easily collaborate on creating music playlists in group settings. The app allows users to easily add songs to a running playlist, upvote existing songs that they like, and listen to these songs together in social settings.",
+          "description": "Collaboratively creating music playlists is both an inconvenient and inefficient process with the options users presently have. Jam seeks to remove these drawbacks by serving as a go-to platform for users when collaborating on what kinds of music they want to be played at a given social setting. Jam utilizes a server-side Google Play wrapper library, allowing all users to find and add any songs they want played to their room's playlist without requiring specific music subscriptions. Because Jam is a web application, it does not require users to download any apps to use, allowing for low barrier to entry. Ultimately, the goal of Jam is to create a musical experience in a group setting that captures everyone's music tastes in an easy, convenient, and fair manner.",
+          "placement": "consumer",
+					"logo_url": "https://lh3.googleusercontent.com/AVN6CfSXpaDxu7G2cic3A9hLMzY20zkpd0iOD5WX2u-aSo2HeP9WhsicOcuR9QEHbskYEMGFtgQjBGI=w2422-h1478"
+        },
+				{
+          "class": "CS194",
+          "team_members": "Sarah Wymer, Micah Silberstein, Mitch Sanford, Michael Holloway",
+          "project_name": "FilmFinder",
+          "summary": "Sentence-based movie search",          
+					"description": "Want to find action movies from the 90s?  Want to remember the name of that sci-fi movie with Tom Cruise and Emily Blunt?  Want to see all thrillers directed by J.J. Abrams?  You can search specific movie criteria in sentence format using FilmFinder, and our context-free grammar will return the most relevant results.",
+          "placement": "consumer"
+        },
+				{ 
+          "class": "CS194",
+          "team_members": "Marina Elmore, Leslie Kurt, Chris Lucas, Laura Brouckman",          
+					"project_name": "Women4Women",
+          "summary": "Women4Women is a mobile platform that normalizes the process of women supporting other women in social or public settings. This application capitalizes on crowd-sourced \"LifeLines\", emergency contacts, and location services to provide an innovative platform for female empowerment and support.",          
+          "description": "In May 2016, three woman at an upscale restaurant in Santa Monica, CA watched a man slip something into his date’s drink while she was in the restroom. The women notified the date and the man was subsequently arrested by the Santa Monica police for attempting to drug the woman. This story is one of many examples of woman taking a stand for other women, despite potential awkward or uncomfortable situations.<br/><br/>Our senior capstone aims to normalize this process by providing a mobile platform for women to feel safe and comfortable asking for support from the women around them while in social or public settings. Specifically, our application has three features that are essential to ensuring that women feel safe in public:<br/><br/>1. ICE: The application allows women to set a plan for the night, including when they expect to be home and where they expect to go out, and helps them easily set an emergency point person for the night. This person is an “in case of emergency” contact and will be alerted if the women needs support.<br/><br/>2. LifeLines: the second feature of the application uses the network of nearby women as LifeLines for a given user. These lifelines can be used in a time of need.<br/><br/>3. SOS: The SOS button can be triggered by women who are in need of emergency help. This will set off alerts for the restaurant/bar the women is at, alert her emergency contact, and alert all LifeLines in the vicinity. This “panic button” feature is for emergencies.",
+          "placement": "arcade",
+					"logo_url": "https://lh4.googleusercontent.com/yD6gM2l3rrnLFGipFxFzT4Yf-vTyw-gIwaIO7tmm0UGIyN5NQgbni2hU7G3gP3T89WpoYQg-2F5mq1Q=w2422-h1478-rw"
+        }
 	]
 }
