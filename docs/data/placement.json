@@ -11,7 +11,7 @@
         "name": "Education",
         "area": "right-room"
     },
-    "enterprise": {
+    "enterprise-public-policy": {
         "name": "Enterprise and public policy",
         "area": "far-left-room"
     },
@@ -23,8 +23,8 @@
         "name": "Health and biotech",
         "area": "left-room"
     },
-    "mixedreality": {
-        "name": "Mixed reality",
+    "vr": {
+        "name": "VR/AR",
         "area": "center-room"
     },
     "research": {
