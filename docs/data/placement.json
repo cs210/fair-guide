@@ -11,8 +11,8 @@
         "name": "Education",
         "area": "right-room"
     },
-    "enterprise-public-policy": {
-        "name": "Enterprise and public policy",
+    "public-policy": {
+        "name": "Public policy",
         "area": "far-left-room"
     },
     "hardware": {

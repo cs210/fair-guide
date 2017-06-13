@@ -70,20 +70,23 @@
 	            return submission.project_name;
 	        });
 	        var groups = _.groupBy(submissions, 'placement');
+	        console.log(groups);
 
 	        var content = document.querySelector('.fair-guide');
 	        _.forIn(placements, function (placementData, placementKey) {
-	            var name = placementData.name;
-	            var sectionData = {
-	                name: name,
-	                submissions: groups[placementKey].map(function (submission, index) {
-	                    return Object.assign({}, submission, { id: name + '-' + index });
-	                })
-	            };
+	            if (placementKey in groups) {
+	                var name = placementData.name;
+	                var sectionData = {
+	                    name: name,
+	                    submissions: placementKey in groups ? groups[placementKey].map(function (submission, index) {
+	                        return Object.assign({}, submission, { id: name + '-' + index });
+	                    }) : []
+	                };
 
-	            var sectionHtml = sectionTemplate(sectionData);
+	                var sectionHtml = sectionTemplate(sectionData);
 
-	            content.insertAdjacentHTML('beforeend', sectionHtml);
+	                content.insertAdjacentHTML('beforeend', sectionHtml);
+	            }
 	        });
 	    });
 	}
@@ -1889,14 +1892,14 @@
 	    + container.escapeExpression(((helper = (helper = helpers.logo_url || (depth0 != null ? depth0.logo_url : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"logo_url","hash":{},"data":data}) : helper)))
 	    + "\">\n            </div>\n        </div>\n";
 	},"5":function(container,depth0,helpers,partials,data) {
-	    var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
+	    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
 	  return "        <div class=\"fair-submission-deepdive\">\n            <input type=\"checkbox\" id=\"collapsible-"
 	    + alias4(((helper = (helper = helpers.id || (depth0 != null ? depth0.id : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"id","hash":{},"data":data}) : helper)))
 	    + "\" class=\"collapsible-checkbox\" />\n            <label class=\"collapsible-label\" for=\"collapsible-"
 	    + alias4(((helper = (helper = helpers.id || (depth0 != null ? depth0.id : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"id","hash":{},"data":data}) : helper)))
 	    + "\"></label>\n            <p class=\"fair-submission-deepdive-text\">\n                "
-	    + alias4(((helper = (helper = helpers.description || (depth0 != null ? depth0.description : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"description","hash":{},"data":data}) : helper)))
+	    + ((stack1 = ((helper = (helper = helpers.description || (depth0 != null ? depth0.description : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"description","hash":{},"data":data}) : helper))) != null ? stack1 : "")
 	    + "\n            </p>\n        </div>\n";
 	},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
 	    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
@@ -1915,7 +1918,7 @@
 	    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.logo_url : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
 	    + "    </div>\n"
 	    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.description : depth0),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-	    + "</div>";
+	    + "</div>\n";
 	},"useData":true});
 
 /***/ }),
