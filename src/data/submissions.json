@@ -430,7 +430,7 @@
           "project_name": "Slide",
           "summary": "Music with friends.",
           "description": "Slide is an app for experiencing music with others. As a layer over Spotify, Slide lets users create real-time, collaborative song queues. At small gatherings, you and your friends can remotely control what plays on a single device. For larger events, professional DJs can enable crowdsourced song requests, increasing engagement and crowd satisfaction.",
-          "placement": "arcade",
+          "placement": "consumer",
 					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/slide.png?raw=true"
        },
 			  {
@@ -439,7 +439,7 @@
           "project_name": "GradTracker",
           "summary": "A course planning tool for Stanford undergraduates that also tracks progress towards completing major and university requirements.",          
 					"description": "GradTracker is a tool for Stanford undergraduates that simplifies the planning of quarterly schedule and the tracking of requirements. It allows users to search for and browse courses, add and remove courses from their quarterly schedules, and view their weekly class schedule for any past, present, or future (if planned) quarter. To ease the search for new classes, GradTracker offers course recommendations based on a what courses a user has taken in the past. In addition, users can select a major and GradTracker will automatically track and display their progress in completing the requirements of that major as well as those of the university (PWR, WAYS, etc.). If a user has not completed a requirement, he or she can search for courses that count towards that requirement. A user that has not used GradTracker since the start of his or her undergraduate career is able to upload a PDF of his or her unofficial transcript and GradTracker will automatically populate the user's schedules for past quarters.",
-          "placement": "arcade"
+          "placement": "education"
        },
 			 { 
           "class": "CS194",
@@ -447,7 +447,7 @@
           "project_name": "Cover Your Apps",
           "summary": "Cover Your Apps is an interactive platform for learning about crucial web security practices.",
           "description": "At a time where phishing emails have become common vectors for data breaches and other hacking attempts, knowing practical web security skills has never been more critical. Indeed, 90% of breaches first begin with an effective phishing email. Cover Your Apps seeks to provide an engaging introduction to email and password security practices, all geared at nontechnical audiences. Our modules on phishing and authentication encapsulate interactive examples, quizzes, and final simulations rooted in real-life cyber incidents. This effort brings together our security education at Stanford, our technical communication skills, and our ability to create an web experience that stokes interest in learning good online security practices.", 
-          "placement": "arcade",
+          "placement": "education",
 					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/cover_your_apps.jpg?raw=true"
        },
 			 {
@@ -456,7 +456,7 @@
           "project_name": "Brendan - A Deep Convolutional Network for Representing Latent Features of Protein-Ligand Binding Poses",
           "summary": "We introduce a deep convolutional network, Brendan, that allows us to learn the latent features of Protein-Ligand binding poses to aid computational drug discovery.",
 					"description": "Empirical molecular \"fingerprints\" are often used in computational drug discovery to predict predict Protein-Ligand binding affinity. However, these fingerprints are based on molecular force fields or chemical descriptors that must be hand-tailored to match quantum mechanical experiment data, making the development and choice of fingerprint features extremely difficult. In this paper, we introduce a deep convolutional network, Brendan, that allows us to learn the latent features of Protein-Ligand binding poses by training on the raw crystallographic poses from PDBBind that beats the current state of the art.",
-          "placement": "arcade",
+          "placement": "research",
           "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/brendan.png?raw=true"
        },
 			 {
@@ -467,6 +467,14 @@
 					"description": "TourneyBot is a chatbot that organizes and runs tournaments for gaming communities that use the Discord chat service. A player only needs to add TourneyBot to their chat server and tell TourneyBot what kind of tournament the player would like, and then TourneyBot runs the tournament for them. Tournament set-up is easy because TourneyBot provides an easy-to-use natural language interface. Additionally, TourneyBot leverages Challonge, a webservice that provides tournament organization tools.",
           "placement": "arcade",
           "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/tourney_bot.png?raw=true"
+       },
+			 {
+          "class": "CS199",
+          "team_members": "Jackie Becker, Jay Borenstein",
+          "project_name": "Augmented Stories",
+          "summary": "Making stories come to life through augmented reality.",
+          "description": "This project allows you to build scenes within an augmented reality environment, add characters and music, and link those scenes to physical pages. After building out your virtual book, you can open up a real one and, by simply looking at each page, trigger the scene you made for that page to come to life around you. Various optimizations have been done to ensure high frame rate, and spatial mapping has been integrated into the scene-building experience so that you can intelligently place your scene objects. This project was done as part of an independent study with Jay Borenstein, one of the biggest advocates on campus for new technologies such as AR/VR.",
+          "placement": "vr"
        }
 	]
 }
