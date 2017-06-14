@@ -656,7 +656,7 @@
 
 	  return "<section class=\"fair-section section-"
 	    + alias2(alias1((depth0 != null ? depth0.name : depth0), depth0))
-	    + "\">\n    <h2>Software Fair 2016 <strong>Guidebook</strong></h2>\n\n    <input type=\"checkbox\" id=\"collapsible-"
+	    + "\">\n    <h2>Software Fair 2017 <strong>Guidebook</strong></h2>\n\n    <input type=\"checkbox\" id=\"collapsible-"
 	    + alias2(alias1((depth0 != null ? depth0.name : depth0), depth0))
 	    + "\" class=\"collapsible-checkbox\" />\n    <label class=\"collapsible-label\" for=\"collapsible-"
 	    + alias2(alias1((depth0 != null ? depth0.name : depth0), depth0))
@@ -666,7 +666,7 @@
 	    + ((stack1 = helpers.each.call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.submissions : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
 	    + "    </div>\n    <div class=\"fair-section-footer\">\n        End of <strong>"
 	    + alias2(alias1((depth0 != null ? depth0.name : depth0), depth0))
-	    + "</strong> projects.\n    </div>\n</section>";
+	    + "</strong> projects.\n    </div>\n</section>\n";
 	},"usePartial":true,"useData":true});
 
 /***/ }),

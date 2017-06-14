@@ -7,7 +7,7 @@
 						"description": "VR is one of the fastest growing tech phenomena around, and TracVR is on the cutting edge.  The main VR devices on the market only track the player's head and hands, forcing developers to either use inaccurate inverse-kinematics to approximate the rest of the body, or leave the player a disembodied ghost, distancing them from the most immersive experiences VR has to offer.  TracVR is the third solution.  Using machine learning trained from data recorded using our custom motion-tracking,  TracVR can accurately predict a player's movements in real-time, maintaining the immersion that is at the core of all of VR.",
 						"team_members": "Caitlin Go, Hansohl Kim, Jessica Taylor, John Valentine",
             "placement": "vr",
-            "logo_url": "https://lh3.googleusercontent.com/PQVByapPt_L1pL6k_DrdnF10pj12aGbPm4-ADhlD9dsltLW58AeoyhdTUhRpNT72oz59S5qWxWhZ948=w2422-h1452-rw"
+            "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/tracvr.png?raw=true"
         },
         {
             "class": "CS210",
@@ -16,7 +16,7 @@
             "team_members": "Julian Arellano, Pablo Hernandez, Noah Makow, Fidel Salgado, Zack Swafford",
             "description": "There exists a huge inefficiency in the healthcare sector when it comes to sharing medical records between locations (hospitals, clinics, etc.). Cipher aims to give its users more control over their medical records by creating a mobile application through which users can visualize and share their health records. We use the blockchain to house our smart contracts, which outline our patient-provider relationships that define the medical record queries and who has access to run this information. We provide a way for users to always have their medical records on hand, as well as a way for easy sharing to another user on our application. This distributed database approach for record sharing could be implemented by hospitals with minimal overhead needed on their side to better service their patients and give them more ownership into their health.",
             "placement": "health",
-            "logo_url": "https://lh4.googleusercontent.com/ptUI1Wm_oV9G2kXwtf30qta4nS7vC9ApaJJPsynhus8CAbnv5cxw7kBYp64_w9FclSS9F7jOCQZ-uQc=w2422-h1390"
+            "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/cipher.png?raw=true"
 				},
 				{
             "class": "CS210",
@@ -25,7 +25,7 @@
             "team_members": "Simar Mangat, Veeral Patel, Lawrence Murata",
             "description": "We are using data on smartphones and a high-accuracy GPS system to predict the paths of vehicles and foresee dangerous situations. With that, we will give drivers valuable real-time insights through an interface that builds trust between drivers and vehicles by showing how our algorithms generate information and sending real-time warnings to avoid accidents.",
             "placement": "arcade",
-            "logo_url": "https://lh4.googleusercontent.com/hr-mHmRopfmqmMTtboxpJjOEfzwXZwHLcWGfOQSJtFwumRMh6N5nIDvvn74RemvcqTu30JfcO33cR1M=w2422-h1390"
+            "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/newton.png?raw=true"
 				},
 				{
             "class": "CS210",
@@ -34,16 +34,16 @@
             "team_members": "Sherwin Xia, Koki Yoshida, Eric Li, Wendi Liu, Junting Hsieh",
             "description": "We are building the brain to create breathtaking highlight videos. Having state-of-the-art deep learning and computer vision algorithms behind the scene, our mobile app is able to help you find highlights of your video. Generate and share your highlights to your friends or on social media by one-click.",
             "placement": "consumer",
-            "logo_url": "https://lh5.googleusercontent.com/dzP4HsEtnLNdBBwTGpI6oWob3CE6wb3Xz3W5iKlRebMd_Dsk-qXwqDF2mu7uurjEjxG1Iqa8x0DwIUg=w2422-h1390-rw"
+            "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/spotlight.png?raw=true"
         },
 				{
             "class": "CS210",
             "project_name": "Spark: A Student Engagement Initiative",
             "team_members": "Charles Akin-David, Jorge Cueto, Alexander Wang, Serena Wong, Jessica Zhang",
             "summary": "We leverage Facebook technologies to spark students’ curiosity and lasting interest in new fields and careers.",
-						"description": "Spark is a program designed to give high school students equitable access to engaging content about tech-related career pathways and opportunities, as well as enabling students to interact directly with role models in those careers. We believe that connecting students with viable careers and relatable role models in a variety of fields they otherwise might not have access to has the potential to spark their interest in learning more, expand their view about what’s possible, and inspire them to pursue a career  in technology. We worked with role models from a variety of backgrounds to create compelling videos about their careers and personal pathways. The videos are posted in our Spark Facebook group, which contains a variety of subgroups, each corresponding to an interest area that intersects with computer science and tech in a meaningful way (e.g. Art, Music, Diversity, Careers, Social Good, Education, Sports, etc.). Our role models are excited and committed to making sure no question goes unanswered! In addition to videos, questions and comments, role models can also interact with students through Facebook live videos, blogs or websites.",
+						"description": "Spark is a program designed to give high school students equitable access to engaging content about tech-related career pathways and opportunities, as well as enabling students to interact directly with role models in those careers. We believe that connecting students with viable careers and relatable role models in a variety of fields they otherwise might not have access to has the potential to spark their interest in learning more, expand their view about what’s possible, and inspire them to pursue a career  in technology.<br/><br/>We worked with role models from a variety of backgrounds to create compelling videos about their careers and personal pathways. The videos are posted in our Spark Facebook group, which contains a variety of subgroups, each corresponding to an interest area that intersects with computer science and tech in a meaningful way (e.g. Art, Music, Diversity, Careers, Social Good, Education, Sports, etc.).<br/><br/>Our role models are excited and committed to making sure no question goes unanswered! In addition to videos, questions and comments, role models can also interact with students through Facebook live videos, blogs or websites.",
             "placement": "education",            
-						"logo_url": "https://lh3.googleusercontent.com/H5R2-Rc9hvrH5s9r2bogE6Xp5pkXFnzb329qIH4GsHD-jqCuatKtpqR7vhyPlSNLqRcNyqipuTk8SbE=w2422-h1390-rw"
+						"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/spark.png?raw=true"
         },
 				{
             "class": "CS191",
@@ -76,7 +76,7 @@
 						"summary": "Haven connects NGOs with community volunteers during the aftermath of a crisis so that neighbors can help each other recover and rebuild.",
 						"description": "In the aftermath of a publicized natural disaster, spontaneous unverified volunteers often arrive at the scene in the hundreds or even thousands. These volunteers are regular people who want to help rebuild their own communities, but aren’t necessarily skilled or trained and, without proper instruction, can often do more harm than good. Haven connects these volunteers with non-governmental organizations that are doing relief work in the area so that volunteers are able to find ways to help that both suit them and aid their community. Haven’s web platform gives non-governmental organizations the ability to post about volunteer opportunities, manage volunteers, and coordinate efforts with other organizations, while Haven’s mobile app offers volunteers an easy way to find volunteer tasks that match their skills and preferences.",
           "placement": "public-policy",
-					"logo_url": "https://lh5.googleusercontent.com/rpYg0QI4P0zLvYvbHjzvNumuWYD8mGfja1JJjTv13y6qf_m7DEuDMseRXF81u9m7rOXrAQjKwus93ug=w2422-h1390-rw"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/haven.png?raw=true"
         },
 				{
             "class": "CS191",
@@ -91,18 +91,18 @@
             "team_members": "Jacob Hoffman, John Morgan, Jordan Hank, Josh Cohen",
             "project_name": "Synapse",
             "summary": "Synapse is a low data app that helps individuals on the ground share information in the immediate aftermath of a disaster.",
-            "description": "Be prepared for disaster with Synapse. Synapse is a mobile crowdsourcing platform that takes in user generated information about a disaster, verifies the data, and shares accurate reports with users. Synapse is designed for low-connectivity situations, and limits data consumption to provide a seamless experience in scenarios where internet connectivity is spotty. Users can report road closures, aid stations, and more through the Synapse Android application, and can view verified reports through the app and through the Synapse SMS client. A Synapse web portal gives approved administrators a birds-eye view of the disaster. The Synapse mobile application, SMS wrapper, and web portal can help civilians and governments build an accurate picture of the situation on the ground in the immediate aftermath of a disaster.",
+            "description": "Be prepared for disaster with Synapse. Synapse is a mobile crowdsourcing platform that takes in user generated information about a disaster, verifies the data, and shares accurate reports with users. Synapse is designed for low-connectivity situations, and limits data consumption to provide a seamless experience in scenarios where internet connectivity is spotty.<br/><br/>Users can report road closures, aid stations, and more through the Synapse Android application, and can view verified reports through the app and through the Synapse SMS client. A Synapse web portal gives approved administrators a birds-eye view of the disaster. The Synapse mobile application, SMS wrapper, and web portal can help civilians and governments build an accurate picture of the situation on the ground in the immediate aftermath of a disaster.",
           "placement": "public-policy",
-					"logo_url": "https://lh6.googleusercontent.com/fclGUlSpuf3RDQJ8cKf-3yiVsQ3jiRI-oHS1kF4JBAQBW5vnSZHAQrE9LMgHKcubdFCBvvkxENAQRf4=w2422-h1390"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/synapse.png?raw=true"
         },
 				{  
             "class": "CS191",
             "team_members": "Dana Murphy",
             "project_name": "Mazeweaver",
             "summary": "A mobile puzzle game. Navigate a dungeon and block your enemies from the goal without getting caught or blocking yourself!",
-            "description": "Mazeweaver is a puzzle game about a young magic user escaping a goblin dungeon. Players must use their surroundings, as well as their unique ability to create magical blockades, to block enemies from the exit without getting caught or blocking themselves. The game consists of nine levels, and includes a tutorial and a “challenge” mode. The project also includes a full mobile interface for interacting with the game.",
-          "placement": "arcade",
-          "logo_url": "https://lh6.googleusercontent.com/63qpwT0SjV2Wf0OFrUJnnG4IjKV5eRTV5TyVhj8AJsLCHrbsiiy4-7lvAavrwLmRgQa6EnZgG1pp6xI=w2422-h1390"
+            "description": "Mazeweaver is a puzzle game about a young magic user escaping a goblin dungeon. Players must use their surroundings, as well as their unique ability to create magical blockades, to block enemies from the exit without getting caught or blocking themselves. The game consists of nine levels, and includes a tutorial and a \"challenge\" mode. The project also includes a full mobile interface for interacting with the game.",
+          "placement": "consumer",
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/mazeweaver.png?raw=true"
         },
 				{
             "class": "CS191",
@@ -127,25 +127,25 @@
 						"summary": "VARScan automatically captures and constructs colorized 3D reconstructions of indoor environments. This brings the real world to virtual, enabling new opportunities for VR/AR and innovative creators.", 
             "description": "VARScan is an end-to-end environment scanning solution that allows users to create content for VR easily and at a low cost. Our product will enable content creation at a price and ease of use that is unavailable on the market today. With a main target audience of Social VR, VARScan will allow you to capture your world and both experience and share it in VR applications. We combine a software and hardware modules in order to maximize the value that we can deliver to the user, while maintaining a very low price.",
           "placement": "vr",
-					"logo_url": "https://lh5.googleusercontent.com/jYN4jFbcy_6A0KYIqy7mXUgZ7DyR5xwJgHfJnTW4wsUXiRLp7AzXhpvgujaHu33YLDkHm_4AaIV3hIM=w2422-h1478"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/varscan1.png?raw=true"
 				},
 				{
 				 		"class": "CS210",
             "team_members": "Melissa Du, Maddie Saviano, Mark Kwon, Jaebum Lee, Sewon Jang",
             "project_name": "Chainge",
             "summary": "Chainge is a new technology which allows users to securely store sensitive, user-specific information (such as identity) onto a distributed blockchain ledger and harness the power of blockchain's decentralized, distributed nature to do so.",
-            "description": "Previous attempts to link identity information along with public keys store that information in a central database and establish a pairwise link between the information and the corresponding public key within a blockchain. However, such solutions introduce security failures and sacrifice the decentralized advantages of the blockchain in the first place. In order to fully harness the advantages of blockchain technology while also allowing users a way to store sensitive information, Chainge has introduced a modification to the original blockchain architecture. At a high-level, our new blockchain consists of multiple blocks that are linked to each other by a timestamp server, a proof of work mechanism and distributed consensus mechanism, and most importantly: 1) the existence of user blocks on the main chain, and 2) answer blocks that are attached onto the request block.",
-          "placement": "arcade",
-          "logo_url": "https://lh5.googleusercontent.com/cPamI05rDpalUgJpHWqkDYHQQnObGjFPzVH-XfdUp4LLYuMCN13JKtwW9RuH74QN12Ygii_z4bdWPEc=w2422-h1478"
+            "description": "Previous attempts to link identity information along with public keys store that information in a central database and establish a pairwise link between the information and the corresponding public key within a blockchain. However, such solutions introduce security failures and sacrifice the decentralized advantages of the blockchain in the first place.<br/><br/>In order to fully harness the advantages of blockchain technology while also allowing users a way to store sensitive information, Chainge has introduced a modification to the original blockchain architecture. At a high-level, our new blockchain consists of multiple blocks that are linked to each other by a timestamp server, a proof of work mechanism and distributed consensus mechanism, and most importantly: 1) the existence of user blocks on the main chain, and 2) answer blocks that are attached onto the request block.",
+          "placement": "consumer",
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/chainge.png?raw=true"
         },
 				{
             "class": "CS210",
             "team_members": "Luke Wilson, Dennis Jeong, Amy Xu, Jay Moon, Jackie Becker",
             "project_name": "Forge",
             "summary": "Making your ideas a (virtual) reality.",
-						"description": "Here at Forge, we aim to make it easier than ever to build your ideas in virtual reality. Whether you want to test a new UI, product experience, or interaction paradigm, Forge allows you to build it quickly with intuitive tools. Create your experience with easy-to-use prefabs, drawing tools, and built-in methods of interaction that abstract away the technical aspects of 3D development to make communication of ideas easy and fast. Don't waste time building out a product in VR only to find out you don't like the way it feels: make the process of testing and iterating simple with Forge. With the ability to import the UI's you've already built in other software platforms as well as the ease of scaling experiences and making your UI's interactive, Forge allows you to build and test a prototype in minutes rather than days.",
+						"description": "Here at Forge, we aim to make it easier than ever to build your ideas in virtual reality. Whether you want to test a new UI, product experience, or interaction paradigm, Forge allows you to build it quickly with intuitive tools. Create your experience with easy-to-use prefabs, drawing tools, and built-in methods of interaction that abstract away the technical aspects of 3D development to make communication of ideas easy and fast. Don't waste time building out a product in VR only to find out you don't like the way it feels: make the process of testing and iterating simple with Forge. With the ability to import the UIs you've already built in other software platforms as well as the ease of scaling experiences and making your UIs interactive, Forge allows you to build and test a prototype in minutes rather than days.",
           "placement": "vr",          
-					"logo_url": "https://lh6.googleusercontent.com/Y2l3Y5chsLSV1tV61E9fDGapOcX_lL-cPpgRZ1B76ZIOXQKCcA4wLC2vOcDhw6zq227gHO8ssH3p4EQ=w2422-h1478"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/forge.png?raw=true"
         },
 				{
             "class": "CS210",
@@ -154,7 +154,7 @@
             "summary": "Tree Search allows coaches to spend less time evaluating transcripts of potential recruits by automatically extracting information to calculate GPAs.",
             "description": "Tree Search intelligently processes high school transcripts to automate most of the transcript evaluation process, the first step in the recruiting process. Our system identifies courses, grades, and credits across transcripts, which vary significantly across high schools, and uses human interaction to confirm the output and continually improve the system. Tree Search allows teams like Stanford Football, which receives more than 5,000 transcripts per year, to focus on current athletes and viable recruits instead of  tedious data processing tasks.",
           "placement": "education",
-          "logo_url": "https://lh3.googleusercontent.com/RX0Co-bge_jSxCAj0G2ly6n-HVLMMlpUNP8IfoaR8fc2-0NMTD1cBtruEXrTeEwr-KZ6IxgIQofLpVc=w2422-h1478"
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/treesearch.png?raw=true"
         },
 				{
             "class": "CS210",
@@ -163,7 +163,7 @@
             "summary": "A secure peer-to-peer ticket resale platform backed by blockchain technology",
 						"description": "The peer to peer ticket resale market is plagued by fraud. Fake tickets, duplicate tickets, stolen tickets, forged tickets, and lack of payment are common issues in this sphere. We at Atticus have built an IOS app to be used in conjunction with external ticket search platforms such as Facebook event pages to re-sell tickets. We work directly with the ticket issuers and maintain a universal record of ownership on the blockchain in order to guarantee verified and valid ticket purchases.",
           "placement": "consumer",
-          "logo_url": "https://lh4.googleusercontent.com/f0ZZ7mRqgDplqMLr24hyF6c6ylFjRUAh7gycMOZOw70H0YNb9fI8n_PLT16dOZSUFJjO-L8c3LSqnXc=w2422-h1478"
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/atticus.png?raw=true"
         },
 				{
             "class": "CS191",
@@ -187,8 +187,8 @@
             "project_name": "Legidor",
             "summary": "Legidor is an easy-to-use portal into California's legislative process that provides information about individual elected officials and analyzes their votes on proposed legislation.",
 						"description": "Using publicly available data, Legidor provides a public portal into California's legislature. The platform links legislators with their bills and votes, and makes the information easily accessible to users. The site also measures each legislator's \"independence\" and each vote's \"surprise\" based on legislators' voting patterns. The site uses the standardized data schema developed by Open Civic Data so that the underlying software can be easily adapted to other state or local governments.",
-          "placement": "arcade",
-					"logo_url": "https://lh4.googleusercontent.com/fbX25bJ5mZ_6cuP2nYC85IyJXMfooRn9q8VvNAPzBrlLKF3lmSHD4YPYBFHtobPz5zinTU6-PoXqS3k=w2422-h1478"
+          "placement": "public-policy",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/legidor.png?raw=true"
         },
 				{
           "class": "CS210",
@@ -197,7 +197,7 @@
           "summary": "A personal car dealership in your pocket. Visualize your car anywhere and talk to a virtual car dealer anytime.",
 					"description": "ARc is a virtual assistant that helps you find your perfect Volkswagen car. Our application consists on two components: visualization of Volkswagen cars and a virtual car dealer. The visualization of the car will help you get a glimpse of what your car would look like in their driveway, on the road, etc. Additionally, you will be able to see how the car would look with added customizations. Our smart car dealer offers car recommendations tailored to your style, price, and lifestyle preferences based on your user profile and conversations with you. Lastly, ARc connects you to nearby dealerships for a seamless car buying experience.",
           "placement": "vr",
-          "logo_url": "https://lh3.googleusercontent.com/Q9ELcKw5L6-tYO8h1tofvFuyLDFXJ2otrzDvFaz-1ILw9Eo7gmK-sOBIWPjTo9rMruwJIa79tUYtdL4=w2422-h1478-rw"
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/arc.png?raw=true"
         },
         {
           "class": "CS210",
@@ -215,7 +215,7 @@
           "summary": "Chariot aims to enable fast, intuitive, and effortless monitoring of surroundings of autonomous vehicles. We will show the driver an immersive display of the car and its full surroundings using real-time 3-D reconstruction from camera and range sensors.",
           "description": "Chariot is redesigning the driving experience for users of autonomous vehicles. We aim to enable fast, intuitive, and effortless monitoring of the car’s surroundings during Level 4 and Level 5 autonomy. We will use the windshield as a display to render the car and its surroundings using real-time 3-D reconstruction of data from on-board sensors. Additionally, the viewpoint responds to the position and orientation of the driver’s head. By revolutionizing the way drivers interact with their cars, our product will increase their sense of safety on the road and their trust in autonomous driving systems. We will present a software prototype of our concept.",
           "placement": "arcade",
-					"logo_url": "https://lh3.googleusercontent.com/lzFZ1oZAh2pk3jk7RZRc7kG0h0GKvEz9xHnKhTUcLNuVRujwzAqfGIVt-75TmP1qcxzp3ifbtTRSXV8=w2422-h1478-rw"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/chariot.png?raw=true"
         },
 				{
           "class": "CS191",
@@ -256,7 +256,7 @@
           "summary": "Vitruvio is an Unreal Engine 4 Plugin that uses machine learning to enable developers to easily create immersive VR animations.",
           "description": "Vitruvio uses machine learning to predict skeletal joint locations given inputs from a head mounted display and two hand controllers. Developers can create their own machine learning models in our \"Training Level\", where a Kinect 2 sensor collects motion capture data for training. These models can be used to generate realistic animations for characters in any VR experience. Come to our booth to see your body animated in VR.",
           "placement": "vr",
-					"logo_url": "https://lh4.googleusercontent.com/ztIgJPEhMRoK96rir_d2Bs5rZiVWCLOrCXYEvKH9PDAZd3CZhJ1LByz9CoyvtrBfOtPL-9HRUljU5ss=w2422-h1478-rw"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/vitruvio.png?raw=true"
         },
 				{
           "class": "CS191",
@@ -273,7 +273,7 @@
           "summary": "Jam is a mobile/web app that allows users to more easily collaborate on creating music playlists in group settings. The app allows users to easily add songs to a running playlist, upvote existing songs that they like, and listen to these songs together in social settings.",
           "description": "Collaboratively creating music playlists is both an inconvenient and inefficient process with the options users presently have. Jam seeks to remove these drawbacks by serving as a go-to platform for users when collaborating on what kinds of music they want to be played at a given social setting. Jam utilizes a server-side Google Play wrapper library, allowing all users to find and add any songs they want played to their room's playlist without requiring specific music subscriptions. Because Jam is a web application, it does not require users to download any apps to use, allowing for low barrier to entry. Ultimately, the goal of Jam is to create a musical experience in a group setting that captures everyone's music tastes in an easy, convenient, and fair manner.",
           "placement": "consumer",
-					"logo_url": "https://lh3.googleusercontent.com/AVN6CfSXpaDxu7G2cic3A9hLMzY20zkpd0iOD5WX2u-aSo2HeP9WhsicOcuR9QEHbskYEMGFtgQjBGI=w2422-h1478"
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/jam.png?raw=true"
         },
 				{
           "class": "CS194",
@@ -285,12 +285,196 @@
         },
 				{ 
           "class": "CS194",
-          "team_members": "Marina Elmore, Leslie Kurt, Chris Lucas, Laura Brouckman",          
-					"project_name": "Women4Women",
-          "summary": "Women4Women is a mobile platform that normalizes the process of women supporting other women in social or public settings. This application capitalizes on crowd-sourced \"LifeLines\", emergency contacts, and location services to provide an innovative platform for female empowerment and support.",          
-          "description": "In May 2016, three woman at an upscale restaurant in Santa Monica, CA watched a man slip something into his date’s drink while she was in the restroom. The women notified the date and the man was subsequently arrested by the Santa Monica police for attempting to drug the woman. This story is one of many examples of woman taking a stand for other women, despite potential awkward or uncomfortable situations.<br/><br/>Our senior capstone aims to normalize this process by providing a mobile platform for women to feel safe and comfortable asking for support from the women around them while in social or public settings. Specifically, our application has three features that are essential to ensuring that women feel safe in public:<br/><br/>1. ICE: The application allows women to set a plan for the night, including when they expect to be home and where they expect to go out, and helps them easily set an emergency point person for the night. This person is an “in case of emergency” contact and will be alerted if the women needs support.<br/><br/>2. LifeLines: the second feature of the application uses the network of nearby women as LifeLines for a given user. These lifelines can be used in a time of need.<br/><br/>3. SOS: The SOS button can be triggered by women who are in need of emergency help. This will set off alerts for the restaurant/bar the women is at, alert her emergency contact, and alert all LifeLines in the vicinity. This “panic button” feature is for emergencies.",
+          "team_members": "Andrew Duffy, Todd Macdonald, Wilbur Yang, Prafull Sharma",
+					"project_name": "Axon",
+          "summary": "Axon is a way to share and build neural networks entirely through the browser.",
+          "description": "Axon is a tool for people to get started building and training neural networks, through a web interface. They can design their model, customize the parameters, and train on one of a set of pre-installed datasets and watch their training progress. Axon also includes some social features to aid in model discovery: all models are searchable, and users can vote on networks that they find interesting or useful by leaving a star.",
           "placement": "arcade",
-					"logo_url": "images/women4women.webp"
-        }
+					"logo_url": "https://raw.githubusercontent.com/cs210/fair-guide/master/src/images/axon.png"
+        }, 
+				{
+          "class": "CS194",
+          "team_members": "Marina Elmore, Leslie Kurt, Chris Lucas, Laura Brouckman",
+          "project_name": "Women4Women",
+          "summary": "Women4Women is a mobile platform that normalizes the process of women supporting other women in social or public settings. This application capitalizes on crowd-sourced \"LifeLines\", emergency contacts, and location services to provide an innovative platform for female empowerment and support.",
+          "description": "In May 2016, three woman at an upscale restaurant in Santa Monica, CA watched a man slip something into his date’s drink while she was in the restroom. The women notified the date and the man was subsequently arrested by the Santa Monica police for attempting to drug the woman. This story is one of many examples of woman taking a stand for other women, despite potential awkward or uncomfortable situations.<br/><br/>Our senior capstone aims to normalize this process by providing a mobile platform for women to feel safe and comfortable asking for support from the women around them while in social or public settings. Specifically, our application has three features that are essential to ensuring that women feel safe in public:<br/><br/>1. ICE: The application allows women to set a plan for the night, including when they expect to be home and where they expect to go out, and helps them easily set an emergency point person for the night. This person is an “in case of emergency” contact and will be alerted if the women needs support.<br/><br/>2. LifeLines: the second feature of the application uses the network of nearby women as LifeLines for a given user. These lifelines can be used in a time of need.<br/><br/>3. SOS: The SOS button can be triggered by women who are in need of emergency help. This will set off alerts for the restaurant/bar the women is at, alert her emergency contact, and alert all LifeLines in the vicinity. This “panic button” feature is for emergencies.",
+          "placement": "public-policy",
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/women4women.png?raw=true"
+        },
+				{
+          "class": "CS194",
+          "team_members": "Jose Hernandez, Alena Rott, Max Vilgalys, Jerry Tegno",
+          "project_name": "Seer",          
+					"summary": "A reading assistant that gives users the tools to more easily verify or research sections or quotations in an article.",
+          "description": "Our project is attempting to address the spread of \"fake news\" by giving readers tools to assess the validity and quality of an article through two main features. The first takes a phrase and delivers related information from fact checking websites and other trusted, impartial sources of information. Our second feature will attempt to judge the overall quality of an article by using machine learning to compare the writing style to that of known “fake news” publications and known reputable publications. These features will be delivered to the user through a front-end that allows them to easily load an article in Seer, be given information about its legitimacy, and be able to highlight phrases that they want to verify.",
+          "placement": "public-policy"
+        },
+				{ 
+          "class": "CS191",
+          "team_members": "Maurice Shih",
+          "project_name": "Implementation of Cryptography Protocols in CESEL",          
+          "summary": "In this project, we are using the new architecture, CESEL, to implement cryptography protocols.",
+          "description": "CESEL is a recently proposed cryptographic architecture that can accelerate a wide variety of ciphers, in contrast to most previous accelerator designs which focus on optimizing for a particular cipher. The architecture features a 32 lane SIMD architecture with 8-bit datapath, specialized execution units, and a control unit designed for cryptographic control flows. In this project we implement several cryptographic ciphers for CESEL. We then evaluate the power efficiency of each design, allowing us to both compare CESEL's performance on different ciphers, and investigate how easy it is to map new ciphers to CESEL.",
+          "placement": "research"
+        },
+				{
+          "class": "CS191",
+          "team_members": "David Mallick",
+          "project_name": "Inquire: Reddit",
+          "summary": "Extending qualitative researchers' ability to discover unique, non-obvious insights by connecting Inquire application to Reddit data.",
+					"description": "Inquire is an information retrieval tool designed to enhance qualitative research. Currently, its corpus consists of personal journal entries extracted from a site called LiveJournal. My project expands the scope of information to Reddit posts: I have found 50 million posts from May of 2015, spanning topics from love to music to Super Smash Bros. With this additional data, researchers can discover insights on a prevalent social news aggregation site, as well as analyze differences between LiveJournal and Reddit content.", 
+          "placement": "research"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Angel Lopez, Diana Le, Dante Vela, Peter Lai",
+          "project_name": "Graphic Algorithm Visualizer",          
+					"summary": "An educational website made to help computer science students understand how various algorithms work.",
+					"description": "Our website allows users to create and modify graphs, both directed and undirected, and then run a various number of algorithms on the graph, all the while describing each step taken in the algorithm. The website also offers a tool that creates a DFA/NFA construction from a regular expression.",
+          "placement": "education"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "James Geary, Max Freundlich and Michael Doshi, Chenye Zhu, Abdulla Janahi",
+          "project_name": "Pod",
+          "summary": "Pod is a location-based iOS application designed to allow groups of individuals to develop communities by “dropping a Pod” anywhere and inviting people in the surrounding vicinity to join.",
+					"description": "Pod consists of simple interfaces that provide a unique user experience for individuals that are looking to communicate with people in their surrounding area. With Pod, groups of people at apartment buildings, dorms, events and any other location can build online communities and have virtual conversations. Once individuals download the application, they are able to seamlessly log in using their Facebook profile. Each user is identified by their real name and an icon with their picture. Users can flip through a carousel-like interface to peruse nearby Pods and join any public Pod that they desire. Private Pods also exist, which can be joined by permission of the users within the Pod. Once a user is in a Pod, they can post texts, polls and images and can comment on these in a chat-like environment. Users can also look at a map view of surrounding Pods and drop a new Pod in order to create a new community.",
+          "placement": "consumer",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/pod.png?raw=true"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Farhan Kathawala, Katherine Ewell, Brianna Goldstein",
+          "project_name": "Arsenic",          
+					"summary": "Create tests for your website without any programming knowledge. Automatically generates testing scripts to be used with Selenium, a popular web browser testing framework.",
+					"description": "Most of the people tasked with writing browser automation tests in industry have little programming knowledge themselves. And virtually every different company or shop has their own set of utility functions and libraries to do simple routines like performing searches, logins, etc. With Arsenic, there's no coding required. Just select actions to perform from a drop-down menu, drag-and-drop the different actions in the order you want them, and it'll generate a testing script for you.",
+          "placement": "arcade"
+       },
+			 {  
+          "class": "CS191",
+          "team_members": "Delenn Chin",
+          "project_name": "Analyzing Gender in Early Sci-fi",          
+          "summary": "Used word embeddings to investigate how gendered words differ across corpora",
+          "description": "Word embeddings are used as a tool to capture semantic similarity between words based on their surroundings. Here, we apply them to a corpus of 1800-1900 science fiction books and look at how different words have associated themselves with specific genders, and how those words have changed across time and genre.",
+          "placement": "arcade"
+      },
+			{
+          "class": "CS191",
+          "team_members": "Michael Tuschman",
+          "project_name": "Neuland",
+          "summary": "App Store and Reviews Platform for New Arrivals in Germany",          
+					"description": "My project deals with the fact that there are an incredible number of internet and app-based resources for new arrivals in Germany (especially for refugees due to the Syrian Civil War), but there is no central locations for new arrivals to find, review and share these applications. Additionally, the app prioritizes being highly functional even with very limited internet access.",
+          "placement": "public-policy"
+      },
+			{
+          "class": "CS194",
+          "team_members": "Alexandros Christodoulou-Rubalcava, Hana Lee, Amber Thomas, Edward Wang",
+          "project_name": "Quasaria",
+          "summary": "A sci-fi visual novel/point-and-click adventure game written in JavaScript.",
+					"description": "Quasaria is a blend between sci-fi roleplaying game, tactical card game, point-and-click adventure, and visual novel. The player takes on the identity of the last member of an extinct race, exploring a space station populated by dozens of alien races in order to unravel the mystery of what happened to their home. Written in JavaScript using the PhaserJS framework, Quasaria is playable in the browser and focuses on player-driven narrative and consequences. This quarter, we completed the first chapter of Quasaria, a 20-30 minute gameplay experience that introduces the player to the world of Quasaria and pits them against their first challenging opponent in an exciting Logic Battle, where the player must use the evidence and information they've gathered to win a diplomatic victory and proceed in the storyline.",
+          "placement": "consumer",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/quasaria.png?raw=true"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Jesus Guzman, Eric Musyoke, John Pericich, Dan Shiferaw, Cody Stocker",
+          "project_name": "Chat.IO",
+          "summary": "Chat.IO connects users to a variety of chatbots either in house or developed by 3rd parties.",
+          "description": "Our project integrates an arbitrary chatbots through a relay server to connect them to users. Our relay server is coded with a MEAN stack model and stores information about Users, Bots, and Conversations. All communication between bots and users is mediated by the server and done through https communication. In this way, bots can be coded in any language as long as they can hit the endpoints provided by the relay server, making it friendly to outside developers. The bots themselves range from simple bots to bots making use of Tensorflow and other AI libraries and frameworks.",
+          "placement": "arcade"
+        },
+				{  
+          "class": "CS194",
+          "team_members": "Nicholas Chee-Awai, Joey Asperger, Nathan O'Rourke Butler, Alex Barron, Nicholas Pether",
+          "project_name": "Smarticle",
+          "summary": "A webapp that remembers what you’ve already read and highlights the new information in an article for quick skimming. You can read the parts you don’t know already, rather than sifting through redundant information.",
+          "description": "Smarticle’s ultimate goal is to help people use the internet efficiently to learn new topics faster. The internet gives us access to an abundance of information on virtually any topic. The downside is that so many articles and websites contain overlapping information, and often learning something new requires sifting through endless passages of what we already know. This can eat a lot of our learning time. Smarticle offers two features for solving this problem. First, the \"add\" feature allows users can specify the urls of content they have already read, which are then fed into Smarticle’s database. Second, the \"read\" feature takes the url of a new document the user wants to read, compares this text to previously “added” documents using Natural Language Processing techniques, and highlights sections of the new document that contain previously unencountered information. This allows users to skim documents faster by only reading new information and avoiding going over what they already know.",
+          "placement": "arcade"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Jean-Luc Watson, Diveesh Singh, Mindy Yang, Zandra Ho",
+          "project_name": "Chroniker",
+          "summary": "Chroniker makes scheduling events automatic by combining calendar integration with a smart algorithm, eliminating the need for services like When2Meet and Doodle.",
+					"description": "Time is a precious resource, and scheduling times to meet up with busy people can be tedious and time-consuming itself. Chroniker capitalizes on the fact that many people already use electronic calendars to manage their time. Our application syncs with users’ Google accounts to smartly suggest meetup times that work well with everyone's schedule, and updates those calendars automatically when an event is confirmed. Our algorithm incorporates the time constraints of the group, specific user preferences, and NLP to find optimal times for an event. Simply put, Chroniker is a simple, smart, and efficient way to manage your time.",
+          "placement": "arcade"
+       },
+			 {
+          "class": "CS191",
+          "team_members": "Tim Aiken",
+          "project_name": "Computers and Photography - Categorizing Photo Quality",          
+					"summary": "Given a photo of a person, attempt to distinguish the quality of the light on their face.",
+					"description": "Light is the most important aspect of photography, and is often the difference between a great photo and a mediocre one. I have spent the quarter training machine-learning algorithms to classify portraits based on common lighting flaws, with the end goal of creating an overarching answer of whether a portrait is \"good\" or \"bad\". I used Mechanical Turk to create a database and then trained linear classifiers, SVMs, and neural networks on my data.",
+          "placement": "research"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Minymoh Anelone, Elizabeth Davis, Samuel Hinshelwood, and Howard Small",
+          "project_name": "Baldwin: Black AI Language-Driven Web INterface",
+          "summary": "Baldwin is an AI tool that leverages the power of Recurrent Neural Networks (RNNs) and Natural Language Processing (NLP) to synthesize new text from Black Twitter data. It was designed to emulate the personality and knowledge-base of a \"typical\" Black millennial.",
+          "description": "The goal of Baldwin is to give users an opportunity to interact with, and better understand the issues and sentiments of the Black community. To accomplish this task, we trained a Recurrent Neural Network (RNN) on data from a number of prominent, Black Twitter users, and use it to generate text that emulates that the Black community. Users can provide generic text input to Baldwin, and it will attempt to produce output that is relevant to the key topics in that input.",
+          "placement": "arcade",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/baldwin.jpg?raw=true"
+       },
+			 {
+          "class": "CS191",
+          "team_members": "Hugo Kitano",
+          "project_name": "Statistical inference of polygenic selection acting on a wide range of human complex traits",
+					"summary": "Developed a novel statistical test for the action of selection on complex traits that uses GWAS summary data as input",
+					"description": "We develop a novel statistical test for the action of selection on complex traits that uses GWAS summary data as input. Our method requires estimated effect sizes from only a single population and relies on effect size differentiation at derived as compared to ancestral alleles. We use model-based simulations that account for recent human demography and stabilizing selection and polygenic adaptation to motivate our method, and we develop empirical tools to control for possible confounders such as linkage disequilibrium and population structure.",
+          "placement": "arcade"
+       },
+			 {  
+          "class": "CS194",
+          "team_members": "Sanjay Kannan, Rooz Mahdavian, Cameron Ramos",
+          "project_name": "Slide",
+          "summary": "Music with friends.",
+          "description": "Slide is an app for experiencing music with others. As a layer over Spotify, Slide lets users create real-time, collaborative song queues. At small gatherings, you and your friends can remotely control what plays on a single device. For larger events, professional DJs can enable crowdsourced song requests, increasing engagement and crowd satisfaction.",
+          "placement": "consumer",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/slide.png?raw=true"
+       },
+			  {
+          "class": "CS194",
+          "team_members": "Sebastian Astiz Le Bras, Mitchell Dawson, Duc Nguyen, Alan Salimov",
+          "project_name": "GradTracker",
+          "summary": "A course planning tool for Stanford undergraduates that also tracks progress towards completing major and university requirements.",          
+					"description": "GradTracker is a tool for Stanford undergraduates that simplifies the planning of quarterly schedule and the tracking of requirements. It allows users to search for and browse courses, add and remove courses from their quarterly schedules, and view their weekly class schedule for any past, present, or future (if planned) quarter. To ease the search for new classes, GradTracker offers course recommendations based on a what courses a user has taken in the past. In addition, users can select a major and GradTracker will automatically track and display their progress in completing the requirements of that major as well as those of the university (PWR, WAYS, etc.). If a user has not completed a requirement, he or she can search for courses that count towards that requirement. A user that has not used GradTracker since the start of his or her undergraduate career is able to upload a PDF of his or her unofficial transcript and GradTracker will automatically populate the user's schedules for past quarters.",
+          "placement": "education"
+       },
+			 { 
+          "class": "CS194",
+          "team_members": "Gabriele Fisher, Alec Glassford, Sasha Perigo, Shirin Salehi, Emily Xie",
+          "project_name": "Cover Your Apps",
+          "summary": "Cover Your Apps is an interactive platform for learning about crucial web security practices.",
+          "description": "At a time where phishing emails have become common vectors for data breaches and other hacking attempts, knowing practical web security skills has never been more critical. Indeed, 90% of breaches first begin with an effective phishing email. Cover Your Apps seeks to provide an engaging introduction to email and password security practices, all geared at nontechnical audiences. Our modules on phishing and authentication encapsulate interactive examples, quizzes, and final simulations rooted in real-life cyber incidents. This effort brings together our security education at Stanford, our technical communication skills, and our ability to create an web experience that stokes interest in learning good online security practices.", 
+          "placement": "education",
+					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/cover_your_apps.jpg?raw=true"
+       },
+			 {
+          "class": "CS191",
+          "team_members": "Thomas Lau",
+          "project_name": "Brendan - A Deep Convolutional Network for Representing Latent Features of Protein-Ligand Binding Poses",
+          "summary": "We introduce a deep convolutional network, Brendan, that allows us to learn the latent features of Protein-Ligand binding poses to aid computational drug discovery.",
+					"description": "Empirical molecular \"fingerprints\" are often used in computational drug discovery to predict predict Protein-Ligand binding affinity. However, these fingerprints are based on molecular force fields or chemical descriptors that must be hand-tailored to match quantum mechanical experiment data, making the development and choice of fingerprint features extremely difficult. In this paper, we introduce a deep convolutional network, Brendan, that allows us to learn the latent features of Protein-Ligand binding poses by training on the raw crystallographic poses from PDBBind that beats the current state of the art.",
+          "placement": "research",
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/brendan.png?raw=true"
+       },
+			 {
+          "class": "CS194",
+          "team_members": "Gordon Dean, Ben Krausz, Alexei Bastidas, Emily Franklin",
+          "project_name": "TourneyBot",
+					"summary": "An automated tournament administrator",
+					"description": "TourneyBot is a chatbot that organizes and runs tournaments for gaming communities that use the Discord chat service. A player only needs to add TourneyBot to their chat server and tell TourneyBot what kind of tournament the player would like, and then TourneyBot runs the tournament for them. Tournament set-up is easy because TourneyBot provides an easy-to-use natural language interface. Additionally, TourneyBot leverages Challonge, a webservice that provides tournament organization tools.",
+          "placement": "arcade",
+          "logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/tourney_bot.png?raw=true"
+       },
+			 {
+          "class": "CS199",
+          "team_members": "Jackie Becker, Jay Borenstein",
+          "project_name": "Augmented Stories",
+          "summary": "Making stories come to life through augmented reality.",
+          "description": "This project allows you to build scenes within an augmented reality environment, add characters and music, and link those scenes to physical pages. After building out your virtual book, you can open up a real one and, by simply looking at each page, trigger the scene you made for that page to come to life around you. Various optimizations have been done to ensure high frame rate, and spatial mapping has been integrated into the scene-building experience so that you can intelligently place your scene objects. This project was done as part of an independent study with Jay Borenstein, one of the biggest advocates on campus for new technologies such as AR/VR.",
+          "placement": "vr"
+       }
 	]
 }
