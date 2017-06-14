@@ -15,10 +15,6 @@
         "name": "Public policy and government",
         "area": "far-left-room"
     },
-    "hardware": {
-        "name": "Hardware",
-        "area": "top-left-room"
-    },
     "health": {
         "name": "Health and biotech",
         "area": "left-room"
@@ -29,7 +25,7 @@
     },
     "research": {
         "name": "Research",
-        "area": "far-right-room"
+        "area": ["far-right-room", "top-left-room"]
     },
     "judging": {
         "name": "Judges' area",
