@@ -214,7 +214,7 @@
 					"team_name": "Chariot",
           "summary": "Chariot aims to enable fast, intuitive, and effortless monitoring of surroundings of autonomous vehicles. We will show the driver an immersive display of the car and its full surroundings using real-time 3-D reconstruction from camera and range sensors.",
           "description": "Chariot is redesigning the driving experience for users of autonomous vehicles. We aim to enable fast, intuitive, and effortless monitoring of the car’s surroundings during Level 4 and Level 5 autonomy. We will use the windshield as a display to render the car and its surroundings using real-time 3-D reconstruction of data from on-board sensors. Additionally, the viewpoint responds to the position and orientation of the driver’s head. By revolutionizing the way drivers interact with their cars, our product will increase their sense of safety on the road and their trust in autonomous driving systems. We will present a software prototype of our concept.",
-          "placement": "arcade",
+          "placement": "research",
 					"logo_url": "https://github.com/cs210/fair-guide/blob/master/src/images/chariot.png?raw=true"
         },
 				{
@@ -381,7 +381,7 @@
           "project_name": "Chat.IO",
           "summary": "Chat.IO connects users to a variety of chatbots either in house or developed by 3rd parties.",
           "description": "Our project integrates an arbitrary chatbots through a relay server to connect them to users. Our relay server is coded with a MEAN stack model and stores information about Users, Bots, and Conversations. All communication between bots and users is mediated by the server and done through https communication. In this way, bots can be coded in any language as long as they can hit the endpoints provided by the relay server, making it friendly to outside developers. The bots themselves range from simple bots to bots making use of Tensorflow and other AI libraries and frameworks.",
-          "placement": "arcade"
+          "placement": "consumer"
         },
 				{  
           "class": "CS194",
@@ -389,7 +389,7 @@
           "project_name": "Smarticle",
           "summary": "A webapp that remembers what you’ve already read and highlights the new information in an article for quick skimming. You can read the parts you don’t know already, rather than sifting through redundant information.",
           "description": "Smarticle’s ultimate goal is to help people use the internet efficiently to learn new topics faster. The internet gives us access to an abundance of information on virtually any topic. The downside is that so many articles and websites contain overlapping information, and often learning something new requires sifting through endless passages of what we already know. This can eat a lot of our learning time. Smarticle offers two features for solving this problem. First, the \"add\" feature allows users can specify the urls of content they have already read, which are then fed into Smarticle’s database. Second, the \"read\" feature takes the url of a new document the user wants to read, compares this text to previously “added” documents using Natural Language Processing techniques, and highlights sections of the new document that contain previously unencountered information. This allows users to skim documents faster by only reading new information and avoiding going over what they already know.",
-          "placement": "arcade"
+          "placement": "education"
        },
 			 {
           "class": "CS194",
@@ -397,7 +397,7 @@
           "project_name": "Chroniker",
           "summary": "Chroniker makes scheduling events automatic by combining calendar integration with a smart algorithm, eliminating the need for services like When2Meet and Doodle.",
 					"description": "Time is a precious resource, and scheduling times to meet up with busy people can be tedious and time-consuming itself. Chroniker capitalizes on the fact that many people already use electronic calendars to manage their time. Our application syncs with users’ Google accounts to smartly suggest meetup times that work well with everyone's schedule, and updates those calendars automatically when an event is confirmed. Our algorithm incorporates the time constraints of the group, specific user preferences, and NLP to find optimal times for an event. Simply put, Chroniker is a simple, smart, and efficient way to manage your time.",
-          "placement": "arcade"
+          "placement": "consumer"
        },
 			 {
           "class": "CS191",
