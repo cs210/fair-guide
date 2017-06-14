@@ -356,7 +356,7 @@
           "project_name": "Analyzing Gender in Early Sci-fi",          
           "summary": "Used word embeddings to investigate how gendered words differ across corpora",
           "description": "Word embeddings are used as a tool to capture semantic similarity between words based on their surroundings. Here, we apply them to a corpus of 1800-1900 science fiction books and look at how different words have associated themselves with specific genders, and how those words have changed across time and genre.",
-          "placement": "arcade"
+          "placement": "research"
       },
 			{
           "class": "CS191",
@@ -422,7 +422,7 @@
           "project_name": "Statistical inference of polygenic selection acting on a wide range of human complex traits",
 					"summary": "Developed a novel statistical test for the action of selection on complex traits that uses GWAS summary data as input",
 					"description": "We develop a novel statistical test for the action of selection on complex traits that uses GWAS summary data as input. Our method requires estimated effect sizes from only a single population and relies on effect size differentiation at derived as compared to ancestral alleles. We use model-based simulations that account for recent human demography and stabilizing selection and polygenic adaptation to motivate our method, and we develop empirical tools to control for possible confounders such as linkage disequilibrium and population structure.",
-          "placement": "arcade"
+          "placement": "research"
        },
 			 {  
           "class": "CS194",
@@ -475,6 +475,14 @@
           "summary": "Making stories come to life through augmented reality.",
           "description": "This project allows you to build scenes within an augmented reality environment, add characters and music, and link those scenes to physical pages. After building out your virtual book, you can open up a real one and, by simply looking at each page, trigger the scene you made for that page to come to life around you. Various optimizations have been done to ensure high frame rate, and spatial mapping has been integrated into the scene-building experience so that you can intelligently place your scene objects. This project was done as part of an independent study with Jay Borenstein, one of the biggest advocates on campus for new technologies such as AR/VR.",
           "placement": "vr"
+       },
+			 {
+          "class": "CS191",
+          "team_members": "Manu Chopra, Kevin Yang",
+          "project_name": "Beast",
+          "summary": "Beast is a new spin on visualising fitness progress through your own playful, exaggerated fitness avatar.",
+          "description": "Beast is a new spin on visualising fitness progress through your own playful, exaggerated fitness avatar. Powered by iOS, your avatar will shapeshift based on your health/fitness data. Through Beast, your and your friends' avatars live in the digital gym with a playlist of musically-charged workouts. Our goal is to create a fun fitness experience for beginners and people of all fitness levels.",
+          "placement": "health"
        }
 	]
 }
