@@ -480,8 +480,8 @@
           "class": "CS191",
           "team_members": "Manu Chopra, Kevin Yang",
           "project_name": "Beast",
-          "summary": "Beast is a new spin on visualising fitness progress through your own playful, exaggerated fitness avatar.",
-          "description": "Beast is a new spin on visualising fitness progress through your own playful, exaggerated fitness avatar. Powered by iOS, your avatar will shapeshift based on your health/fitness data. Through Beast, your and your friends' avatars live in the digital gym with a playlist of musically-charged workouts. Our goal is to create a fun fitness experience for beginners and people of all fitness levels.",
+          "summary": "A new spin on visualising fitness progress through playful avatars, fun workout videos and dramatically redesigned food logging",
+          "description": "Beast is a new spin on visualising fitness progress through your own playful, exaggerated fitness avatar.  Powered by iOS, your avatar will shapeshift based on your health/fitness data. Through Beast, your and your friends' avatars live in the digital gym with a playlist of musically-charged workouts. Our goal is to create a fun fitness experience for beginners and people of all fitness levels.",
           "placement": "health"
        }
 	]
