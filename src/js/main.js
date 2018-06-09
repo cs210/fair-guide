@@ -20,22 +20,22 @@ function generateGuideListings(placements) {
     }).then((json) => {
         const submissions = _.sortBy(json.submissions, (submission) => submission.project_name);
         const groups = _.groupBy(submissions, 'placement');
-				console.log(groups);
+        console.log(groups);
 
         let content = document.querySelector('.fair-guide');
         _.forIn(placements, (placementData, placementKey) => {
-						if (placementKey in groups) {
-								const name = placementData.name
-								const sectionData = {
-										name,
-										submissions: placementKey in groups ? groups[placementKey].map((submission, index) =>
-												Object.assign({}, submission, { id: `${name}-${index}` })) : []
-								};
+            if (placementKey in groups) {
+                const name = placementData.name
+                const sectionData = {
+                    name,
+                    submissions: placementKey in groups ? groups[placementKey].map((submission, index) =>
+                        Object.assign({}, submission, { id: `${name}-${index}` })) : []
+                };
 
-								const sectionHtml = sectionTemplate(sectionData);
+                const sectionHtml = sectionTemplate(sectionData);
 
-								content.insertAdjacentHTML('beforeend', sectionHtml);
-						}
+                content.insertAdjacentHTML('beforeend', sectionHtml);
+            }
         });
     });
 }
@@ -47,24 +47,24 @@ function generateGuideMap(placements) {
         let floorplanContainer = document.createElement('div');
         floorplanContainer.innerHTML = floorplan;
 
-        _.forIn(placements, (placementData, placementName) => {
-            const { name, area } = placementData;
-            let areasToProcess = [];
-            if (!_.isArray(area)) {
-                areasToProcess.push(area);
+        _.forIn(placements.areas, (areaCategories, area) => {
+            let categoriesToProcess = [];
+            if (!_.isArray(areaCategories)) {
+                categoriesToProcess.push(placements.categories[areaCategories].name);
             } else {
-                areasToProcess = areasToProcess.concat(area);
+                categoriesToProcess = _.map(areaCategories, (category) => {
+                    return placements.categories[category].name;
+                });
             }
+            const areaLabel = categoriesToProcess.join('; ');
 
-            areasToProcess.forEach((area) => {
-                const planArea = floorplanContainer.querySelector(`.${area}`);
-                const planText = planArea.parentElement.querySelector('p');
+            const planArea = floorplanContainer.querySelector(`.${area}`);
+            const planText = planArea.parentElement.querySelector('p');
 
-                console.log(planArea);
-                console.log(planText);
+            console.log(planArea);
+            console.log(planText);
 
-                planText.textContent = name;
-            });
+            planText.textContent = areaLabel;
         });
 
         let content = document.querySelector('.fair-map');
@@ -75,6 +75,6 @@ function generateGuideMap(placements) {
 document.addEventListener("DOMContentLoaded", function() {
     getPlacements().then((placements) => {
         generateGuideMap(placements);
-        generateGuideListings(placements);
+        generateGuideListings(placements.categories);
     });
 });
