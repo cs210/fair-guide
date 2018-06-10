@@ -24,9 +24,12 @@ npm run build
 
 ### How building the Software Fair guide works
 
-All the submissions are defined in `src/data/submissions.json`.
+All the submissions are defined in `src/data/submissions.json`. If you have a CSV spreadsheet of submissions, you can customize the column names in `parser.py` and run that script on a CSV file to regenerate `src/data/submissions.json`. For example:
+```
+python3 parser.py src/data/2018_responses.csv
+```
 
-Their placement in the map is defined in `src/data/placement.json`.
+The naming in the guide and placement in the map of project categories is defined in `src/data/placement.json`.
 
 An SVG map of Wallenberg is defined in `src/data/floorplan.svg`.
 
@@ -38,3 +41,5 @@ To generate the guide, `src/js/main.js` does a few things:
 - finally, the script dumps the renders to an html file in `src/index.html`.
 
 Visiting this `index.html` through any webserver will show a "mobile-friendly" guide. The guide is also print-friendly.
+
+To generate new logos, you can install the Montserrat fonts (available online for free from Google Fonts and FontSquirrel) and add the updated year (e.g. "2018") on top of `banner_base.svg` or `banner_base.png` using the Montserrat Bold font, or simply change the year in `banner_template.svg` or `banner_template.ai` and export as an SVG with text converted to paths.
