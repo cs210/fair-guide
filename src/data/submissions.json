@@ -516,7 +516,7 @@
       "placement": "ML & NLP & CV",
       "project_name": "Perceptual Ad-Blocker",
       "summary": "We study adversarial examples for perceptual ad-blockers.",
-      "team_members": "Gili Rusak, Florian Tramer, Giancarlo Pellegrino, Dan Boneh"
+      "team_members": "Gili Rusak"
     },
     {
       "class": "CS194",
@@ -687,6 +687,14 @@
       "project_name": "Disease Protein Prediction in the Human Interactome",
       "summary": "New network-based methods for the discovery of proteins implicated in human diseases",
       "team_members": "Evan Sabri Eyuboglu"
+    },
+    {
+      "class": "CS191W",
+      "description": "Several linguists have identified qualities associated with \u201cwomen\u2019s language,\u201d and natural language processing research has studied gender in writing broadly.  However, few studies have used computational tools to look at gender-separated dialogue in literature.  Given the significance of gender and gender stereotypes in STEM fields, this project aims to quantify women\u2019s language in science fiction.  Specifically, I use Linguistic Inquiry and Word Count (LIWC) categories to analyze quotations in a corpus of short science fiction stories written between 1920 and 1965.",
+      "placement": "ML & NLP & CV",
+      "project_name": "LIWC and Leia: An analysis of gender and quotations in short science fiction",
+      "summary": "A research project that analyzes quotations and gender in short science fiction using Linguistic Inquiry and Word Count (LIWC)",
+      "team_members": "Kylie Jue"
     }
   ]
 }
