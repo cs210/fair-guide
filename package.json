@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cs210/faire-guide.git"
+    "url": "git+https://github.com/cs210/fair-guide.git"
   },
   "author": "Derrick Liu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cs210/faire-guide/issues"
+    "url": "https://github.com/cs210/fair-guide/issues"
   },
   "homepage": "https://github.com/cs210/faire-guide#readme",
   "dependencies": {
@@ -37,7 +37,7 @@
     "html-webpack-plugin": "^2.19.0",
     "image-webpack-loader": "^1.8.0",
     "imports-loader": "^0.6.5",
-    "node-sass": "^3.7.0",
+    "node-sass": "^4.9.0",
     "resolve-url-loader": "^1.4.3",
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.1",
