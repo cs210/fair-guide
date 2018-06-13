@@ -4,6 +4,8 @@
 
 ## Getting started
 
+You can use either `yarn` or `npm`. The commands below should be identical.
+
 Clone this repository and run
 
 ```
@@ -25,6 +27,7 @@ npm run build
 ### How building the Software Fair guide works
 
 All the submissions are defined in `src/data/submissions.json`. If you have a CSV spreadsheet of submissions, you can customize the column names in `parser.py` and run that script on a CSV file to regenerate `src/data/submissions.json`. For example:
+
 ```
 python3 parser.py src/data/2018_responses.csv
 ```
