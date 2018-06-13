@@ -695,6 +695,14 @@
       "project_name": "LIWC and Leia: An analysis of gender and quotations in short science fiction",
       "summary": "A research project that analyzes quotations and gender in short science fiction using Linguistic Inquiry and Word Count (LIWC)",
       "team_members": "Kylie Jue"
+    },
+    {
+      "class": "CS399",
+      "description": "Presenting 2 separate projects: \n1) RedditCabal is a twitch stream where you can vote live on new posts to Reddit. Browsing new posts on Reddit can often be a boring experience, but the people who browse new posts are the ones who decide what makes it to the front page. RedditCabal makes dredging through new posts into a social experience.   \n2) Gerry is a mobile puzzle game where you gerrymander districts to win them for your party. It uses a minimalist 3-D puzzle block aesthetic and simple controls.",
+      "placement": "Music & Social",
+      "project_name": "Gerry + RedditCabal",
+      "summary": "Presenting 2 separate projects: \n1) RedditCabal is a twitch stream where you can vote live on new posts to Reddit. \n2) Gerry is a mobile puzzle game where you gerrymander districts to win them for your party.",
+      "team_members": "Dennis Woncheol Jeong"
     }
   ]
 }
