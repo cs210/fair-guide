@@ -10,17 +10,10 @@ import pandas as pd
 
 
 COLUMN_NAMES = {
-    'class': 'What class are you taking for your senior project?',
-    'team_members': (
-        'Please list the full names of everyone on the team as you would like '
-        'them to appear on the program, separated by commas'
-    ),
-    'project_name': 'What is the name of your project? ',
-    'team_name': 'What is the name of your team? (optional)',
-    'summary': 'Give a brief, 1-2 sentence (or sentence fragment) summary of your project. ',
-    'description': 'Give a longer, ~5 sentence to short paragraph "deep dive" into your project.',
-    'placement': 'Category',
-    'logo_url': 'Logo Url'
+    'Team Name': 'Team Name',
+    'Team Members': 'Team Members',
+    'Description': 'Description',
+    'Category': 'Category'
 }
 
 
