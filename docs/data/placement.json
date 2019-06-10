@@ -38,17 +38,16 @@
         }
     },
     "areas": {
-        "arcade": ["Blockchain", "Public Policy & Government & Nonprofits"],
+        "arcade": "Automotive",
         "stairs": "stairs",
         "front-hall-left": "welcome",
         "far-left-room": "Health & Biomedical",
-        "top-left-room": "ML & NLP & CV",
-        "front-hall-center": "Consumer",
-        "left-room": "Autonomous Systems & ML",
-        "center-room": "Games & VR/AR",
+        "top-left-room": "Government, News, & Service",
+        "front-hall-center": "Machine Learning",
+        "left-room": "Games & VR/AR",
+        "center-room": "Computer Vision & Artificial Intelligence",
         "right-room": "Education",
-        "front-hall-right": "Systems & Security",
-        "far-right-room": "Music & Social",
+        "far-right-room": "Social",
         "top-right-room": "judging"
     }
 }
