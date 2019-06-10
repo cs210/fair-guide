@@ -10,10 +10,10 @@ import pandas as pd
 
 
 COLUMN_NAMES = {
-    'Team Name': 'Team Name',
-    'Team Members': 'Team Members',
-    'Description': 'Description',
-    'Category': 'Category'
+    'project_name': 'Team Name',
+    'team_members': 'Team Members',
+    'description': 'Description',
+    'placement': 'Category'
 }
 
 

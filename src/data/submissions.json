@@ -1,368 +1,368 @@
 {
   "submissions": [
     {
-      "Category": "Automotive",
-      "Description": "Our team is interested in building a automatic highlight reel for drivers.",
-      "Team Members": "Steven Wang, Katherine Sun, Sona Allahverdiyeva, JC Liang",
-      "Team Name": "SeeMore"
+      "description": "Our team is interested in building a automatic highlight reel for drivers.",
+      "placement": "Automotive",
+      "project_name": "SeeMore",
+      "team_members": "Steven Wang, Katherine Sun, Sona Allahverdiyeva, JC Liang"
     },
     {
-      "Category": "Automotive",
-      "Description": "ViO is building a contextual lighting system (CLS) to make communication between driver and vehicle seamless. We integrate navigation and hazard detection into the windscreen, so the driver never has to take their eyes off the road.",
-      "Team Members": "Tevon Strand-Brown, Shrey Gupta, Nathan Kong, Paul Warren, Anirudh Jain",
-      "Team Name": "ViO"
+      "description": "ViO is building a contextual lighting system (CLS) to make communication between driver and vehicle seamless. We integrate navigation and hazard detection into the windscreen, so the driver never has to take their eyes off the road.",
+      "placement": "Automotive",
+      "project_name": "ViO",
+      "team_members": "Tevon Strand-Brown, Shrey Gupta, Nathan Kong, Paul Warren, Anirudh Jain"
     },
     {
-      "Category": "Automotive",
-      "Description": "Amicus is an intelligent personal assistant designed for a vehicle setting. Amicus uses dynamic responses to form a connection with the driver, and it extends the traditional functionality of an automotive assistant with an emotionally expressive animated avatar.",
-      "Team Members": "Santi Gutierrez, Jaewoo Jang, Nitya Mani, Sharman Tan, Ryan Jae",
-      "Team Name": "Amicus"
+      "description": "Amicus is an intelligent personal assistant designed for a vehicle setting. Amicus uses dynamic responses to form a connection with the driver, and it extends the traditional functionality of an automotive assistant with an emotionally expressive animated avatar.",
+      "placement": "Automotive",
+      "project_name": "Amicus",
+      "team_members": "Santi Gutierrez, Jaewoo Jang, Nitya Mani, Sharman Tan, Ryan Jae"
     },
     {
-      "Category": "Automotive",
-      "Description": "When you get into a car, you can feel a variety of emotions--all of which can impact your driving. Did you know that if you\u2019re in a negative emotional state of mind, you\u2019re ten times as likely to get into a car accident? We were shocked when we discovered this statistic! Hence, we were inspired to build an emotionally intelligent personal assistant for a car, Karbon. Karbon addresses this issue by continuously analyzing the driver's emotional state and responding in a personalized manner to elevate the driver's mood, allowing for a safer and smoother driving experience.",
-      "Team Members": "Vedi Chaudhri, McDavis Ansere, Michael Lin, Trevor Rex, Alwyn Tan",
-      "Team Name": "Karbon"
+      "description": "When you get into a car, you can feel a variety of emotions--all of which can impact your driving. Did you know that if you\u2019re in a negative emotional state of mind, you\u2019re ten times as likely to get into a car accident? We were shocked when we discovered this statistic! Hence, we were inspired to build an emotionally intelligent personal assistant for a car, Karbon. Karbon addresses this issue by continuously analyzing the driver's emotional state and responding in a personalized manner to elevate the driver's mood, allowing for a safer and smoother driving experience.",
+      "placement": "Automotive",
+      "project_name": "Karbon",
+      "team_members": "Vedi Chaudhri, McDavis Ansere, Michael Lin, Trevor Rex, Alwyn Tan"
     },
     {
-      "Category": "Automotive",
-      "Description": "GGRID is a head up display that uses computer vision to assess what is happening both inside and outside of the car. It has all the functionality of a navigation HUD, but the information shown by the UI will adapt to your surroundings and concentration levels. We hope that by highlighting the right information at the right time, GGRID will make your drive easier, safer and less stressful.",
-      "Team Members": "Krishna Gorrepati, Swathi Iyer, Vikul Gupta, Chase Davis, Maya Ramsey",
-      "Team Name": "GGRID"
+      "description": "GGRID is a head up display that uses computer vision to assess what is happening both inside and outside of the car. It has all the functionality of a navigation HUD, but the information shown by the UI will adapt to your surroundings and concentration levels. We hope that by highlighting the right information at the right time, GGRID will make your drive easier, safer and less stressful.",
+      "placement": "Automotive",
+      "project_name": "GGRID",
+      "team_members": "Krishna Gorrepati, Swathi Iyer, Vikul Gupta, Chase Davis, Maya Ramsey"
     },
     {
-      "Category": "Business/Consumer",
-      "Description": "Scribe helps people transcribe their conference calls without having someone on the line. Sign in, get your conference call number, have your conference call, and we send you the meeting notes sent to your phone right after the call is finished.",
-      "Team Members": "Abhi Kulgod and Tyler Smith",
-      "Team Name": "Scribe"
+      "description": "Scribe helps people transcribe their conference calls without having someone on the line. Sign in, get your conference call number, have your conference call, and we send you the meeting notes sent to your phone right after the call is finished.",
+      "placement": "Business/Consumer",
+      "project_name": "Scribe",
+      "team_members": "Abhi Kulgod and Tyler Smith"
     },
     {
-      "Category": "Business/Consumer",
-      "Description": "Pact is a blockchain-based web platform that aims to streamline the process by which banks evaluate consumer loan applications. On our platform, lenders can upload and share documents from consumers that are important for evaluating consumer loans, such as credit history reports, work history, and bills. Then, other lenders can quickly and easily access these verified documents, reducing the need for individual lenders to track down and verify consumer data multiple times.",
-      "Team Members": "Vikram Pattabi, Tara Iyer, Benjamin Hannel, Andrew Zhang, Lily Liu",
-      "Team Name": "Pact"
+      "description": "Pact is a blockchain-based web platform that aims to streamline the process by which banks evaluate consumer loan applications. On our platform, lenders can upload and share documents from consumers that are important for evaluating consumer loans, such as credit history reports, work history, and bills. Then, other lenders can quickly and easily access these verified documents, reducing the need for individual lenders to track down and verify consumer data multiple times.",
+      "placement": "Business/Consumer",
+      "project_name": "Pact",
+      "team_members": "Vikram Pattabi, Tara Iyer, Benjamin Hannel, Andrew Zhang, Lily Liu"
     },
     {
-      "Category": "Business/Consumer",
-      "Description": "Our project is a cross-platform desktop application that allows users to quickly select and copy any text on their screen using optical character recognition (OCR), regardless of whether or not that text would normally be selectable. Our project enables selecting text in images, scanned PDFs, and any other on-screen interfaces that may not have been designed to be selected.",
-      "Team Members": "Toby Bell, Oliver Huang, Cade May, Hayden Little and Reinaldo Perez",
-      "Team Name": "21CFC"
+      "description": "Our project is a cross-platform desktop application that allows users to quickly select and copy any text on their screen using optical character recognition (OCR), regardless of whether or not that text would normally be selectable. Our project enables selecting text in images, scanned PDFs, and any other on-screen interfaces that may not have been designed to be selected.",
+      "placement": "Business/Consumer",
+      "project_name": "21CFC",
+      "team_members": "Toby Bell, Oliver Huang, Cade May, Hayden Little and Reinaldo Perez"
     },
     {
-      "Category": "Business/Consumer",
-      "Description": "PlanIt is a travel itinerary generation and recommendation tool that helps people get the most possible out of their vacations. It includes two main features: personalized recommendations of restaurants, museums and other points of interest nearby, and optimization of your travel itinerary to make sure you hit every place on your list.",
-      "Team Members": "Zoe Solis, Solomon Barth, Patrick Mogan, Wil Kautz, Nathan Orttung",
-      "Team Name": "PlanIt"
+      "description": "PlanIt is a travel itinerary generation and recommendation tool that helps people get the most possible out of their vacations. It includes two main features: personalized recommendations of restaurants, museums and other points of interest nearby, and optimization of your travel itinerary to make sure you hit every place on your list.",
+      "placement": "Business/Consumer",
+      "project_name": "PlanIt",
+      "team_members": "Zoe Solis, Solomon Barth, Patrick Mogan, Wil Kautz, Nathan Orttung"
     },
     {
-      "Category": "Business/Consumer",
-      "Description": "Micasa: a mobile app where students store items with local homeowners",
-      "Team Members": "Carmelle Millar",
-      "Team Name": "Individual"
+      "description": "Micasa: a mobile app where students store items with local homeowners",
+      "placement": "Business/Consumer",
+      "project_name": "Individual",
+      "team_members": "Carmelle Millar"
     },
     {
-      "Category": "Computer Vision & Artificial Intelligence",
-      "Description": "Running computer vision techniques for analysis on hockey datasets",
-      "Team Members": "Daniel Semeniuta",
-      "Team Name": "Individual"
+      "description": "Running computer vision techniques for analysis on hockey datasets",
+      "placement": "Computer Vision & Artificial Intelligence",
+      "project_name": "Individual",
+      "team_members": "Daniel Semeniuta"
     },
     {
-      "Category": "Computer Vision & Artificial Intelligence",
-      "Description": "Our iOS App gives real-time visual assistance to visually-impaired populations by providing them with instant information about the objects in front of them!",
-      "Team Members": "Jaisel Sandhu, Frits van Paasschen, Isaac Kasevich, Abanezer Sisay, Armando Banuelos",
-      "Team Name": "Tarsier"
+      "description": "Our iOS App gives real-time visual assistance to visually-impaired populations by providing them with instant information about the objects in front of them!",
+      "placement": "Computer Vision & Artificial Intelligence",
+      "project_name": "Tarsier",
+      "team_members": "Jaisel Sandhu, Frits van Paasschen, Isaac Kasevich, Abanezer Sisay, Armando Banuelos"
     },
     {
-      "Category": "Computer Vision & Artificial Intelligence",
-      "Description": "We utilize novel computer vision and representation learning techniques in order to enhance the quality of images.",
-      "Team Members": "Aleksander Dash, Jeffrey Zhang, Joseph Chang, Nolan Handali",
-      "Team Name": "MagnifAI"
+      "description": "We utilize novel computer vision and representation learning techniques in order to enhance the quality of images.",
+      "placement": "Computer Vision & Artificial Intelligence",
+      "project_name": "MagnifAI",
+      "team_members": "Aleksander Dash, Jeffrey Zhang, Joseph Chang, Nolan Handali"
     },
     {
-      "Category": "Computer Vision & Artificial Intelligence",
-      "Description": "An optical music score recognizer system for four-part writing with chord analysis and voice leading correction.",
-      "Team Members": "Jinhong Mi",
-      "Team Name": "Individual"
+      "description": "An optical music score recognizer system for four-part writing with chord analysis and voice leading correction.",
+      "placement": "Computer Vision & Artificial Intelligence",
+      "project_name": "Individual",
+      "team_members": "Jinhong Mi"
     },
     {
-      "Category": "Computer Vision & Artificial Intelligence",
-      "Description": "Artificial intelligence analysis of veterinary medical records for live prediction and clinical assistance.",
-      "Team Members": "Sam Ginn",
-      "Team Name": "Sam Ginn (Individual)"
+      "description": "Artificial intelligence analysis of veterinary medical records for live prediction and clinical assistance.",
+      "placement": "Computer Vision & Artificial Intelligence",
+      "project_name": "Sam Ginn (Individual)",
+      "team_members": "Sam Ginn"
     },
     {
-      "Category": "Education",
-      "Description": "Computer Adaptive Testing (CAT) is a promising future for personalized testing.  CAT seeks to intelligently examine a student by selecting questions from a pre-existing question bank that fit the student's estimated ability level.  The questions and corresponding responses are then used to compute an accurate estimate student ability after the exam is complete.  \n\nThis project focuses upon blending Item Response Theory and Reinforcement Learning to create a robust question selector for CAT.  The goal is to create a question selector that strikes a balance between exploration of diverse questions and exploitation of the student's estimated ability level.",
-      "Team Members": "Hannah Leou",
-      "Team Name": "Individual"
+      "description": "Computer Adaptive Testing (CAT) is a promising future for personalized testing.  CAT seeks to intelligently examine a student by selecting questions from a pre-existing question bank that fit the student's estimated ability level.  The questions and corresponding responses are then used to compute an accurate estimate student ability after the exam is complete.  \n\nThis project focuses upon blending Item Response Theory and Reinforcement Learning to create a robust question selector for CAT.  The goal is to create a question selector that strikes a balance between exploration of diverse questions and exploitation of the student's estimated ability level.",
+      "placement": "Education",
+      "project_name": "Individual",
+      "team_members": "Hannah Leou"
     },
     {
-      "Category": "Education",
-      "Description": "I worked on a variety of interactive educational exhibits at the National Museum of Mathematics in New York. Here I present the improvements I made, and the design principles I learned along the way.",
-      "Team Members": "Ashwin Agarwal",
-      "Team Name": "Ashwin Agarwal"
+      "description": "I worked on a variety of interactive educational exhibits at the National Museum of Mathematics in New York. Here I present the improvements I made, and the design principles I learned along the way.",
+      "placement": "Education",
+      "project_name": "Ashwin Agarwal",
+      "team_members": "Ashwin Agarwal"
     },
     {
-      "Category": "Education",
-      "Description": "Carta is a web-based application that allows students to plan their courses and view a variety of information about each course. Carta has been used consistently by Stanford students for two years. For my project, I analyzed qualitative interviews on how Carta has affected academic life for students.",
-      "Team Members": "Grace Wu",
-      "Team Name": "Individual"
+      "description": "Carta is a web-based application that allows students to plan their courses and view a variety of information about each course. Carta has been used consistently by Stanford students for two years. For my project, I analyzed qualitative interviews on how Carta has affected academic life for students.",
+      "placement": "Education",
+      "project_name": "Individual",
+      "team_members": "Grace Wu"
     },
     {
-      "Category": "Education",
-      "Description": "Our course scheduling tool helps students craft and edit their 4-year plan, as well as get automated degree requirement checking capability, both for general education and major-specific requirements.",
-      "Team Members": "Nick Bowman, Robbie Jones, Monica Anuforo, Niki Agrawal",
-      "Team Name": "The Karelers"
+      "description": "Our course scheduling tool helps students craft and edit their 4-year plan, as well as get automated degree requirement checking capability, both for general education and major-specific requirements.",
+      "placement": "Education",
+      "project_name": "The Karelers",
+      "team_members": "Nick Bowman, Robbie Jones, Monica Anuforo, Niki Agrawal"
     },
     {
-      "Category": "Education",
-      "Description": "Mosquito Chat is an iOS and web application that allows foreign language teachers to assign partnered speaking assignments. It gives students an opportunity to practice oral language skills outside of the classroom, seamlessly handling the logistics of recording a call between multiple students and the submission to an instructor. Usually, conversation practice occurs primarily in class, and even when oral assignments are assigned, they are typically on an individual basis with the student left to figure out how to record their speech. With our app, teachers can focus on conversation feedback and students can focus on practicing their language skills.",
-      "Team Members": "Adrien Truong, Liza Murdoch, David Lee-Heidenreich, Olivia Gregory",
-      "Team Name": "Mosquito Chat"
+      "description": "Mosquito Chat is an iOS and web application that allows foreign language teachers to assign partnered speaking assignments. It gives students an opportunity to practice oral language skills outside of the classroom, seamlessly handling the logistics of recording a call between multiple students and the submission to an instructor. Usually, conversation practice occurs primarily in class, and even when oral assignments are assigned, they are typically on an individual basis with the student left to figure out how to record their speech. With our app, teachers can focus on conversation feedback and students can focus on practicing their language skills.",
+      "placement": "Education",
+      "project_name": "Mosquito Chat",
+      "team_members": "Adrien Truong, Liza Murdoch, David Lee-Heidenreich, Olivia Gregory"
     },
     {
-      "Category": "Education",
-      "Description": "Helping Hands is an interactive app that makes learning American Sign Language fun and easy! Our app has modules of increasing complexity for language learning, and uses computer vision to provide real-time feedback of student signing.",
-      "Team Members": "Swetha Revanur, Matt Linker, Gabriel Garza, Andrew Narcomey, Christina Li",
-      "Team Name": "Helping Hands"
+      "description": "Helping Hands is an interactive app that makes learning American Sign Language fun and easy! Our app has modules of increasing complexity for language learning, and uses computer vision to provide real-time feedback of student signing.",
+      "placement": "Education",
+      "project_name": "Helping Hands",
+      "team_members": "Swetha Revanur, Matt Linker, Gabriel Garza, Andrew Narcomey, Christina Li"
     },
     {
-      "Category": "Education",
-      "Description": "CourseHopper is an online tool that lets students across disciplines design and manage course plans for their academic careers. This app uses a robust course database along with standardized program requirement information to create a streamlined mechanism for planning both general education and major-specific classes. With functionality for a number of Stanford\u2019s largest undergrad programs, CourseHopper lets students centralize their academic planning and track their progress without the hassle of cumbersome, outdated spreadsheets.",
-      "Team Members": "Eli Echt-Wilson, Kate Rydberg, Garrick Fernandez, Kaylee Bement, Riley Wilson",
-      "Team Name": "Rabbit Universe"
+      "description": "CourseHopper is an online tool that lets students across disciplines design and manage course plans for their academic careers. This app uses a robust course database along with standardized program requirement information to create a streamlined mechanism for planning both general education and major-specific classes. With functionality for a number of Stanford\u2019s largest undergrad programs, CourseHopper lets students centralize their academic planning and track their progress without the hassle of cumbersome, outdated spreadsheets.",
+      "placement": "Education",
+      "project_name": "Rabbit Universe",
+      "team_members": "Eli Echt-Wilson, Kate Rydberg, Garrick Fernandez, Kaylee Bement, Riley Wilson"
     },
     {
-      "Category": "Education",
-      "Description": "Mosaic gives educators the tools they need to better organize and understand their students' learning.",
-      "Team Members": "Aaron Levett, Connie Xiao, Joan Chen, Peter Wang, Philip Weiss",
-      "Team Name": "Mosaic"
+      "description": "Mosaic gives educators the tools they need to better organize and understand their students' learning.",
+      "placement": "Education",
+      "project_name": "Mosaic",
+      "team_members": "Aaron Levett, Connie Xiao, Joan Chen, Peter Wang, Philip Weiss"
     },
     {
-      "Category": "Education",
-      "Description": "Open access to high-quality education is limited by the  difficulty of providing student feedback. We present Generative Grading with Neural Approximate Parsing (GG-NAP):  a novel approach for providing feedback at scale that is capable of both accurately grading student work while also providing verifiability\u2014a property where the model is able to substantiate its claims with a provable certificate.",
-      "Team Members": "individual",
-      "Team Name": "individual"
+      "description": "Open access to high-quality education is limited by the  difficulty of providing student feedback. We present Generative Grading with Neural Approximate Parsing (GG-NAP):  a novel approach for providing feedback at scale that is capable of both accurately grading student work while also providing verifiability\u2014a property where the model is able to substantiate its claims with a provable certificate.",
+      "placement": "Education",
+      "project_name": "individual",
+      "team_members": "individual"
     },
     {
-      "Category": "Education",
-      "Description": "I wrote a mobile application for the Cherokee Language class at Stanford, available in Android & iOS using React Native. The application includes voice recordings of fluent speakers saying each word in a word list. Students can record themselves saying the same word and play it back at the same time. This helps students hear the differences in their speech.",
-      "Team Members": "Gracie Young",
-      "Team Name": "Gracie Young"
+      "description": "I wrote a mobile application for the Cherokee Language class at Stanford, available in Android & iOS using React Native. The application includes voice recordings of fluent speakers saying each word in a word list. Students can record themselves saying the same word and play it back at the same time. This helps students hear the differences in their speech.",
+      "placement": "Education",
+      "project_name": "Gracie Young",
+      "team_members": "Gracie Young"
     },
     {
-      "Category": "Education",
-      "Description": "I conducted a longitudinal study that evaluated the utility of OKRs among student athletes trying to attain their career and academic goals, and made an app prototype to supplement the study based on my findings.",
-      "Team Members": "Cole DePasquale",
-      "Team Name": "Individual"
+      "description": "I conducted a longitudinal study that evaluated the utility of OKRs among student athletes trying to attain their career and academic goals, and made an app prototype to supplement the study based on my findings.",
+      "placement": "Education",
+      "project_name": "Individual",
+      "team_members": "Cole DePasquale"
     },
     {
-      "Category": "Games & VR/AR",
-      "Description": "Solve 3D spatial reasoning problems in Micron, a challenging puzzle-adventure game.",
-      "Team Members": "Amber Wollam, Ben Share, Lucas Lin, Zack Cinquini",
-      "Team Name": "Micron"
+      "description": "Solve 3D spatial reasoning problems in Micron, a challenging puzzle-adventure game.",
+      "placement": "Games & VR/AR",
+      "project_name": "Micron",
+      "team_members": "Amber Wollam, Ben Share, Lucas Lin, Zack Cinquini"
     },
     {
-      "Category": "Games & VR/AR",
-      "Description": "Our product is \"Space Gerbil,\" an asymmetric cooperative game aimed at giving students a more intuitive understanding of functions and function literacy. Students play this game in teams. One student plays in VR, where they are trying to move a gerbil home to his spaceship using track pieces. The twist is that the track pieces are supplied by students on phones or laptops, who are also answering questions about functions. For teachers, we provide informative analytics on student performance in the game so that they can better understand student progress.",
-      "Team Members": "Caitlin Hogan, John McNelly, Sean Strong, Tommy Tang, Winton Yee",
-      "Team Name": "Clvrly"
+      "description": "Our product is \"Space Gerbil,\" an asymmetric cooperative game aimed at giving students a more intuitive understanding of functions and function literacy. Students play this game in teams. One student plays in VR, where they are trying to move a gerbil home to his spaceship using track pieces. The twist is that the track pieces are supplied by students on phones or laptops, who are also answering questions about functions. For teachers, we provide informative analytics on student performance in the game so that they can better understand student progress.",
+      "placement": "Games & VR/AR",
+      "project_name": "Clvrly",
+      "team_members": "Caitlin Hogan, John McNelly, Sean Strong, Tommy Tang, Winton Yee"
     },
     {
-      "Category": "Games & VR/AR",
-      "Description": "Box Ninja is a mobile game that enables video annotation for building cars of the future. It makes the boring job of data labelling fun and democratizes the labelling technology for everyone. Please feel free to come and test our app at our booth \ud83d\ude0a.",
-      "Team Members": "Cristin Lomeli, Gustavo Torres, Leon Lin, Karttikeya Mangalam",
-      "Team Name": "Box Ninja"
+      "description": "Box Ninja is a mobile game that enables video annotation for building cars of the future. It makes the boring job of data labelling fun and democratizes the labelling technology for everyone. Please feel free to come and test our app at our booth \ud83d\ude0a.",
+      "placement": "Games & VR/AR",
+      "project_name": "Box Ninja",
+      "team_members": "Cristin Lomeli, Gustavo Torres, Leon Lin, Karttikeya Mangalam"
     },
     {
-      "Category": "Games & VR/AR",
-      "Description": "Making remote counseling accessible and delightful",
-      "Team Members": "Karey Shi, Varun Nambikrishnan, Eric Matsumoto, Radha Jain, Khoi Le (me)",
-      "Team Name": "sunrose"
+      "description": "Making remote counseling accessible and delightful",
+      "placement": "Games & VR/AR",
+      "project_name": "sunrose",
+      "team_members": "Karey Shi, Varun Nambikrishnan, Eric Matsumoto, Radha Jain, Khoi Le (me)"
     },
     {
-      "Category": "Games & VR/AR",
-      "Description": "I like to move it move it\nI like to move it move it\nYa like to (move it!)",
-      "Team Members": "Claire Shu, Jessica Guo, Jay Lee, Peter Lu",
-      "Team Name": "Bento"
+      "description": "I like to move it move it\nI like to move it move it\nYa like to (move it!)",
+      "placement": "Games & VR/AR",
+      "project_name": "Bento",
+      "team_members": "Claire Shu, Jessica Guo, Jay Lee, Peter Lu"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "Stanford SSI\u2019s Spaceshot project aims to launch a rocket off a balloon into space, and it\u2019s absolutely critical that we understand exactly what\u2019s going on at all times -- and that we can control it. SpaceMC offers that in the form of both a progressive web app and a desktop app so that we have what we need to operate a successful flight.",
-      "Team Members": "Kai Marshland",
-      "Team Name": "Individual"
+      "description": "Stanford SSI\u2019s Spaceshot project aims to launch a rocket off a balloon into space, and it\u2019s absolutely critical that we understand exactly what\u2019s going on at all times -- and that we can control it. SpaceMC offers that in the form of both a progressive web app and a desktop app so that we have what we need to operate a successful flight.",
+      "placement": "Government, News, & Service",
+      "project_name": "Individual",
+      "team_members": "Kai Marshland"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "I built software for an optical (laser) communications satellite payload in orbit around Earth.",
-      "Team Members": "Orien Zeng",
-      "Team Name": "Individual"
+      "description": "I built software for an optical (laser) communications satellite payload in orbit around Earth.",
+      "placement": "Government, News, & Service",
+      "project_name": "Individual",
+      "team_members": "Orien Zeng"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "A platform that connects individuals to communities through acts of service.",
-      "Team Members": "Susannah Meyer, Cody Hankins, Luis Varela, Katherine Eisenbrand, Ian Hodge",
-      "Team Name": "Volunta"
+      "description": "A platform that connects individuals to communities through acts of service.",
+      "placement": "Government, News, & Service",
+      "project_name": "Volunta",
+      "team_members": "Susannah Meyer, Cody Hankins, Luis Varela, Katherine Eisenbrand, Ian Hodge"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "There are an overwhelming number of charities and non-profits, and many address similar issues, so it can be difficult for donors to find and choose where to give, even if a donor has decided on a particular social issue they want to focus on. After donating, the struggle continues as donors often cannot find information about how their donations are being used.\nThe Giving World is a website that helps people find and review charities, making it easy to select a non-profit to donate money or time to based on giving ability, interests, location and more. Recent news stories, examples of work, and financial information about a non-profit will allow donors to discuss how funds are being allocated and may encourage transparency among non-profits.",
-      "Team Members": "Austin Jacobs, Kathleen Kenealy, Alfonce Nzioka, Cary Huang",
-      "Team Name": "The Giving World"
+      "description": "There are an overwhelming number of charities and non-profits, and many address similar issues, so it can be difficult for donors to find and choose where to give, even if a donor has decided on a particular social issue they want to focus on. After donating, the struggle continues as donors often cannot find information about how their donations are being used.\nThe Giving World is a website that helps people find and review charities, making it easy to select a non-profit to donate money or time to based on giving ability, interests, location and more. Recent news stories, examples of work, and financial information about a non-profit will allow donors to discuss how funds are being allocated and may encourage transparency among non-profits.",
+      "placement": "Government, News, & Service",
+      "project_name": "The Giving World",
+      "team_members": "Austin Jacobs, Kathleen Kenealy, Alfonce Nzioka, Cary Huang"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "Elevate is a job platform to help the formerly incarcerated build resumes, discover nearby felony friendly jobs, and navigate through the application process.",
-      "Team Members": "Chetan Rane, Andrew Chang, Katherine Erdman, Bryce Tham, Francesca Colombo",
-      "Team Name": "Elevate"
+      "description": "Elevate is a job platform to help the formerly incarcerated build resumes, discover nearby felony friendly jobs, and navigate through the application process.",
+      "placement": "Government, News, & Service",
+      "project_name": "Elevate",
+      "team_members": "Chetan Rane, Andrew Chang, Katherine Erdman, Bryce Tham, Francesca Colombo"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "Absentee voting in the U.S. is not easy; evasive deadlines, postage costs, and long wait times make turnout among absentee voters far lower than non-absentee voters. Especially for college students, many of whom live outside their home state, the logistical difficulty of voting absentee poses a barrier to casting votes. White Mirror is an online absentee voting solution that aims to increase voter turnout by making absentee voting accessible and seamless. Built on the Oracle Blockchain platform, White Mirror uses blockchain to secure voter identity and protect voter privacy. Our application is an exploration into a future where distance is no longer a barrier to civic engagement.",
-      "Team Members": "Aileen Wang, Brandon Cui, Daniel Classon, Nikki Kang, Stephanie Niu",
-      "Team Name": "White Mirror"
+      "description": "Absentee voting in the U.S. is not easy; evasive deadlines, postage costs, and long wait times make turnout among absentee voters far lower than non-absentee voters. Especially for college students, many of whom live outside their home state, the logistical difficulty of voting absentee poses a barrier to casting votes. White Mirror is an online absentee voting solution that aims to increase voter turnout by making absentee voting accessible and seamless. Built on the Oracle Blockchain platform, White Mirror uses blockchain to secure voter identity and protect voter privacy. Our application is an exploration into a future where distance is no longer a barrier to civic engagement.",
+      "placement": "Government, News, & Service",
+      "project_name": "White Mirror",
+      "team_members": "Aileen Wang, Brandon Cui, Daniel Classon, Nikki Kang, Stephanie Niu"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "Newsworthy is a news recommendation app that aims to think like an editor, breaking the \"echo chamber\" by exposing users to a diverse set of perspectives while taking their interests and political preferences into account.",
-      "Team Members": "Daniela Gonzalez",
-      "Team Name": "Newsworthy"
+      "description": "Newsworthy is a news recommendation app that aims to think like an editor, breaking the \"echo chamber\" by exposing users to a diverse set of perspectives while taking their interests and political preferences into account.",
+      "placement": "Government, News, & Service",
+      "project_name": "Newsworthy",
+      "team_members": "Daniela Gonzalez"
     },
     {
-      "Category": "Government, News, & Service",
-      "Description": "In recent Western democratic elections, a common threat has plagued political campaigns: email exfiltration. Adversaries, often foreign nation-state actors, use perimeter-breaching tactics such as spear phishing to compromise the email accounts of high-profile members of political campaigns in the hope of finding and publishing private communications that paint the campaign in a bad light. The most recent form of this attack was that against French President Emmanuel Macron's campaign in 2017. This is also a tactic used against American corporations, a relevant example being the North Korean attack against Sony Pictures in which damaging private communications among Sony executives resulted in high-profile leadership upheaval. This project aims to develop a tool to deter this attack: cyber-blurring. This tool plans to use Natural Language Generation to create emails that plausibly look real to an attacker that has breached and organization's email database.",
-      "Team Members": "Alex Zaheer",
-      "Team Name": "Alex Zaheer"
+      "description": "In recent Western democratic elections, a common threat has plagued political campaigns: email exfiltration. Adversaries, often foreign nation-state actors, use perimeter-breaching tactics such as spear phishing to compromise the email accounts of high-profile members of political campaigns in the hope of finding and publishing private communications that paint the campaign in a bad light. The most recent form of this attack was that against French President Emmanuel Macron's campaign in 2017. This is also a tactic used against American corporations, a relevant example being the North Korean attack against Sony Pictures in which damaging private communications among Sony executives resulted in high-profile leadership upheaval. This project aims to develop a tool to deter this attack: cyber-blurring. This tool plans to use Natural Language Generation to create emails that plausibly look real to an attacker that has breached and organization's email database.",
+      "placement": "Government, News, & Service",
+      "project_name": "Alex Zaheer",
+      "team_members": "Alex Zaheer"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "The goal of our team is to help those who suffer from allergies and dietary restrictions to enjoy eating again. We developed Edibuddy as a cross-platform mobile application that recommends tasty and allergy-safe recipes for users, then helps them shop for the ingredients and cook it up!",
-      "Team Members": "Ankit Baghel, Effie Nehoran, Gordon Blake, Joseph Okonda, Chris Phan",
-      "Team Name": "Edibuddy"
+      "description": "The goal of our team is to help those who suffer from allergies and dietary restrictions to enjoy eating again. We developed Edibuddy as a cross-platform mobile application that recommends tasty and allergy-safe recipes for users, then helps them shop for the ingredients and cook it up!",
+      "placement": "Health & Biomedical",
+      "project_name": "Edibuddy",
+      "team_members": "Ankit Baghel, Effie Nehoran, Gordon Blake, Joseph Okonda, Chris Phan"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "We are Luna, a period app for young women getting their first period. As an all-female engineering team passionate about women\u2019s health and education, we set out to make an app that empowers girls to feel comfortable navigating this new component of their lives. We want to make an equitable product as everyone experiences the process differently. To this end, we created a site that would be applicable to any young woman before and after they've had their first period, who have questions about their periods, who don\u2019t have regular periods, who don't want the overwhelming features relevant to women later in life, and/or who want a safe place to track their periods. We will be filling a niche that does not yet exist as the vast majority of period apps are geared towards older women and extremely focused on fertility. Our goal is to decouple periods from fertility in order to create a welcoming environment for young women.",
-      "Team Members": "Maggie Davis, Stephanie Campa, Caterina Wu, Anna Verwillow",
-      "Team Name": "Luna"
+      "description": "We are Luna, a period app for young women getting their first period. As an all-female engineering team passionate about women\u2019s health and education, we set out to make an app that empowers girls to feel comfortable navigating this new component of their lives. We want to make an equitable product as everyone experiences the process differently. To this end, we created a site that would be applicable to any young woman before and after they've had their first period, who have questions about their periods, who don\u2019t have regular periods, who don't want the overwhelming features relevant to women later in life, and/or who want a safe place to track their periods. We will be filling a niche that does not yet exist as the vast majority of period apps are geared towards older women and extremely focused on fertility. Our goal is to decouple periods from fertility in order to create a welcoming environment for young women.",
+      "placement": "Health & Biomedical",
+      "project_name": "Luna",
+      "team_members": "Maggie Davis, Stephanie Campa, Caterina Wu, Anna Verwillow"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "My project is to test the feasibility of data pipelining and building a data pipeline for the ICU team at Intermountain Hospital.",
-      "Team Members": "Franklin Jia",
-      "Team Name": "Data Pipeliner"
+      "description": "My project is to test the feasibility of data pipelining and building a data pipeline for the ICU team at Intermountain Hospital.",
+      "placement": "Health & Biomedical",
+      "project_name": "Data Pipeliner",
+      "team_members": "Franklin Jia"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "Many deep learning models work well when evaluated on test sets but fail when applied to the real world. In this project, we explore ways to improve the robustness of an X-ray interpretation model for deployment at the Stanford hospital.",
-      "Team Members": "Nguyet Minh Phu (with Mark Sabini, Chris Wang, Anuj Pareek and Sharon Zhou)",
-      "Team Name": "Robustness for X-ray interpretation model"
+      "description": "Many deep learning models work well when evaluated on test sets but fail when applied to the real world. In this project, we explore ways to improve the robustness of an X-ray interpretation model for deployment at the Stanford hospital.",
+      "placement": "Health & Biomedical",
+      "project_name": "Robustness for X-ray interpretation model",
+      "team_members": "Nguyet Minh Phu (with Mark Sabini, Chris Wang, Anuj Pareek and Sharon Zhou)"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "Presenting research into structural variant calling using short reads.",
-      "Team Members": "George Horrell",
-      "Team Name": "Individual"
+      "description": "Presenting research into structural variant calling using short reads.",
+      "placement": "Health & Biomedical",
+      "project_name": "Individual",
+      "team_members": "George Horrell"
     },
     {
-      "Category": "Health & Biomedical",
-      "Description": "A deep learning model for diagnosing blood vessel abnormalities in pediatric Magnetic Resonance Angiograms (MRAs).",
-      "Team Members": "Yong-hun Kim",
-      "Team Name": "Individual"
+      "description": "A deep learning model for diagnosing blood vessel abnormalities in pediatric Magnetic Resonance Angiograms (MRAs).",
+      "placement": "Health & Biomedical",
+      "project_name": "Individual",
+      "team_members": "Yong-hun Kim"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Layer-2 decentralized exchange sidechain preventing front-running using verifiable delay functions.",
-      "Team Members": "Albert Chon",
-      "Team Name": "Individual"
+      "description": "Layer-2 decentralized exchange sidechain preventing front-running using verifiable delay functions.",
+      "placement": "Machine Learning",
+      "project_name": "Individual",
+      "team_members": "Albert Chon"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Using machine learning to identify human trafficking.",
-      "Team Members": "Josh DuFault",
-      "Team Name": "Individual"
+      "description": "Using machine learning to identify human trafficking.",
+      "placement": "Machine Learning",
+      "project_name": "Individual",
+      "team_members": "Josh DuFault"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "This project seeks to study a structured way to train models to incorporate high-level supervision in reasoning about the final task outputs. Although this increased modularity comes with additional costs of data collection, we hope to show that models trained this way offer many benefits such as interpretability, data-efficiency, as well as robustness.",
-      "Team Members": "Thao Nguyen",
-      "Team Name": "Learning With High-Level Attributes"
+      "description": "This project seeks to study a structured way to train models to incorporate high-level supervision in reasoning about the final task outputs. Although this increased modularity comes with additional costs of data collection, we hope to show that models trained this way offer many benefits such as interpretability, data-efficiency, as well as robustness.",
+      "placement": "Machine Learning",
+      "project_name": "Learning With High-Level Attributes",
+      "team_members": "Thao Nguyen"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "We utilize Generative Adversarial Networks to remove cloud occlusions from satellite images.",
-      "Team Members": "Vishnu Sarukkai",
-      "Team Name": "Here Comes the Sun"
+      "description": "We utilize Generative Adversarial Networks to remove cloud occlusions from satellite images.",
+      "placement": "Machine Learning",
+      "project_name": "Here Comes the Sun",
+      "team_members": "Vishnu Sarukkai"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Exploring Cylindrical Embeddings for Signed Weighted Networks",
-      "Team Members": "Vasco Portilheiro",
-      "Team Name": "Vasco Portilheiro"
+      "description": "Exploring Cylindrical Embeddings for Signed Weighted Networks",
+      "placement": "Machine Learning",
+      "project_name": "Vasco Portilheiro",
+      "team_members": "Vasco Portilheiro"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Our project employs the Mozilla Common Voice dataset composed of many audio voice clips to work on linguistic profiling through identifying characteristics (age, gender, and accent) for individuals. We employ artificial intelligence and machine learning methods such as DeepSpeech for this task.",
-      "Team Members": "Jeffrey Barratt, Chuanbo Pan, Darrith Phan, Zahra Abdullah",
-      "Team Name": "Team 3 - Perdon"
+      "description": "Our project employs the Mozilla Common Voice dataset composed of many audio voice clips to work on linguistic profiling through identifying characteristics (age, gender, and accent) for individuals. We employ artificial intelligence and machine learning methods such as DeepSpeech for this task.",
+      "placement": "Machine Learning",
+      "project_name": "Team 3 - Perdon",
+      "team_members": "Jeffrey Barratt, Chuanbo Pan, Darrith Phan, Zahra Abdullah"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Phishing email attacks aim to steal users' personal information and cause financial loss. Thus, understanding, classifying, and modeling these phishing attacks are crucial. In this study, we used a JPL phishing dataset and an Enron email data to extract useful features to distinguish phish and non-phish emails.",
-      "Team Members": "Individual",
-      "Team Name": "Individual"
+      "description": "Phishing email attacks aim to steal users' personal information and cause financial loss. Thus, understanding, classifying, and modeling these phishing attacks are crucial. In this study, we used a JPL phishing dataset and an Enron email data to extract useful features to distinguish phish and non-phish emails.",
+      "placement": "Machine Learning",
+      "project_name": "Individual",
+      "team_members": "Individual"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "Imitation learning has allowed recent advances in learning robotic manipulation tasks but has been limited due to the scarcity of high quality demonstrations to learn from.\n\nRoboTurk is a system that help solve this problem by enabling the rapid crowdsourcing of high-quality demonstrations. This allows the creation of large datasets for manipulation tasks that we show improves the quality of imitation learning policies.\n\nRoboTurk is a research project and dataset from the Stanford Vision Lab.",
-      "Team Name": "Individual"
+      "description": "Imitation learning has allowed recent advances in learning robotic manipulation tasks but has been limited due to the scarcity of high quality demonstrations to learn from.\n\nRoboTurk is a system that help solve this problem by enabling the rapid crowdsourcing of high-quality demonstrations. This allows the creation of large datasets for manipulation tasks that we show improves the quality of imitation learning policies.\n\nRoboTurk is a research project and dataset from the Stanford Vision Lab.",
+      "placement": "Machine Learning",
+      "project_name": "Individual"
     },
     {
-      "Category": "Machine Learning",
-      "Description": "We developed Human eYe Perceptual Evaluation (HYPE), a crowd sourced human benchmark for generative realism of models such as Generative Adversarial Networks (GANs). HYPE provides reliable scores across different random samples of generated images, and separates the performance of different GAN models including state of the art.",
-      "Team Members": "Austin Narcomey",
-      "Team Name": "Austin Narcomey"
+      "description": "We developed Human eYe Perceptual Evaluation (HYPE), a crowd sourced human benchmark for generative realism of models such as Generative Adversarial Networks (GANs). HYPE provides reliable scores across different random samples of generated images, and separates the performance of different GAN models including state of the art.",
+      "placement": "Machine Learning",
+      "project_name": "Austin Narcomey",
+      "team_members": "Austin Narcomey"
     },
     {
-      "Category": "Social",
-      "Description": "Always On My Phone: Is Creativity the Antidote? \nAnalyzing phone health and habits in young adults and exploring creativity as a cure\n\nWe sleep with our phones. We eat with our phones. We can\u2019t put them down. My research seeks to find a cure for this addictive behavior. I conducted a longitudinal comparative study, analyzing the effects of two apps, Music Zen and Drum Pad Machine, on participants\u2019 relationship with their phone. The results informed my design of a music making app that encourages users to lean forward in their digital recreation, creating music with the world's everyday sounds.",
-      "Team Members": "Madison Willcox",
-      "Team Name": "Madison Willcox"
+      "description": "Always On My Phone: Is Creativity the Antidote? \nAnalyzing phone health and habits in young adults and exploring creativity as a cure\n\nWe sleep with our phones. We eat with our phones. We can\u2019t put them down. My research seeks to find a cure for this addictive behavior. I conducted a longitudinal comparative study, analyzing the effects of two apps, Music Zen and Drum Pad Machine, on participants\u2019 relationship with their phone. The results informed my design of a music making app that encourages users to lean forward in their digital recreation, creating music with the world's everyday sounds.",
+      "placement": "Social",
+      "project_name": "Madison Willcox",
+      "team_members": "Madison Willcox"
     },
     {
-      "Category": "Social",
-      "Description": "GoalPost is a social app that incentivizes users to help reach their goals through collaborative dynamics and friendly competition.",
-      "Team Members": "Davy Ragland, Cherry Zou, Jesus Cervantes, Cam Thouati",
-      "Team Name": "GoalPost"
+      "description": "GoalPost is a social app that incentivizes users to help reach their goals through collaborative dynamics and friendly competition.",
+      "placement": "Social",
+      "project_name": "GoalPost",
+      "team_members": "Davy Ragland, Cherry Zou, Jesus Cervantes, Cam Thouati"
     },
     {
-      "Category": "Social",
-      "Description": "Need 2 is an app that allows you to access the communities around you, seamlessly and unobtrusively. By allowing you to easily communicate with your friends that you are looking for others to join in on an activity with you, we aim to facilitate human connection, interactions, and friendships.",
-      "Team Members": "Ethan Brown, Elijah Taylor, Brendan Edelson, Michael Hazard",
-      "Team Name": "Need2"
+      "description": "Need 2 is an app that allows you to access the communities around you, seamlessly and unobtrusively. By allowing you to easily communicate with your friends that you are looking for others to join in on an activity with you, we aim to facilitate human connection, interactions, and friendships.",
+      "placement": "Social",
+      "project_name": "Need2",
+      "team_members": "Ethan Brown, Elijah Taylor, Brendan Edelson, Michael Hazard"
     },
     {
-      "Category": "Social",
-      "Description": "The Stanford Insider helps students find and report the best kept secrets on campus. Make your day instantly easier and better by finding a nap spot, coffee, or bathroom close to wherever you are. Need something to do? You can find event postings here as well. Whatever your interests the Stanford Insider will bring you up to date on campus life!",
-      "Team Members": "Ben Wu, Edward Guzman, Kesh Kumar, Jerry Chen",
-      "Team Name": "Stanford Insider"
+      "description": "The Stanford Insider helps students find and report the best kept secrets on campus. Make your day instantly easier and better by finding a nap spot, coffee, or bathroom close to wherever you are. Need something to do? You can find event postings here as well. Whatever your interests the Stanford Insider will bring you up to date on campus life!",
+      "placement": "Social",
+      "project_name": "Stanford Insider",
+      "team_members": "Ben Wu, Edward Guzman, Kesh Kumar, Jerry Chen"
     },
     {
-      "Category": "Social",
-      "Description": "An iPhone application that facilitates meet-ups between friends and provides transparency on likelihood of attendance",
-      "Team Members": "Sarina Wu, Jeremy Marcelo, Sidra Ijaz, Sage Fernandez, Thomas Clavelli",
-      "Team Name": "DragonDrop"
+      "description": "An iPhone application that facilitates meet-ups between friends and provides transparency on likelihood of attendance",
+      "placement": "Social",
+      "project_name": "DragonDrop",
+      "team_members": "Sarina Wu, Jeremy Marcelo, Sidra Ijaz, Sage Fernandez, Thomas Clavelli"
     },
     {
-      "Category": "Social",
-      "Description": "A platform that helps students connect better with different events and experiences on campus",
-      "Team Members": "Abdallah AbuHashem, Max Kucera, Tao Jin, Miguel Taruc",
-      "Team Name": "Now App"
+      "description": "A platform that helps students connect better with different events and experiences on campus",
+      "placement": "Social",
+      "project_name": "Now App",
+      "team_members": "Abdallah AbuHashem, Max Kucera, Tao Jin, Miguel Taruc"
     },
     {
-      "Category": "Social",
-      "Team Members": "Ali Chassebi",
-      "Team Name": "Ali Chassebi"
+      "placement": "Social",
+      "project_name": "Ali Chassebi",
+      "team_members": "Ali Chassebi"
     }
   ]
 }
