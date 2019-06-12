@@ -47,6 +47,7 @@
         "left-room": "Games & VR/AR",
         "center-room": "Computer Vision & Artificial Intelligence",
         "right-room": "Education",
+	"front-hall-right": "Business/Consumer",
         "far-right-room": "Social",
         "top-right-room": "judging"
     }
