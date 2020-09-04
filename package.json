@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/cs210/faire-guide#readme",
   "dependencies": {
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.5.3",
     "lodash": "^4.13.1",
     "whatwg-fetch": "^1.0.0"
   },
