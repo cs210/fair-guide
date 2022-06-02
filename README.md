@@ -2,6 +2,30 @@
 
 **Available here: http://cs210.github.io/fair-guide/**
 
+
+## Getting Started in 2022
+
+Hey future CS 210 CA! My name is Collin, and I'm coming to you from the year 2022. I'm currently
+trying to reboot this project since it hasn't been used for the past 3 years due to the pandemic.
+
+After struggling through some dependency issues (and I'm using an M1 Mac with ARM which complicates things),
+I believe I've recovered the ability to run this server. 
+
+I had to downgrade Node 14.19.3 for things to work, in addition to updating and pinning some other dependencies.
+
+```
+nvm install 14
+nvm use 14
+```
+
+Then, as normal, try,
+
+```
+npm install
+```
+
+That should get you up and running.
+
 ## Getting started
 
 You can use either `yarn` or `npm`. The commands below should be identical.
