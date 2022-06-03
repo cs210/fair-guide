@@ -1,53 +1,46 @@
 {
-    "categories": {
-        "Automotive": {
-            "name": "Automotive"
-        },
-        "Business/Consumer": {
-            "name": "Business/Consumer"
-        },
-        "Computer Vision & Artificial Intelligence": {
-            "name": "Computer Vision & Artificial Intelligence"
-        },
-        "Education": {
-            "name": "Education"
-        },
-        "Games & VR/AR": {
-            "name": "Games & VR/AR"
-        },
-        "Government, News, & Service": {
-            "name": "Government, News, & Service"
-        },
-        "Health & Biomedical": {
-            "name": "Health & Biomedical"
-        },
-        "Machine Learning": {
-            "name": "Machine Learning"
-        },
-        "Social": {
-            "name": "Social"
-        },
-        "judging": {
-            "name": "Judges' Area"
-        },
-        "welcome": {
-            "name": "Welcome Area"
-        },
-        "stairs": {
-            "name": "Stairs"
-        }
+  "categories": {
+    "All": {
+      "name": "All"
     },
-    "areas": {
-        "arcade": "Automotive",
-        "stairs": "stairs",
-        "front-hall-left": "welcome",
-        "far-left-room": "Health & Biomedical",
-        "top-left-room": "Government, News, & Service",
-        "front-hall-center": "Business/Consumer",
-        "left-room": "Games & VR/AR",
-        "center-room": ["Computer Vision & Artificial Intelligence", "Machine Learning"],
-        "right-room": "Education",
-        "far-right-room": "Social",
-        "top-right-room": "judging"
+    "Automotive": {
+      "name": "Automotive"
+    },
+    "Blockchain": {
+      "name": "Blockchain"
+    },
+    "Commerce": {
+      "name": "Commerce"
+    },
+    "Education": {
+      "name": "Education"
+    },
+    "Environment": {
+      "name": "Environment"
+    },
+    "Finance": {
+      "name": "Finance"
+    },
+    "Games": {
+      "name": "Games"
+    },
+    "Healthcare": {
+      "name": "Healthcare"
+    },
+    "Mobile": {
+      "name": "Mobile"
+    },
+    "Other": {
+      "name": "Other"
+    },
+    "Security": {
+      "name": "Security"
+    },
+    "Social": {
+      "name": "Social"
+    },
+    "Virtual or Augmented Reality": {
+      "name": "Virtual or Augmented Reality"
     }
+  }
 }

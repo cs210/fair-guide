@@ -19,7 +19,26 @@ function generateGuideListings(placements) {
         return response.json();
     }).then((json) => {
         const submissions = _.sortBy(json.submissions, (submission) => submission.project_name);
-        const groups = _.groupBy(submissions, 'placement');
+        
+        // const groups = _.groupBy(submissions, 'placement');
+
+        // Group by potentially multiple categories
+        // TODO - clean up
+        var groups = {};
+        groups["All"] = []
+        _.forIn(submissions, (submission) => {
+            groups["All"].push(submission)
+            _.forIn(submission.placement, (category) => {
+                if (category in placements) {
+                    if (category in groups) {
+                        groups[category].push(submission)
+                    } else {
+                        groups[category] = [submission]
+                    }
+                }
+            })
+        });
+        
         console.log(groups);
 
         let content = document.querySelector('.fair-guide');
