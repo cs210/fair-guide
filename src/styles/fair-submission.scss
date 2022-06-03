@@ -83,11 +83,11 @@
 }
 
 .fair-submission-deepdive > .collapsible-checkbox ~ .collapsible-label:before {
-    content: "Show deep dive";
+    content: "Show description";
 }
 
 .fair-submission-deepdive > .collapsible-checkbox:checked ~ .collapsible-label:before {
-    content: "Hide deep dive";
+    content: "Hide description";
 }
 
 .fair-submission-deepdive > .collapsible-checkbox ~ p
