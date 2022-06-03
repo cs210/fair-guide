@@ -69,7 +69,26 @@
 	        var submissions = _.sortBy(json.submissions, function (submission) {
 	            return submission.project_name;
 	        });
-	        var groups = _.groupBy(submissions, 'placement');
+
+	        // const groups = _.groupBy(submissions, 'placement');
+
+	        // Group by potentially multiple categories
+	        // TODO - clean up
+	        var groups = {};
+	        groups["All"] = [];
+	        _.forIn(submissions, function (submission) {
+	            groups["All"].push(submission);
+	            _.forIn(submission.placement, function (category) {
+	                if (category in placements) {
+	                    if (category in groups) {
+	                        groups[category].push(submission);
+	                    } else {
+	                        groups[category] = [submission];
+	                    }
+	                }
+	            });
+	        });
+
 	        console.log(groups);
 
 	        var content = document.querySelector('.fair-guide');
