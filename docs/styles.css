@@ -171,12 +171,6 @@ h2 {
   color: #08f;
 }
 
-.fair-submission-deepdive p {
-  margin: 15px -15px;
-  padding: 15px;
-  background-color: #eee;
-}
-
 .fair-submission-deepdive > .collapsible-checkbox ~ .collapsible-label:before {
   content: "Show description";
 }
