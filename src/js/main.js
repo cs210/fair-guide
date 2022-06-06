@@ -2,6 +2,7 @@ const stylesheet = require('../styles/main.scss');
 const dataUrl = require('../data/submissions.json');
 const floorplanUrl = require('../data/floorplan.svg');
 const placementUrl = require('../data/placement.json');
+const icsFile = require('../data/2022-event-link.ics');
 const sectionTemplate = require('../templates/fair-section.handlebars');
 const submissionTemplate = require('../templates/fair-submission.handlebars');
 const _ = require('lodash');
