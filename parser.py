@@ -13,7 +13,8 @@ COLUMN_NAMES = {
     'project_name' : 'What title would you like in the program for your project?',
     'team_members' : 'Please list the people involved in this project.',
     'description' : 'Please provide a project blurb that will appear in the Software Fair program.',
-    'placement' : 'Please check any genres you feel apply to your project.'
+    'placement' : 'Please check any genres you feel apply to your project.',
+    'course_id': 'With which course is this project associated?',
 }
 
 
@@ -25,6 +26,16 @@ def value_is_null(val):
 def parse_csv(csv_path):
     """Parse the specified CSV file into a dict."""
     submissions = pd.read_csv(csv_path)
+    
+    # remove any duplicates based on 'project_name' --> select last (most recent submission)
+    submissions.drop_duplicates(
+        subset=COLUMN_NAMES["project_name"],
+        keep="last",
+        inplace=True
+    )
+    
+    print(f"Number of unique submissions processed: {len(submissions)}")
+    
     total_json = {}
     submissions_list = []
     for index, entry in submissions.iterrows():

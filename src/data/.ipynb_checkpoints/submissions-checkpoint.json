@@ -311,7 +311,7 @@
     },
     {
       "course_id": "CS194",
-      "description": "DAHA? is a mobile app designed to shape the way Stanford students buy, rent, and sell their belongings on campus. Inspired by DAHA requests in dorm chats and the need for Stanford seniors to sell their belongings before graduation, our app allows users to make campus-wide DAHA requests to alert the community about in-demand items. With this community DAHA list, members can see which belongings can be sold quickly, and make corresponding DAWA posts. By understanding the demand side of the market, we hope to reduce product wastage and promote reuse of belongings.",
+      "description": "DAHA is a mobile app that allows Stanford students to sell, rent, and buy goods on campus quickly and efficiently. Our product was inspired by DAHA requests in dorm chats, as well as the need for seniors to sell their belongings before graduating to underclassmen that wish to purchase common goods for their college experience at a cheaper price. We envision this as a marketplace for all Stanford students, which extends the reach of DAHA requests beyond a single dorm. In this marketplace, users can enter items that they are seeking (a DAHA request). All users will have access to the requests, allowing them to see which items are in demand. If they have something being requested and wish to sell it, they can create a DAWA post about their item and name their price. Even if a user doesn't wish to make a DAHA, they can enter the marketplace and see what items are up for sale. By understanding what items are in demand and being requested, we hope to encourage the recycling of goods at Stanford.",
       "placement": [
         "Mobile",
         "Commerce"
@@ -436,6 +436,15 @@
       ],
       "project_name": "FocusList",
       "team_members": "Evan Baldonado, Lan Jiang, Jasper McAvity"
+    },
+    {
+      "course_id": "5/26/2022 17:22:23",
+      "description": "5/26/2022 17:22:23",
+      "placement": [
+        "5/26/2022 17:22:23"
+      ],
+      "project_name": "5/26/2022 17:22:23",
+      "team_members": "5/26/2022 17:22:23"
     },
     {
       "course_id": "CS210",
