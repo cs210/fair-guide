@@ -241,15 +241,6 @@
       "team_members": "Kayla Severson"
     },
     {
-      "course_id": "CS191",
-      "description": "Rekt Bear is Yahoo! Finance for the modern investor. We provide rankings of meme stocks, most shorted stocks, and stocks most active on Fidelity; we also track finance celebrities like Jim Cramer, Cathie Wood, and our wonderful elected officials who definitely don't use insider information. In addition, we provide traditional financial information (market movers, graphs, news, P/E ratio and other statistics, etc.).",
-      "placement": [
-        "Finance"
-      ],
-      "project_name": "Rekt Bear",
-      "team_members": "Will Ellsworth"
-    },
-    {
       "course_id": "CS194",
       "description": "Split seeks to revolutionize the way friends split bills. Our platform will serve as a tool where users will no longer need to make calculations themselves, but simply take a picture of the receipt and select other users to share the payment with. Users will no longer have to overpay for that one friend that orders too much. We strive to provide consumers with a nuanced approach to bill splitting amongst friends.",
       "placement": [
