@@ -10,11 +10,10 @@ import pandas as pd
 
 
 COLUMN_NAMES = {
-    'project_name' : 'What title would you like in the program for your project?',
-    'team_members' : 'Please list the people involved in this project.',
-    'description' : 'Please provide a project blurb that will appear in the Software Fair program.',
-    'placement' : 'Please check any genres you feel apply to your project.',
-    'course_id': 'With which course is this project associated?',
+    'project_name' : 'project_name',
+    'team_members' : 'team_members',
+    'description' : 'description',
+    'course_id': 'course_id',
 }
 
 
@@ -71,8 +70,8 @@ def main(args):
             
         else:
             # submissions with no category get placed in "Other"
-            add_category(placement, "Other")
-            item["placement"] = ["Other"]
+            add_category(placement, "")
+            item["placement"] = [""]
     
     # add an "All" category
     add_category(placement, "All")

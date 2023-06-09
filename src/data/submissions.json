@@ -1,602 +1,397 @@
 {
   "submissions": [
     {
-      "course_id": "CS210",
-      "description": "Car maintenance tracking, recording and reminders",
+      "course_id": "CS191",
+      "description": "I have built NLP models that read a teacher\u2019s transcript and highlight five different teaching strategies. We provide Section Leaders in Code in Place with weekly feedback based on these talk moves by pulling their transcript from the zoom API, running it through the models, and then displaying it within an intuitive UI. To develop the models, I explored both Roberta and GPT, using different hyperparameters based on how the talk moves are often employed. Using these models on last year\u2019s Code in Place data, we find that teachers who use more talk moves increase student outcomes, such as having higher section attendance. We are currently running a study on the effect of choice on teacher development, and hypothesize that if teachers choose which of the five talk moves to receive feedback on each week, they will internalize the feedback more.",
       "placement": [
-        "Automotive"
+        ""
       ],
-      "project_name": "Vehica",
-      "team_members": "David Ihim, Justin Tinker, Oluseyi Olujide"
+      "project_name": "Code in Place Teacher Feedback",
+      "team_members": "Ashlee Kupor"
     },
     {
       "course_id": "CS191",
-      "description": "Nexus is a decentralized blockchain interoperability protocol designed for arbitrary cross-chain messaging",
+      "description": "This project begins the development of a pipeline from medical image data to patient-specific cardiac simulation. Congenital heart disease varies greatly between patients, so being able to visualize a patient\u2019s unique anatomy and approximate their hemodynamics can be valuable for the planning of surgical repairs. This project explores the use of a 3D-0D coupled model to accomplish this, looking at the process of making a patient-specific 3D model of the heart, as well as how to tune a 0D model to fit patient hemodynamic data. The aim is to continue working on this project, so that the pipeline becomes more streamlined and efficient. Then we hope to edit these models and simulate surgical results to further aid in planning and treatment.",
       "placement": [
-        "Blockchain"
+        ""
       ],
-      "project_name": "Nexus: Blockchain Interoperability",
-      "team_members": "Daniel Marin"
-    },
-    {
-      "course_id": "CS210",
-      "description": "Implementing an NFT minter on the Chia blockchain.",
-      "placement": [
-        "Blockchain"
-      ],
-      "project_name": "NFTs on the Chia blockchain",
-      "team_members": "Jennifer He, Ende Shen, Aaron Reed, Finn Dayton"
+      "project_name": "Developing a Pipeline for Patient-Specific Models of Congenital Heart Disease",
+      "team_members": "Kaitlin Harold"
     },
     {
       "course_id": "CS191",
+      "description": "Code in Place is a free, human-centric online offering of the first half of Stanford\u2019s CS106A (Python programming) to beginner coders all over the world. Code in Place 2023 has over 8000 students and over 500 volunteer section leaders. \nThe Stories page aims to enable members of the large Code in Place community to feel inspired by each others\u2019 pathways through CS, empower beginners to see a path forward in CS for themselves after the course ends, and serve as a sort of gallery of all of the lovely people from all walks of life who have come together to learn and teach computer science in Code in Place.",
       "placement": [
-        "Blockchain"
+        ""
       ],
-      "project_name": "Nouns DAO and Challenges in its Governance Protocol",
-      "team_members": "Winnie Xiao"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Non-fungible tokens (NFTs) are a hot topic on the internet, with use cases ranging from media collectibles to Proof-of-Attendance. We believe that there are unlimited use cases for this emerging tech, and as a result, we want to build a tool that enables anyone to mint an NFT quickly and cheaply with any uploaded media asset with custom metadata on the blockchain of their choice.",
-      "placement": [
-        "Blockchain"
-      ],
-      "project_name": "The Minting Factory",
-      "team_members": "Charlie Curnin, Charles Pan, Allie Littleton, Adi Sidapara, Ankush Swarnakar"
+      "project_name": "Code in Place Stories",
+      "team_members": "Miranda Li"
     },
     {
       "course_id": "CS191",
-      "description": "Five artisan soap-making small business owners from the United States were interviewed for their perspectives on soap ingredient sourcing challenges to identify general trends in the small business chemical supply chains. An analysis of price variation in ingredient markets was then used to validate their claims. A custom set of web scraping and browser automation tools were prototyped both to facilitate the collection of unstructured data for the analysis and to collect user feedback from demonstrations.",
+      "description": "Bytes is a revolutionary social media platform that empowers users to amplify their authenticity. As TikTok sounds and podcasts continue to gain popularity in today's digital landscape, Bytes takes social sharing to the next level. Each day, users are presented with a thought-provoking question, designed to inspire reflection and meaningful conversation. Prompts like \u201cWhat is something you learned this week?\u201d open the floor for users to record their thoughts, experiences, and emotions as a shareable audio byte. Bytes gives users until 5pm to record their daily audio updates, after which a unique \"podcast\" is generated, combining the audio bytes of everyone a user follows. Come see what we\u2019ve been working on and unleash your voice in a community that values genuine connections. Amplify your authenticity and experience the power of audio-based social sharing with Bytes.",
       "placement": [
-        "Commerce"
+        ""
       ],
-      "project_name": "Information asymmetry in online soap ingredient markets and opportunities for improved efficiency in ecommerce",
-      "team_members": "Russell Tran"
-    },
-    {
-      "course_id": "CS194",
-      "description": "We built a crows-sourced educational website which allows you to describe and organize different topics or fields (like Computer Science, Basketball, Math etc) in a tree-based hierarchy. It is like a cross between wikipedia and skillshare, meant to both help people understand what is out there and how to approach big fields and to find the appropriate tutorials for the skills needed as they progress through a field or subfield! Users can save trees, create trees and contribute to other trees.",
-      "placement": [
-        "Education"
-      ],
-      "project_name": "Skilltree",
-      "team_members": "Rhett Owen, Trisha Kulkarni, Frankie Cerkvenik"
-    },
-    {
-      "course_id": "CS194",
-      "description": "SALVIS is your one-stop shop for building your program and will make the process of choosing your courses fun and exciting. With friendly visuals and graphs to help you visualize and track progress, you no longer have to wonder about which requirements you may be missing.",
-      "placement": [
-        "Education"
-      ],
-      "project_name": "SALVIS: Time to get rid of the excel sheet",
-      "team_members": "Tristan Sinclair, Renasha Mishra. Yasmine Mitchell, Daulet Tuleubayev"
+      "project_name": "Bytes",
+      "team_members": "Jewel Matanane, Liam Smith"
     },
     {
       "course_id": "CS191",
-      "description": "Inspired by Amazon\u2019s product review tagging and summarization features, I've worked on a proof-of-concept data product that we can potentially bring to the Carta platform as a new feature.  Given enough review data, I envision the empowered Carta user being able to filter reviews by server-generated key-phrases and their associated sentiments for each course offering.",
+      "description": "The goal of this project is to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. This first phase involves building data collection infrastructure to collect live data that can be analyzed to enable immediate mitigation of hijacking efforts.",
       "placement": [
-        "Education"
+        ""
       ],
-      "project_name": "Extracting Course Review Features & their Sentiments via Dependency Parsing",
-      "team_members": "Kyle Orciuch"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Bringing elegant UI for all your queue management needs. Removing student and TA frustrations from existing queue tools.",
-      "placement": [
-        "Education"
-      ],
-      "project_name": "Enqueued",
-      "team_members": "Matt Trost, Keegan Mehall, Sotiris Papasotiriou, Max Mark, Ryan Tran"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Kara aims to revolutionize the donation experience of people worldwide. \n\nKara is designed as a social network that connects donors (mentors) with people in need of financial help (prot\u00e9g\u00e9s). Prot\u00e9g\u00e9s and mentors are matched based on their preferences and can form a personal relationship through private messaging and interaction via social feeds. Mentors can directly send money to their prot\u00e9g\u00e9s, helping them achieve their basic needs. Once that need is met, mentors get notified via a picture, call or video, which allows them to directly see the impact of their donation. \n\nKara aims to increase worldwide donations by providing an intuitive platform with mechanisms designed to incentivize donors to give more.",
-      "placement": [
-        "Education",
-        "Finance",
-        "Social",
-        "Other"
-      ],
-      "project_name": "Kara : A social network to reduce the world's inequality",
-      "team_members": "Houda Nait El Barj, Julio Ballista, Jhonatan Ewunetie, Neena Dolores Romero, Rayan Albraidi"
-    },
-    {
-      "course_id": "CS194",
-      "description": "A round-robin game in which users produce a poem together by each contributing one line at a time.",
-      "placement": [
-        "Education",
-        "Games"
-      ],
-      "project_name": "Collaborative Poetry Game",
-      "team_members": "Diego Balvin, Jen Luo, Meilinda Sun"
-    },
-    {
-      "course_id": "CS210",
-      "description": "Our overarching goal is to explore the possibilities of camera mechanics in GHA and develop a camera feature that is engaging to users. Aside from the traditional expectations of a camera to take pictures and store them in an album, we also want to leverage the reality-defying aspect of VR by implementing features that allow users to collect and replicate artifacts using the camera. The test and implementation of these \u2018non-traditional\u2019 features will be realized through a museum-themed outer game loop where the player can curate a museum by visiting new sites, taking pictures and collecting artifacts.",
-      "placement": [
-        "Education",
-        "Games",
-        "Virtual or Augmented Reality"
-      ],
-      "project_name": "Moment",
-      "team_members": "Nina Du, Abla Ghaleb, Landis, Bhagirath Mehta, Mia Miao"
-    },
-    {
-      "course_id": "CS210",
-      "description": "Fetch your love for adventure and put on an Oculus Quest 2 headset to embark on a 10-minute archaeology-themed experience at one of the wonders of the world, the prehistoric monument of Stonehenge. In this game, you are a graduate student searching for project inspiration under the guidance of your eccentric professor.\nExplore the richly rendered environment, discover historical artifacts, and perhaps even converse with the storytelling spirits of the past. Do you have what it takes to craft your own theory about the mysteries of Stonehenge?\n(This was made in collaboration with Meta\u2019s Global Historical Archive.)",
-      "placement": [
-        "Education",
-        "Games",
-        "Virtual or Augmented Reality"
-      ],
-      "project_name": "ARCH: A VR Stonehenge Storytelling Experience",
-      "team_members": "Shana Hadi, Jonathan Kula, Lina Fang, Jiahui Chen"
-    },
-    {
-      "course_id": "CS210",
-      "description": "How can historical experiences in VR be more engaging and better support cultural learning? How do we provide replay value, ie. encourage users to return to explore other sites? How do we scale this process? Our project explores each of these questions, working with Meta\u2019s Global Historical Archive (GHA). We present a personable VR prototype experience, including interactions with culturally relevant characters, and a scalable narrative framework to apply to future historical sites. We also present an immersive VR trivia experience, which solidifies user\u2019s historical knowledge gained through the narrative experience.",
-      "placement": [
-        "Education",
-        "Games",
-        "Virtual or Augmented Reality",
-        "Social"
-      ],
-      "project_name": "Reimagining and Scaling Historical Storytelling in VR (GHA)",
-      "team_members": "Gizem Incesu, Jessica Chen, Emily Redmond, Nicholas Vo"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Today\u2019s students are managing incredibly complex calendars, containing classes, meetings, meals, and assignments.  Blueprint is a calendar-based system that allows students to better manage their time by applying tools that have been used successfully in the project management industry, including kanban timelines, multi-source input, and deep analytics.  With Blueprint, students can manage their static (fixed starting and ending time) as well as continuous (fluid events such as assignments) seamlessly, and receive key insights that can help them better manage their time.  We provide options for students to connect their account with popular apps like Canvas and Outlook, allowing for quick onboarding and use.",
-      "placement": [
-        "Education",
-        "Mobile"
-      ],
-      "project_name": "Blueprint: Rethink Your School Week",
-      "team_members": "Armaun Sanayei, Mac Klinkachorn, Maeghan Tovar, Robbie Selwyn"
-    },
-    {
-      "course_id": "CS210",
-      "description": "Vahana is a phone app designed to help new drivers improve their driving in a fun and engaging way. Think Strava meets Spotify Wrapped for driving.\n\nVahana allows users to record their driving, and then analyses and rates their drives with a safety score. Vahana also provides monthly statistics on users' driving progress. By recording safety score trends and analytical data, Vahana hopes to enable users to become safer drivers.",
-      "placement": [
-        "Education",
-        "Mobile",
-        "Automotive"
-      ],
-      "project_name": "Vahana",
-      "team_members": "Alex Fu, Catherine Huang, Julia Kadie, Nick Mayhew"
+      "project_name": "Infrastructure for Real Time Identification of Targeted DNS Infrastructure Hijacking",
+      "team_members": "Jessica Yu"
     },
     {
       "course_id": "CS191",
-      "description": "The \"cold start\" or new user problem has long plagued recommender systems. In order to resolve this problem before a user churns, exploration mechanisms are applied to learn the user's preferences in as few interactions as possible. This project introduces a novel exploration mechanism based on determinantal point processes that results in more sample-efficient exploration. It also introduces a standardized testing pipeline for exploration mechanisms based on the MovieLens dataset and a baseline Deep Q-Learning model.",
+      "description": "The Sentinel Project aims to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance.",
       "placement": [
-        "Education",
-        "Social",
-        "Commerce",
-        "Other"
+        ""
       ],
-      "project_name": "Applying Determinantal Point Processes for Sample-efficient Exploration in Recommender Systems",
-      "team_members": "Dhruvik Parikh"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Our project aims to create a space where undergraduates can compare schedules and share courses they are currently and are planning on taking. We want to be the social middle ground between Explore Courses and Carta, allowing users to clearly visualize what their and their peers' schedules will look like.",
-      "placement": [
-        "Education",
-        "Social",
-        "Mobile"
-      ],
-      "project_name": "Classy",
-      "team_members": "Grace Alwan, Dean Stratakos, Jiwon Lee, Melissa Daniels, Tara Jones"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Learning a new language is one of the most challenging tasks for people of all ages and backgrounds. Yet, language, since the beginning of human organization, is one of the most reliable bridges to other cultures in an interconnected world.\n\nTranslation-based apps such as Duolingo, fail to consider one of the most important metrics to language absorption speed and volume: immersion. \n\nArla uses AR technology to address this immersion gap. By using familiar objects in the user\u2019s environment through the phone camera, Arla links the user\u2019s memory of the real world to new terms. This tool will help users build their vocabulary, anywhere they go, in an effective and enduring way.",
-      "placement": [
-        "Education",
-        "Virtual or Augmented Reality",
-        "Mobile"
-      ],
-      "project_name": "Arla: Augmented Reality Language Learning iOS App",
-      "team_members": "Aaron Schultz, Kimmy Chang, Laikh Tewari, Michelle Xing, Ryota Ray Eki"
+      "project_name": "Sentinel",
+      "team_members": "Jessica Yu, Nathan Bhak"
     },
     {
       "course_id": "CS191",
-      "description": "MethaneSAT is a satellite that will be launched in 2 years to track methane emissions from oil and gas facilities. However, we needed to build a dataset of the locations of the oil and gas facilities using satellite imagery.",
+      "description": "Chest X-rays (CXRs) are a rich source of information for physicians \u2013 essential for disease diagnosis and treatment selection. Recent deep learning models aim to alleviate strain on medical resources and improve patient care by automating the detection of diseases from CXRs. However, shortages of labeled CXRs can pose a serious challenge when training models. Currently, models are generally pretrained on ImageNet, but they often need to then be finetuned on hundreds of thousands of labeled CXRs to achieve high performance. Therefore, the current approach to model development is not viable on tasks with only a small amount of labeled data. An emerging method for reducing reliance on large amounts of labeled data is self-supervised learning (SSL), which uses unlabeled CXR datasets to automatically learn features that can be leveraged for downstream interpretation tasks. In this work, we investigated whether self-supervised pretraining methods could outperform traditional ImageNet pretraining for chest X-ray interpretation. We found that SSL-pretrained models outperformed ImageNet-pretrained models on thirteen different datasets representing high diversity in geographies, clinical settings, and prediction tasks. We thus show that SSL on unlabeled CXR data is a promising pretraining approach for a wide variety of CXR interpretation tasks, enabling a shift away from costly labeled datasets.",
       "placement": [
-        "Environment"
+        ""
       ],
-      "project_name": "Dataset for methane tracking",
-      "team_members": "Erfan Rostami"
+      "project_name": "cxrlearn",
+      "team_members": "Niveditha Iyer"
     },
     {
       "course_id": "CS191",
-      "description": "To continually monitor decarbonization progress and track emissions in the electricity sector, new tools are needed. In particular, accurate forecasts of grid carbon emissions are essential to real time carbon accounting (for measuring carbon displacement) and a market associated with it. Using years of historical grid data in the US (electricity emissions, demand, generation by source, etc.), we develop models to forecast CO2 emissions from electricity demand and generation. Analyzing these models enables us to understand when predictions are the most difficult. In light of increased renewable energy generation, we also ask whether increased renewable generation is related to worse forecast performance.\n\nThis senior project was is sponsored by Prof. Chris Piech. Prof. Jacques de Chalendar and Prof. In\u00eas Azevedo helped frame the research questions and provided guidance.",
+      "description": "Hop is a new transport and remote access protocol with an emphasis on simplicity and security. It aims to be a replacement for SSH with secure identity forwarding and IP roaming while having a significantly smaller code base. The Hop transport layer is uses a Cyclist duplex construction with a Noise handshake pattern to establish a secure connection between endpoints.",
       "placement": [
-        "Environment"
+        ""
       ],
-      "project_name": "Forecasting CO2 emissions on a decarbonizing electrical grid",
-      "team_members": "Peter Maldonado"
-    },
-    {
-      "course_id": "CS210",
-      "description": "Chia Card is a service which enables sponsors to gift chia (XCH) to various recipients. Regardless of whether recipients are Crypto/Chia veterans or fledglings, our service ensures they enjoy a seamless and open welcome to the Chia community.",
-      "placement": [
-        "Environment",
-        "Blockchain",
-        "Commerce"
-      ],
-      "project_name": "Chia Card",
-      "team_members": "Natasha Ong, Lydia Chan, Nathaniel Goenawan, Andy Khuu, Vincent Heng"
+      "project_name": "Hop: A Modern Transport and Remote Access Protoco",
+      "team_members": "George Hosono"
     },
     {
       "course_id": "CS191",
-      "description": "Mariposa is a VR app designed to immerse users within the brilliant world of butterflies, with an emphasis on shader development to simulate the anisotropic iridescence of blue morpho butterflies caused by light interacting with rows of tree-like nanostructures on the scales of their wings.",
+      "description": "The Domain Name System (DNS) is an internet-wide distributed database with a hierarchical namespace. One consequence of the hierarchical namespace is that various parties involved in the authoritative side of DNS resolution must implicitly or explicitly trust one another. Additionally, DNS allows for explicit trust between different domain names, allowing delegation of nameservice to a nameserver under a different domain. This trust when violated results in major security issues. As such, the trust graph for a domain (all of the other domains explicitly and implicitly trusted by it) represents its potential attack surface; a compromise of any domain in the trust graph leads to the compromise of the target domain. In this project, we build a tool to efficiently build these DNS trust closures and tools to visualize them. We study the trust closures for .gov zones and identify any vulnerabilities in the trust closures that present an avenue for hijacking resolution.",
       "placement": [
-        "Environment",
-        "Education",
-        "Virtual or Augmented Reality"
+        ""
       ],
-      "project_name": "Mariposa: Simulating an Interactive Butterfly Exhibit in VR",
-      "team_members": "Kayla Severson"
+      "project_name": "DNS Trawler",
+      "team_members": "Rishi Sreekanth"
     },
     {
-      "course_id": "CS191",
-      "description": "Rekt Bear is Yahoo! Finance for the modern investor. We provide rankings of meme stocks, most shorted stocks, and stocks most active on Fidelity; we also track finance celebrities like Jim Cramer, Cathie Wood, and our wonderful elected officials who definitely don't use insider information. In addition, we provide traditional financial information (market movers, graphs, news, P/E ratio and other statistics, etc.).",
+      "course_id": "CS194 or CS194W",
+      "description": "Our project is a web application which is oriented toward the optimization of subscription services based on a user's interests and budget. Every year, countless companies shift their business models from single time pay to recurring payment services which forces users to make tough decisions on which services to use, for how long, and for what price.\n\nWe, the StreamLine team, have created a platform which takes in a user's desired viewing content and recommends the optimal combination of streaming packages to purchase which get the most out of your subscriptions. Our optimizations will be based on user specified budgets, optional must-have subscriptions, as well as user inputted viewing preferences which can range from specific shows and/or movies to a broader genre of interest. We will then report their varying options which provide them the most relatable content in a budget friendly manner.",
       "placement": [
-        "Finance"
+        ""
       ],
-      "project_name": "Rekt Bear",
-      "team_members": "Will Ellsworth"
+      "project_name": "StreamLine",
+      "team_members": "Ryan Dunn, Eliot Jones, Josh Karty, Josh Francis"
     },
     {
-      "course_id": "CS194",
-      "description": "Split seeks to revolutionize the way friends split bills. Our platform will serve as a tool where users will no longer need to make calculations themselves, but simply take a picture of the receipt and select other users to share the payment with. Users will no longer have to overpay for that one friend that orders too much. We strive to provide consumers with a nuanced approach to bill splitting amongst friends.",
+      "course_id": "CS194 or CS194W",
+      "description": "Spenny aims to provide a one-stop shop for optimizing credit card rewards. It uses AI-driven algorithms to analyze users' spending habits and financial preferences, providing them with customized credit card recommendations that suit their needs and lifestyles. Spenny wraps this all up in a user-friendly platform with the potential to expand into other areas of personal finance, budgeting, and payments.",
       "placement": [
-        "Finance",
-        "Social"
+        ""
       ],
-      "project_name": "Split: splitting bills made easy!",
-      "team_members": "Robert Hu, Luis Alcaraz, Josh Shongwe, Karen Chen"
+      "project_name": "Spenny",
+      "team_members": "Henry Bradley, Sebastian Campos, Krain Chen, Caroline Tran, Tristan Wang"
     },
     {
-      "course_id": "CS194",
-      "description": "Trippy is a mobile application that aims to alleviate the task of dispersing incurred expenses and encourage groups to set and meet spending goals. Trippy tracks and handles incurred expenses throughout the trip by prompting users if recent purchases are part of the group expense. Once joint expenses have been confirmed, the app calculates what each party of the transaction owes.",
+      "course_id": "CS194 or CS194W",
+      "description": "Our goal is to create a searchable database for clothing. Gathering clothing from a variety of sources, we hope to create a website in which users can search with many filtering options for clothing themes, brands, or styles and be able to see the clothing that fits those parameters and links to purchase the clothing. The search engine is powered by a computer vision model to provide enhanced search results and semantic parsing!",
       "placement": [
-        "Finance",
-        "Social",
-        "Mobile"
+        ""
       ],
-      "project_name": "Trippy",
-      "team_members": "Anthony Perez, Carolyn Asante-Darte, Sihguat Torres, Delali Azamati, Hana Tadesse"
+      "project_name": "FitFinder",
+      "team_members": "Derek Askaryar, Sofiane Larbi, Sungbin Kim, Anthony Radke"
     },
     {
-      "course_id": "CS194",
-      "description": "A drawing is worth a thousand beats; Drawdio will generate them for ya! Go to https://tinyurl.com/194-drawdio and dump your thoughts into a sketch. Drawdio will translate your drawing into music \ud83c\udfb5",
+      "course_id": "CS194 or CS194W",
+      "description": "Keep track of the jobs you\u2019ve applied to with our chrome extension! With just one click, you can save the jobs you\u2019re interested in and view them conveniently. See upcoming deadlines, recently added, and your most interested jobs all in one place.",
       "placement": [
-        "Games",
-        "Social",
-        "Other"
+        ""
       ],
-      "project_name": "Drawdio",
-      "team_members": "Akram Sbaih, Donte Leon Townes, Justice Tyler, Dominic DeMarco, Jonathan Victorino"
+      "project_name": "BeeThirteen",
+      "team_members": "Raymond Suo, Romeo Umana, Hannah Santos, Felipe Calero Forero, Lainey Wang"
     },
     {
-      "course_id": "CS191",
-      "description": "Non-accidental trauma (NAT) includes diagnoses such as domestic violence, assault, poisoning, and abuse. In this project, we developed a transformer-based model that uses electronic health record data to predict future diagnosis of NAT. Our model outperforms XGBoost and current state-of-the-art deep learning methods. Key to its performance was the use of a pretraining task for last visit summarization as well as incorporation of demographic and procedural features.",
+      "course_id": "CS194 or CS194W",
+      "description": "Digital communication has solidified into three forms: instant messaging, e-mail, and social media. What if we go beyond these three styles of communication? Our objective is to create a new paradigm to expand the ways we connect with each other online. Coexist is a web messaging application wherein messages are aggregated and sent at a scheduled time in order to reduce digital anxiety and encourage slower, deeper and more detailed conversations.",
       "placement": [
-        "Healthcare"
+        ""
       ],
-      "project_name": "Transformer for Non-Accidental Trauma Prediction from Electronic Health Records",
-      "team_members": "David Huang, Prof. David Kim (advisor), Prof. Serena Yeung (advisor)"
+      "project_name": "Coexist",
+      "team_members": "Katherine Ho, Penny Shi, Jared Azevedo, Alexis Echano, Srijon Sheikh"
     },
     {
-      "course_id": "CS191",
-      "description": "In recent years, significant strides in the machine learning (ML) for healthcare community have led to the integration of ML models into clinical workflows in a number of areas. AI-based decision support tools typically aim to do two things: improve patient outcomes and reduce provider cost and burden. We study real-world production data from a chest x-ray interpretation aid deployed in Vietnam hospitals and analyze cases of AI-clinician disagreement. Inspired by this real-world data, we hypothesize that while AI-clinician collaborative performance could be improved by directly enhancing the underlying model, other aspects of collaboration are ripe for innovation. In particular, when and how to present model output should be motivated by characteristics such as the expected quality of a given prediction and whether the clinician is expected to agree with it along with clinical significance of the pathology in question. We, therefore, present a novel framework for AI-supported diagnosis using these characteristics, which is expected to mitigate risks of misdiagnosis while simultaneously reducing clinician burden.",
+      "course_id": "CS194 or CS194W",
+      "description": "\"Tab Defenders is a Google Chrome extension that aims to reduce the background activity created from unused tabs. We aim to do this by closing tabs for the user after a specified amount of inactivity. Our extension is smart enough to learn domain-specific usage patterns for every user, ensuring a highly personalized experience. With fewer open tabs, users can reclaim RAM while having a cleaner browsing experience!\u201d",
       "placement": [
-        "Healthcare"
+        ""
       ],
-      "project_name": "Efficient and Accurate Integration of Diagnostic Machine Learning Models into Radiology Reporting Workflows",
-      "team_members": "Viswesh Krishna, Morgan Sanchez, Kyle Alford"
+      "project_name": "Tab Defenders",
+      "team_members": "William Lam, Aman Ladia, Jean Lagurre, Anthony Mensah, Manh Hung Bui"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Engage in corporate espionage in a dark sci-fi setting while interacting with NPCs using natural language",
+      "placement": [
+        ""
+      ],
+      "project_name": "Forever 22",
+      "team_members": "Shimea Bridgewater, Bay Foley-Cox, Julia Rose Chin"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Splitting the bill can be confusing and time-consuming, but SplitIt can relieve all of that stress. SplitIt is an app that can take a picture of the receipt and recognize all of the different items, including tax and tip. You can then assign different items to different people to split the bill and it can keep a history log of all previous receipts and transactions you split with others. It will automatically tally up how much others owe you and how much you owe your friends, making the entire process fair and efficient!",
+      "placement": [
+        ""
+      ],
+      "project_name": "SplitIt",
+      "team_members": "Trevor Leon, Britney Tran, Mark Tran, Raul Alcantar"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "We\u2019re building CuteQueue, an office hours queue platform with the primary goal of integrating the queue into the student\u2019s learning experience. Our focus is on scaffolding requests, improving communication between staff and students, and enhancing visual design \u2014before, during, and after being helped\u2014all to improve student self-efficacy.",
+      "placement": [
+        ""
+      ],
+      "project_name": "CuteQueue",
+      "team_members": "Daniel Chao, Star Doby, Nadin Tamer, Trevor Carrell"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Finding your favorite restaurants and planning dinners with friends all in one. Collaboratively search for a restaurant with all of your friends' preferences and dietary restrictions accounted for, save your favorite places, and prepare your tastebuds to be happy.",
+      "placement": [
+        ""
+      ],
+      "project_name": "Popina",
+      "team_members": "Sreya Halder, Sophia Fay, Sean Oconnor, Maya Madere"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Playmakers is a mobile app designed to promote physical and social activity among the Stanford community. Our objective is to make it easy for users to find others with similar interests and participate in a wide variety of sports and activities. With features such as public and private event scheduling, a map showcasing events and filters based on interests, and the ability to add friends and message them, Playmakers helps users build a community of like-minded individuals and lead active lifestyles.",
+      "placement": [
+        ""
+      ],
+      "project_name": "Playmakers",
+      "team_members": "David Gonzalez, Gerzain Gutierrez, Karson Lippert, Josue Solano-Romero"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Single Seagull Simulator is a voice-controlled indie-style PC game that gives you an insight into the struggles of a seagull. Every day, you (a seagull) hunt for human food. Through each fight, you demonstrate the two core tenets of being a seagull: to intimidate and to overpower. One day, you adopt an egg. It eats your food. It eats your food?!?? Will your love and care help it develop into a healthy young seagull, or\u2026?",
+      "placement": [
+        ""
+      ],
+      "project_name": "Conjoined Meercats",
+      "team_members": "Christina Qin, Julia Park, Megan Liu, Melissa Ran"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Photo Wars is a web platform for user-submitted and user-voted photo humor, inspired by the popular subreddit r/photoshopbattles. Photo Wars provides a centralized and streamlined interface for interacting with, sharing, and supporting photo comedy by allowing users to create and compete in a \u201cphoto war\u201d, a low-stakes competition that has one user submitting an image for others to caption and submit photoshopped versions of the original. Submissions are immediately viewable by all users to be voted or commented on, and creators can gain points based on how well their submissions fare, creating a fun community based on hilarious visual gags.",
+      "placement": [
+        ""
+      ],
+      "project_name": "Photo Wars",
+      "team_members": "Ibrahim Dharhan, Jackie Gong, Jakob Nordhagen, Caroline Wang, Grace Zhou"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Syne is a mobile application to aid users in their adherence to repeated medication prescriptions. Users can upload their current prescriptions, and Syne will (1) provide active and continuous reminders for users to take medication as prescribed, and (2) optionally support adherence monitoring by a trusted caretaker to increase user accountability.",
+      "placement": [
+        ""
+      ],
+      "project_name": "Syne",
+      "team_members": "Meg Reinstra, Christine Manegan, Elisse Chow, Alice Zhang"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Focus combines AI with your daily calendar to take the hassle out of creating, managing, and following your schedule. Our app will allow users to enter their list of tasks for the day, which it will use to generate a to-do list, and find the best times in the users' schedule to integrate the todo tasks.",
+      "placement": [
+        ""
+      ],
+      "project_name": "23",
+      "team_members": "WenXin Dong, Brendan Sorrell, Zachary Martin, King Vanga"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Want to know the stats for all the current NBA games? Have an NBA-related question? Want to know some fun facts about the players and teams playing? For all of these questions and more, consult your new basketball best friend! Pull up our website while watching the game and gain intricate knowledge about the games and NBA in general. Our features include fun fact generation, NBA GPT, real-time stats, score updates, and game scores. We are excited to show you our product!",
+      "placement": [
+        ""
+      ],
+      "project_name": "Soma Ventures",
+      "team_members": "Josh Singh, Mohamed Osman, Jesus Meza, Ammar Alinur"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "RoastMyResu.me is a web-based application that aims to provide job seekers with personalized feedback on the quality of their resumes. The platform utilizes large language models (LLMs) fine-tuned on recruiter-vetted resumes to provide an assessment that is both amusing and informative.",
+      "placement": [
+        ""
+      ],
+      "project_name": "RoastMyResume",
+      "team_members": "Olivia Otto, Ethan Horoschak, Michael Yan, Daisuke Masuda"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "YESA is a iOS based application that aims to provide informed eating by allowing users to take photos of their food and automatically display nutritional information for that given meal. YESA will automatically identify foods present in the user's meal and allow user input to adjust or edit the foods specified. Through YESA, the app hopes to streamline user's eating experiences by creating an automatic, snap-and-go experience with mindful, healthy encouragement.",
+      "placement": [
+        ""
+      ],
+      "project_name": "YESA: Plates for a Better You",
+      "team_members": "Steven Li, Elizabeth Nguyen, Arnav Krishnamoorthi, Yara Sevilla"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Focus is an innovative web application that intelligently integrates AI with your daily calendar and to-do list to create a customized weekly schedule for you. After you enter a list of tasks that you need to finish, Focus will use that information combined with the events from your calendar to employ advanced AI algorithms which will create a personalized plan for you by weaving these tasks seamlessly into your weekly schedule.\n\nIt is more than a simple to-do list application or schedule manager--it's an innovative tool which is designed to optimize your time, multiply your productivity, and streamline your life. \n\nAsk our team about how you can use Focus to revolutionize your productivity today!",
+      "placement": [
+        ""
+      ],
+      "project_name": "Focus",
+      "team_members": "WenXin Dong, Zach Martin, Brendon Sorrell, King Vanga"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Millions of people interact with a keyboard everyday. However, if you go out and buy an expensive new (likely mechanical) keyboard, you will find that not only can you NOT add additional key-layers, but you can actually only really customize a few keys (4-6 usually). Our goal is for an 'average' user to be able to setup new key-map layers on the keyboard with our GUI tool, and have it flashed to the keyboard from the GUI as well.",
+      "placement": [
+        ""
+      ],
+      "project_name": "ONIT Team 8",
+      "team_members": "Ismael Isidro Castro, Noel_Martinez-Amador, Olayinka Adekola, Tristen Nollman"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Skillbites is an educational content platform where content creators make interactive courses with short-form videos and questions. The platform is designed to provide an entertaining way for people of all ages to engage with educational material ranging from science to street smarts.",
+      "placement": [
+        ""
+      ],
+      "project_name": "Skillbites",
+      "team_members": "Anthony Riley, Sohi Gatiganti, Grant Park, Carson Fleming"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Skillbites is an educational content platform where content creators make interactive courses with short-form videos and questions. The platform is designed to provide an entertaining way for people of all ages to engage with educational material ranging from science to street smarts.",
+      "placement": [
+        ""
+      ],
+      "project_name": "SkillBites",
+      "team_members": "Sohit Gatiganti, Grant Park, Anthony Riley, Carson Fleming"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "Squadify: a social network to find friends in your courses.",
+      "placement": [
+        ""
+      ],
+      "project_name": "MiNKKs",
+      "team_members": "Neil Khemani, Katherine Crandell, Michelle Karlsberg, Kayla Monae Kelly"
+    },
+    {
+      "course_id": "CS194 or CS194W",
+      "description": "BananAI is a fun tool for DJs and musicians to use in their live shows to create AI-generated visuals that sync to their music. The visuals can be \u201cplayed\u201d using a DJ or other MIDI board, creating an engaging and unique experience for the performer and the audience.",
+      "placement": [
+        ""
+      ],
+      "project_name": "BananAI",
+      "team_members": "Elliot Dauber, Matt Reed, James Chao, Isaac Cheriyuot"
     },
     {
       "course_id": "CS210",
-      "description": "Parea is the home base for caretakers of patients with Autism Spectrum Disorder.",
+      "description": "Your Edventure begins now. Imagine a future in which you could instantly teleport from your dorm room in California to the sandstone steps of the ancient temple of Petra in Jordan. After exploring the dusty cavernous rooms of the building carved into the stone as early as 5th century BCE, you decide to teleport again: this time to the ancient city of Bagan in Myanmar. Creating this future was the driving vision of the Global Historical Archive (GHA) team at Meta, through the use of virtual reality. However, this future is limited to the few who have access to VR technology. Our project at Edventure hopes to help make this future more accessible to all through making a companion web experience to GHA's VR experience, trying to capture the  majesty and social experience of exploring these wonders with fellow explorers.",
       "placement": [
-        "Healthcare",
-        "Social"
+        ""
       ],
-      "project_name": "Parea",
-      "team_members": "Lyna Kim, Taylor Lallas, Griffin Tarpenning, Mehul Arora"
-    },
-    {
-      "course_id": "CS194",
-      "description": "DAHA? is a mobile app designed to shape the way Stanford students buy, rent, and sell their belongings on campus. Inspired by DAHA requests in dorm chats and the need for Stanford seniors to sell their belongings before graduation, our app allows users to make campus-wide DAHA requests to alert the community about in-demand items. With this community DAHA list, members can see which belongings can be sold quickly, and make corresponding DAWA posts. By understanding the demand side of the market, we hope to reduce product wastage and promote reuse of belongings.",
-      "placement": [
-        "Mobile",
-        "Commerce"
-      ],
-      "project_name": "DAHA?",
-      "team_members": "Krishnan Nair, Stephanie Hu, Rick Robert, Derian Williams, Adonis Pugh"
+      "project_name": "Edventure",
+      "team_members": "Devorah Rena Simon, Manas Khadka, Jiayi Li, Cristobal Garcia, Pratyush Muthukumar"
     },
     {
       "course_id": "CS210",
-      "description": "Analytics are crucial to baseball front offices, helping management measure the true impact of players and coaches improve player performance. For this project, we worked closely with the Los Angeles Dodgers to develop a mobile app and API using deep-learning to extract patterns in player positions that can be used to improve performance. Our app enables coaches and players at the professional and amateur levels to use our model on uploaded video clips of players to better understand players' movements and how they relate to play outcomes and success on the field.",
+      "description": "Brainwave is a cutting-edge product that takes the hassle out of taking meeting notes. With its live transcription feature, it automatically transcribes everything that's being said during a meeting, regardless of the platform being used, including Zoom, Microsoft Teams, and FaceTime. This ensures that you never miss an important detail again. Additionally, Brainwave's AI can assist you in answering questions about your meeting and bring up relevant topics to ensure that your meetings are always productive and efficient. With Brainwave, you can focus on the meeting at hand and leave the details to AI.",
       "placement": [
-        "Mobile",
-        "Other"
+        ""
       ],
-      "project_name": "Data Dodgers",
-      "team_members": "Raaisa Moktader, Jack Andraka, Peter Chatain, Ryan Atkins, Griffin Miller"
-    },
-    {
-      "course_id": "CS191",
-      "description": "The use of self-supervised learning (SSL) algorithms has been on the rise across the machine learning community. SSL helps models acquire useful information from unlabelled data and then use this information to perform downstream tasks. The common paradigm here is to \u2018pretrain\u2019 on a large general dataset and then \u2018finetune\u2019 on a more specialized, typically smaller dataset.\nThe Domain-Agnostic Benchmark for Self-Supervised Learning (DABS) was published in NeurIPS last year, and has served as a benchmark for self-supervised learning algorithms. Specifically, to perform well on DABS, an algorithm must be pretrained on six unlabeled datasets from different domains: natural images, text, speech recordings, medical imaging, multichannel sensor data and image-text pairs.\n(Tamkin et al.)\nThrough this Senior Project, I implemented a system for fast and large scale training of self-supervised learning algorithms with DABS. Specifically, I designed and wrote a JAX codebase for DABS \u2014 enabling us to run baseline algorithms on Google Cloud Tensor Processing Units, or TPUs, and have an order of magnitude faster training times.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Domain-Agnostic Benchmark for Self-Supervised Learning - writing a JAX codebase",
-      "team_members": "Shashank Rammoorthy"
-    },
-    {
-      "course_id": "CS191",
-      "description": "In many industry computer vision tasks, large, labeled datasets are hard to come by. Therefore, when it comes to training deep neural networks, they have a hard time learning meaningful representations from the dataset. One way to visualize these models is through calculation of \"attention maps\" that display which parts of the input were important in making the associated prediction. Attention maps can be calculated in different ways, and as a result, do not always agree with each other. This problem becomes exacerbated when the model is overfitting to a small dataset. As a result, the QIAI lab proposes an unsupervised learning objective to be used as a fine-tuning step, where we calculate attention maps with 2 different algorithms and enforce a similarity metric between them.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Enforcing Attention Map Consistency for Unsupervised Finetuning",
-      "team_members": "Max Pike"
-    },
-    {
-      "course_id": "CS191",
-      "description": "\u201cMargaret\u201d is an interactive short story that takes the form of a text conversation between the reader and a chatbot. Through an alternative form of storytelling, this project aims to incorporate user interaction to explore character construction and development in fiction.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Margaret: An Interactive Short Story",
-      "team_members": "Lily Zhou"
-    },
-    {
-      "course_id": "CS191",
-      "description": "In this project we aim to establish the relationship between the\nconstruction of an acoustic guitar and the resulting frequency and\namplitude response. The forward modeling problem is to take as\ninput the physical material parameters and geometry of a guitar\nand use FEM methods to perform modal analysis. This part involves\nmodeling the guitar meshing, elasticity coefficients for the wood,\nand different boundary conditions. The inverse problem (the more\ninteresting case) is to take as input the a user defined \u201csound\u201d and\nfind the best parameters for a guitar that would produce such a\nsound",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Computational Design of Guitars",
-      "team_members": "Samaksh Goyal, Mark Rau, Doug James"
-    },
-    {
-      "course_id": "CS191",
-      "description": "This work uses various machine learning techniques (neural nets, SVMs, decision trees, etc.) to augment flow size estimates made from count-min sketching.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Flow Size Estimation Using Count-Min Sketches and Machine Learning",
-      "team_members": "Ishan Gaur"
-    },
-    {
-      "course_id": "CS191",
-      "description": "How can we ease the burden of natural language data labeling and design virtual assistants that can correct errors made in understanding user input? In this project, I prototype a tool to simplify the process of labeling new training data for dialogue systems, and I explore methods of correcting a virtual assistant\u2019s mistakes when interacting with a user.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Virtual Assistant Error Correction",
-      "team_members": "Nathan Marks"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Heatscape is an interactive, geographical visualizer of world news. We aggregate all the geographical references in the news and display them as a heatmap. Hotter spots correspond to areas with high news density. Click on any spot to see a list of news in the area. Too many news articles? No problem! Select any subset of categories to filter the news you see.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "HeatScape",
-      "team_members": "Mateo Arbelaez. Abraham Oliver. Griffin Kardos. Tessa Lisanti"
-    },
-    {
-      "course_id": "CS191",
-      "description": "Universal self-supervised (SSL) algorithms hold promise for making machine learning accessible to a range of high-impact domains, such as protein biology, manufacturing, and genomics. We present DABS 2.0: a set of improved datasets, algorithms, and software systems for advancing research on universal SSL. We extend the recently-introduced DABS benchmark with the addition of five real-world scientific domains: protein biology, bacterial genomics, multispectral satellite imagery, semiconductor wafers, and particle physics, bringing the total number of domains in the benchmark to twelve. We also propose a new universal SSL algorithm, Capri, and a generalized version of masked autoencoding, apply both on all twelve domains---the most wide-ranging exploration of SSL yet. We find that multiple algorithms show gains across all domains, outperforming previous baselines. In addition, we find that the optimal masking fraction varies based on the domain, and linear evaluator performance is not correlated with finetuning accuracy. We also present and open source our codebase, DABS-Launcher, which enables pretraining and transfer runs across all domains in <36 hours using compute resources that are free for academic researchers.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "DABS 2.0: Improved Datasets, Algorithms, and Software Systems for Universal Self-Supervision",
-      "team_members": "Gaurab Banerjee"
-    },
-    {
-      "course_id": "CS191",
-      "description": "Learning from human feedback has been shown to be a useful approach in acquiring robot reward functions. However, expert feedback is often assumed to be drawn from an underlying unimodal reward function. This assumption does not always hold, including in settings where multiple experts provide data or when a single expert provides data for different tasks. We thus have to go beyond learning a unimodal reward and focus on learning a multimodal reward function. We formulate the multimodal reward learning as a mixture learning problem and develop a novel ranking-based learning approach, in which the experts are only required to rank a given set of trajectories. Furthermore, as access to interaction data is often expensive in robotics, we develop an active querying approach to accelerate the learning process. We conduct experiments and user studies using a multi-task variant of OpenAI's LunarLander and a real Fetch robot, where we collect data from multiple users with different preferences. The results suggest that our approach can efficiently learn multimodal reward functions, and improve data-efficiency over benchmark methods that we adapt to our learning problem.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Learning Multimodal Rewards from Rankings",
-      "team_members": "Vivek Myers"
-    },
-    {
-      "course_id": "CS191",
-      "description": "Conventional machine learning is quite energy intensive. However, for some tasks, higher energy efficiency can be achieved using hardware that emulates the brain by encoding signals as sequences of spikes. Concepts for such hardware are generally inflexible, yielding fixed network topologies. We propose a synapse circuit that could enable a configurable network layer and characterize its robustness through system level simulation.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "A Synapse Circuit for a Configurable Neuromorphic Neural Network Layer",
-      "team_members": "Malick Sere (student), Professor Sara Achour (Project advisor)"
-    },
-    {
-      "course_id": "CS191",
-      "description": "The use of self-supervised learning (SSL) algorithms has been on the rise across the machine learning community. SSL helps models acquire useful information from unlabelled data and then use this information to perform downstream tasks. The common paradigm here is to \u2018pretrain\u2019 on a large general dataset and then \u2018finetune\u2019 on a more specialized, typically smaller dataset.\nThe Domain-Agnostic Benchmark for Self-Supervised Learning (DABS) was published earlier this year, and has served as a benchmark for self-supervised learning algorithms. Specifically, to perform well on DABS, an algorithm must be pretrained on six unlabeled datasets from different domains: natural images, text, speech recordings, medical imaging, multichannel sensor data and image-text pairs. \nThrough this Senior Project, I implemented a system for fast and large scale training of self-supervised learning algorithms with DABS. Specifically, I designed and wrote a JAX codebase for DABS \u2014 enabling us to run baseline algorithms on Google Cloud Tensor Processing Units, or TPUs, and have an order of magnitude faster training times.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "Domain Agnostic Benchmark for Self-supervised learning",
-      "team_members": "Shashank Rammoorthy"
-    },
-    {
-      "course_id": "CS194",
-      "description": "FocusList is an an improved to-do list website to help you focus. When you have work to do, FocusList blocks distracting websites like social media. You can also import to-do list items from Google Calendar and Gmail.",
-      "placement": [
-        "Other"
-      ],
-      "project_name": "FocusList",
-      "team_members": "Evan Baldonado, Lan Jiang, Jasper McAvity"
+      "project_name": "BrainWave",
+      "team_members": "Alex Loia, Evan Saracay, Stephan Sharkov, Vy Thai"
     },
     {
       "course_id": "CS210",
-      "description": "The Honest Protocol is an ecosystem for decentralized audits of digital assets on Ethereum. It allows for a decentralized, validated database in which NFTs are labeled with honesty/anti-scam-related traits. This is necessary in a world in which NFT scams are rampant, and users do not know which proejcts to trust. Our project included two main parts: the smart contracts (deployed on an Ethereum testnet) and an API to interpret the smart contracts.",
+      "description": "We're Benz Lenz and we're creating a social app to help connect people and places via voice memos (and more to come!). We're partnered with Mercedes and we developed a cool project using AR glasses during winter quarter, which we have since pivoted from. Come by to see our demo and we'll tell you more about what we're doing and why!",
       "placement": [
-        "Security",
-        "Blockchain"
+        ""
       ],
-      "project_name": "Honest Protocol",
-      "team_members": "Alexis Mack, Kaili Wang, Jeff Tsang, Ryan Tan"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Let\u2019s Ride is a rideshare platform for Stanford students to post and join carpools. Our goal is to increase accessibility and frequency of carpools within the Stanford community, thereby increasing the mobility of students to get off-campus in a more affordable and environmentally-friendly way.",
-      "placement": [
-        "Social"
-      ],
-      "project_name": "Let's Ride",
-      "team_members": "Cathy Zhang, Kasey Luo, Julie Wang"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Discover who's on your Wavelength. Each week, submit your favorite song and our matching algorithm will match you with someone else on campus who listened to a different, but similar song. Make a new friend and discover new music along the way!",
-      "placement": [
-        "Social"
-      ],
-      "project_name": "Wavelength",
-      "team_members": "Amy Zhang, Juyon Lee, Hanna Yip, Trinity Donohugh"
-    },
-    {
-      "course_id": "CS194",
-      "description": "AllSpice is your favorite recipe-sharing app, perfect for storing recipes, sharing your creations with your friends, and following along with your friends' cooking adventures!",
-      "placement": [
-        "Social"
-      ],
-      "project_name": "AllSpice",
-      "team_members": "Valexa Orelien, Shreya Ravi, Anne Lee, Ben Choi, Isabelle Lee"
-    },
-    {
-      "course_id": "CS194",
-      "description": "We want to create a platform that will facilitate and encourage people to create and join advocacy groups. Our platform will allow people to plan and sign up for events and for people to receive notifications from causes they are following. Each person will have a home page of the causes they follow. The platform will also allow people to sign up for specific tasks to support an event.",
-      "placement": [
-        "Social"
-      ],
-      "project_name": "Advocacy Work Manager",
-      "team_members": "Huong Nguyen, Drew Wadsworth, Abi Lopez, Xuchen Wei"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Collide helps you break social barriers. By notifying you when people with shared interests are nearby, this mobile app creates opportunities to meet people you would have otherwise passed by. With Collide, your next best friend is just around the corner!",
-      "placement": [
-        "Social",
-        "Mobile"
-      ],
-      "project_name": "Collide",
-      "team_members": "Ekin Tiu, Enok Choe, Emily Hsu, Christian Figueroa"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Have you ever been looking to hit a concert, hike, or day trip, but your friends aren't available or you want to go with new people? DayTripper can be your means to connect with fellow college students and organize an incredible day.",
-      "placement": [
-        "Social",
-        "Mobile"
-      ],
-      "project_name": "DayTripper (iOS)",
-      "team_members": "Jasper Den Otter, David Malinak, Emmanuel Ayumba, Tyler Eischens"
+      "project_name": "Benz Lenz",
+      "team_members": "Ziyad Gawish, Alanna Sun, Nick Hafer, Danny Estupinan, Sophia Ramsey"
     },
     {
       "course_id": "CS210",
-      "description": "Carpe is an app built to facilitate community based carpooling.",
+      "description": "Verve is a VS Code extension that provides developers with live debugging suggestions in a side panel. As you write code, Verve detects error diagnostics provided by external language servers and runtime errors in program output. Then, Verve searches the Internet for prospective solutions. Verve commonly finds links to Stack Overflow pages, and also pulls from students' online Ed forums. With the click of a button, developers can open the suggested resources in their browser, or ask Verve to generate a summary. Install Verve on the VS Code Marketplace today!",
       "placement": [
-        "Social",
-        "Mobile",
-        "Automotive"
+        ""
       ],
-      "project_name": "Carpe",
-      "team_members": "Nebyou Zewde , Rafael Esteves, Ayush Agarwal"
+      "project_name": "Team Verve",
+      "team_members": "Tiffany Zhao, Avi Gupta, Ryan Dwyer, Colin Schultz"
     },
     {
-      "course_id": "CS191",
-      "description": "The Illusion architecture is designed to run deep learning workloads with total energy and execution time near that of an ideal single chip. The scaleup project aims to demonstrate that the architecture can keep pace with growing neural network sizes while maintaining its low overheads. Ongoing verification of a new chip that will demonstrate scaleup involves emulating the design in hardware to accelerate logic simulations. Emulation will allow the development team to test scaling the system before fabricating the design.",
+      "course_id": "CS210",
+      "description": "In the $150B revenue cycle management space where providers aim to maximize their revenue from treatment provided, medical coding has been especially tedious. The process involves manually translating patient health information & medical procedures into universal codes for billing and record-keeping purposes, and is troubled by 89% error rates, costing providers $17-29B yearly. The problem is also getting worse -- we have an aging global population, a change in standard from ICD-9 to 10 that increases complexity, and 30% coder labor shortages. Moreover, patients often bear the brunt of these coding errors, leading to surprise bills and a lack of trust. \n\nWe are Rema, an automated medical coding platform that uses Azure's HIPAA-compliant GPT-4 endpoint and integrates with existing electronic health record systems to handle ICD-10 coding. We\u2019re positioned to provide a timely, efficient, and cost-effective solution, transforming revenue cycle management and improving patient care.",
       "placement": [
-        "Other"
+        ""
       ],
-      "project_name": "Emulating Illusion Scaleup for Neural Network Applications\u200b",
-      "team_members": "Ben Auslin"
+      "project_name": "Rema",
+      "team_members": "Roshan Swaroop, Ally Nakamura, Kachachan Em Chotitamnavee"
     },
     {
-      "course_id": "CS194",
-      "description": "Almost everyone has considered joining a startup at one point in their career. However, the process is incredibly annoying. You have to:\n\ngo through job boards with thousands of company names you\u2019ve never heard of\nvet each startup\u2019s funding + product + team background\nthen make sure your profile fits the exact tech stack that the startup is looking for\nfinally spend hours writing an application that will never get read\nall the while you\u2019re working a full-time job at your current company\n\nWe've almost entirely automated the job search process to be handled mostly over email, at scale. Given a shortlist of preferences, each user will be given the best matches that exactly match their skills and interests, with an 'easy-to-vet' process. These matches then directly lead to interviews and phone screens!",
+      "course_id": "CS210",
+      "description": "The BenzBeyond team embarked on an ambitious journey to create a breakthrough AR Navigation application. The project's goal was to redefine navigation experiences through the lens of Augmented Reality technology, creating a more interactive and engaging environment for users. Rooted in the principles of user-centered design, we brainstormed, researched, and iterated on our designs, ensuring that our app genuinely addressed real-world user needs. We faced several challenges, including GPS accuracy issues and the intricate complexities of integrating different software platforms. But we overcame these hurdles, turning our envisioned concept into a tangible reality. Our end product is a user-friendly, intuitive, and efficient AR Navigation app, capable of guiding users from point A to point B with minimal distractions. As we reflect on our journey, we are excited about the insights gained, the skills honed, and the future possibilities in the realm of AR navigation.",
       "placement": [
-        "Other"
+        ""
       ],
-      "project_name": "Portal",
-      "team_members": "Bryce Hunt, Raymond Guo, David Witten, Roy Yuan"
+      "project_name": "BenzBeyond",
+      "team_members": "Audrey Lee, Casey Nyguen, Ricky Thai, Yuer Zhou"
     },
     {
-      "course_id": "CS194",
-      "description": "Today\u2019s students are managing incredibly complex calendars, containing classes, meetings, meals, and assignments.  Blueprint is a calendar-based system that allows students to better manage their time by applying tools that have been used successfully in the project management industry, including kanban timelines, multi-source input, and deep analytics.  With Blueprint, students can manage their static (fixed starting and ending time) as well as continuous (fluid events such as assignments) seamlessly, and receive key insights that can help them better manage their time.  We provide options for students to connect their account with popular apps like Canvas and Outlook, allowing for quick onboarding and use.",
+      "course_id": "CS210",
+      "description": "MetaDrive, composed of Stanford students Rachel Clinton, Anais Marroquin, Mike Yang, and Eric Zhang, has partnered with BMW to reimagine the digital conferencing experience for drivers and passengers of vehicles. We utilize NReal AR glasses to enable users to participate in a safe and immersive digital meeting experience while on the road.\n\nOur meeting platform, which is designed in Unity, contains the following features: joining a virtual meeting, sharing screen, taking meeting notes using typing or voice recording, button clicking with hand gestures, and switching modes between the driver mode (a version with restricted functionality) and the passenger mode (the full version). \n\nWe are excited to share our work with you!",
       "placement": [
-        "Education",
-        "Other"
+        ""
       ],
-      "project_name": "Blueprint",
-      "team_members": "Armaun Sanayei , Robbie Selwyn, Maeghan Tovar, Mac Klinkachorn"
+      "project_name": "MetaDrive",
+      "team_members": "Rachel Clinton, Anais Marroquin, Mike Yang, Eric Zhang"
     },
     {
-      "course_id": "CS191",
-      "description": "Procedurally Generated Video Game Tilemaps from a Drawing",
+      "course_id": "CS210",
+      "description": "Build a browser extension in minutes.\nxTen is a package that enables developers to create cross-platform browser extensions powered by AI. The toolkit provides an extensible architecture for integrating AI APIs, simplifying the development process and offering advanced features such as intelligent web scraping, code + UI injection, and AI-powered data processing.",
       "placement": [
-        "Games"
+        ""
       ],
-      "project_name": "Sketch 2 Tilemap",
-      "team_members": "Cole Sohn"
+      "project_name": "xTen",
+      "team_members": "Ruslan Al-Jabari, Ashna Khetan, Ishita Mangla, Noel Sarduy"
     },
     {
-      "course_id": "CS191",
-      "description": "This project is a study of using Dueling Double Deep Q-Networks with different network architectures to train an autonomous vehicle in a custom simulation environment in Unreal4 combining Carla and Airsim.",
+      "course_id": "CS210",
+      "description": "SOAR is an augmented reality (AR) navigation and social annotation app designed specifically for drivers. With its AR overlays, the app provides a hands-free navigation experience, allowing drivers to follow directions effortlessly while staying focused on the road. Additionally, SOAR enables users to explore and save points of interest (POIs) suggested by their friends, enhancing the social aspect of driving. Users can also contribute their own POIs, fostering a collaborative driving experience. Our prototypes have been developed on platforms such as Oculus in virtual reality (VR), NReal AR glasses, and Android for object detection. The primary goal of SOAR is to enhance driver comfort, entertainment, and safety, while promoting a connected driving community.",
       "placement": [
-        "Other"
+        ""
       ],
-      "project_name": "Training an Autonomous Vehicle in Simulation with Dueling Double Deep Q-Networks",
-      "team_members": "Rita Tlemcani"
+      "project_name": "Team SOAR",
+      "team_members": "Ali Shah, Anthony Qin, Benjamin Wittenbrink, Rohan Mehrotra, Sonny Young"
     },
     {
-      "course_id": "CS194",
-      "description": "A rogue-like shooter with creature collection elements",
+      "course_id": "CS210",
+      "description": "Slingshot is a collaborative workflow management platform that leverages existing datasets to make a company's knowledge base accessible to all teams with granular control.\n\nWe are building a platform to allow researchers, engineers, analysts, and managers at all levels of an organisation to have their questions answered faster, using LLMs to tie these answers to their source-of-truth documents, and building their workflows right into our platform to create the rails for a company's collaborative efforts that are focused on innovating based on these documents.\n\nWe seek to produce exponential knowledge for our partners as the insights they generate using Slingshot will be accrued in the source-of-truth for future teams to benefit from and integrate into their workflows in our platform.",
       "placement": [
-        "Games"
+        ""
       ],
-      "project_name": "Monster Forest",
-      "team_members": "Jordan Walker, Kevin Su, Eli Vazquez, Michael Vernau, Kaitlin Hsu"
+      "project_name": "Slingshot",
+      "team_members": "Flynn Traeger, Bryn Hughes, Moe Khalil, Porter Weisberg"
     },
     {
-      "course_id": "CS191",
-      "description": "Floor 47 is a VR gardening-experience developed in CS11SI. Our team worked to develop a relaxing, immersive gardening application using hand tracking focused features to navigate, design, and tend to your own personal garden.",
+      "course_id": "CS210",
       "placement": [
-        "Virtual or Augmented Reality"
-      ],
-      "project_name": "Floor 47 - Mediation Garden",
-      "team_members": "Vencent Vang, Jasmine Sumpter, Steven Le, Emmanuel Angel Corona"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Potecha offers a one stop shop for all ceremonial items from trusted community vendors. Unlike Facebook Marketplace, Potecha will target members of indiginous communites and provide a tailored experience to help community members find authentic clothing and items.",
-      "placement": [
-        "Commerce"
-      ],
-      "project_name": "Pochteca - Aztec Marketplace",
-      "team_members": "Jorge Martinez Alba, Pilli Cruz de Jesus, Grant Sheen, Nick Walker"
-    },
-    {
-      "course_id": "CS194",
-      "description": "Arla is a language learning app for iOS that uses augmented reality to help students learn vocabulary based on the objects in their everyday environment. The app allows students to translate an object simply by pointing their phone camera at it. Additional features include saving photos as flashcards and pronunciation help and testing.",
-      "placement": [
-        "Education",
-        "Virtual or Augmented Reality",
-        "Mobile"
-      ],
-      "project_name": "Arla: Augmented Reality Language Learning",
-      "team_members": "Aaron Schultz, Laikh Tewari, Kimmy Chang, Michelle Xing, Ryota Eki"
+        ""
+      ]
     }
   ]
 }
