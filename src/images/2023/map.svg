@@ -68,7 +68,7 @@
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(118,214,255);"/>
     </g>
     <g transform="matrix(0.5,0,0,1,2053.41,713.311)">
-        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(228,221,0);"/>
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(214,214,214);"/>
     </g>
     <g transform="matrix(1,0,0,1,2211.41,713.311)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(228,221,0);"/>
@@ -508,11 +508,6 @@
         <g transform="matrix(25,0,0,25,510.019,130.203)">
         </g>
         <text x="360.239px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">BeeT<tspan x="423.227px 438.328px 445.102px 456.357px 465.207px " y="130.203px 130.203px 130.203px 130.203px 130.203px ">hirte</tspan>en</text>
-    </g>
-    <g transform="matrix(1,0,0,1,1744.51,790.691)">
-        <g transform="matrix(25,0,0,25,471.506,130.203)">
-        </g>
-        <text x="398.752px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">F<tspan x="412.9px 428px " y="130.203px 130.203px ">oc</tspan>us</text>
     </g>
     <g transform="matrix(1,0,0,1,2074.02,791.361)">
         <text x="412.864px" y="117.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="427.244px 441.77px " y="117.703px 117.703px ">ab</tspan></text>
