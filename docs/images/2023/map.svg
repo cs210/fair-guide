@@ -151,10 +151,13 @@
     <g transform="matrix(1,0,0,1,2849.72,85.8607)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(122,129,255);"/>
     </g>
-    <g transform="matrix(0.5,0,0,1,3325.84,85.8607)">
-        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(213,213,213);"/>
+    <g transform="matrix(1,0,0,1,3166.36,85.8607)">
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(122,129,255);"/>
     </g>
-    <g transform="matrix(0.5,0,0,1,3206.45,85.8607)">
+    <g transform="matrix(0.5,0,0,1,2889.82,85.8607)">
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(115,253,255);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,3009.21,85.8607)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(122,129,255);"/>
     </g>
     <g transform="matrix(1,0,0,1,3482.99,85.8607)">
@@ -621,26 +624,34 @@
         </g>
         <text x="400.535px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">R<tspan x="417.893px 432.749px " y="130.203px 130.203px ">em</tspan>a</text>
     </g>
-    <g transform="matrix(1,0,0,1,2505.25,75.0218)">
+    <g transform="matrix(1,0,0,1,2507.66,73.2825)">
+        <g transform="matrix(25,0,0,25,485.563,130.203)">
+        </g>
+        <text x="384.696px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">WC-V<tspan x="450.907px 468.888px " y="130.203px 130.203px ">AE</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2826.61,175.344)">
         <text x="357.145px" y="105.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">YESA: Pla<tspan x="475.858px 484.708px " y="105.203px 105.203px ">te</tspan>s</text>
         <text x="366.257px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">f<tspan x="374.253px 389.353px " y="130.203px 130.203px ">or</tspan> a Better</text>
         <g transform="matrix(25,0,0,25,457.255,155.203)">
         </g>
         <text x="413.004px" y="155.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Y<tspan x="427.054px 442.154px " y="155.203px 155.203px ">ou</tspan></text>
     </g>
-    <g transform="matrix(1,0,0,1,2726.62,161.376)">
+    <g transform="matrix(1,0,0,1,3050.2,80.7198)">
         <g transform="matrix(25,0,0,25,469.523,130.203)">
         </g>
         <text x="400.736px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Bytes</text>
     </g>
-    <g transform="matrix(1,0,0,1,2850.76,11.0263)">
-        <text x="372.928px" y="107.11px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Hybrid Phy<tspan x="505.692px 519.242px " y="107.11px 107.11px ">si</tspan>cal and</text>
-        <text x="380.466px" y="132.11px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Digital Spaces La<tspan x="591.171px " y="132.11px ">b</tspan></text>
-        <text x="356.967px" y="157.11px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Da<tspan x="389.707px 398.557px " y="157.11px 157.11px ">ta</tspan> Collection &amp; Da<tspan x="606.589px 615.439px " y="157.11px 157.11px ">ta</tspan></text>
-        <text x="386.753px" y="182.11px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Analy<tspan x="454.685px 468.234px " y="182.11px 182.11px ">si</tspan>s Bac<tspan x="541.55px 554.929px 569.785px " y="182.11px 182.11px 182.11px ">ken</tspan>d</text>
-        <g transform="matrix(25,0,0,25,627.725,207.11)">
+    <g transform="matrix(1,0,0,1,2684.71,-38.3565)">
+        <text x="362.473px" y="99.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Hybrid Phy<tspan x="495.237px 508.787px " y="99.489px 99.489px ">si</tspan>cal</text>
+        <text x="392.264px" y="124.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">and Digital</text>
+        <text x="354.954px" y="149.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Spaces La<tspan x="481.248px 496.873px " y="149.489px 149.489px ">b </tspan>Da<tspan x="535.862px 544.712px " y="149.489px 149.489px ">ta</tspan></text>
+        <text x="383.292px" y="174.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Collection &amp;</text>
+        <text x="375.01px" y="199.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Da<tspan x="407.749px 416.599px " y="199.489px 199.489px ">ta</tspan> Analy<tspan x="505.637px 519.187px " y="199.489px 199.489px ">si</tspan>s</text>
+        <text x="404.41px" y="224.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Bac<tspan x="451.151px 464.53px 479.386px " y="224.489px 224.489px 224.489px ">ken</tspan>d</text>
+        <text x="405.912px" y="249.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Pla<tspan x="443.595px 452.445px 460.441px 475.541px " y="249.489px 249.489px 249.489px 249.489px ">tfor</tspan>m</text>
+        <g transform="matrix(25,0,0,25,536.881,274.489)">
         </g>
-        <text x="359.537px" y="207.11px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Pla<tspan x="397.22px 406.07px 414.066px 429.166px " y="207.11px 207.11px 207.11px 207.11px ">tfor</tspan>m De<tspan x="501.224px 514.444px 529.3px " y="207.11px 207.11px 207.11px ">vel</tspan>opment</text>
+        <text x="377.64px" y="274.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">De<tspan x="410.38px 423.6px 438.456px " y="274.489px 274.489px 274.489px ">vel</tspan>opment</text>
     </g>
     <g transform="matrix(1,0,0,1,2300.32,388.951)">
         <g transform="matrix(25,0,0,25,504.886,130.203)">
@@ -672,7 +683,7 @@
         </g>
         <text x="398.752px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">F<tspan x="412.9px 428px " y="130.203px 130.203px ">oc</tspan>us</text>
     </g>
-    <g transform="matrix(1,0,0,1,323.702,43.6481)">
+    <g transform="matrix(1,0,0,1,323.702,51.6481)">
         <text x="374.436px" y="99.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Impr<tspan x="430.002px 444.773px 458.323px " y="99.489px 99.489px 99.489px ">ovi</tspan>ng</text>
         <text x="396.86px" y="124.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Activ<tspan x="458.542px " y="124.489px ">e</tspan></text>
         <text x="360.801px" y="149.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Learning f<tspan x="483.408px 498.508px " y="149.489px 149.489px ">or</tspan></text>
