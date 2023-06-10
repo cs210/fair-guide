@@ -5,6 +5,23 @@
     },
     "All": {
       "name": "All"
-    }
+    },
+    "Healthcare": { "name": "Healthcare" },
+    "Automotive": { "name": "Automotive" },
+    "Security": { "name": "Security" },
+    "Productivity": { "name": "Productivity" },
+    "Business/Office": { "name": "Business/Office" },
+    "Personal Productivity": { "name": "Personal Productivity" },
+    "Behavior Change and Wellness": { "name": "Behavior Change and Wellness" },
+    "Commerce": { "name": "Commerce" },
+    "Social Media": { "name": "Social Media" },
+    "Social": { "name": "Social" },
+    "Finance": { "name": "Finance" },
+    "Education": { "name": "Education" },
+    "Games": { "name": "Games" },
+    "AI": { "name": "AI" },
+    "AI Research": { "name": "AI Research" },
+    "VR/AR": { "name": "VR/AR" }
+    
   }
 }
