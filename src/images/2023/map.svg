@@ -97,7 +97,7 @@
     <g transform="matrix(1,0,0,1,3919.04,530.574)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(213,213,213);"/>
     </g>
-    <g transform="matrix(1,0,0,1,-8.35001,205.385)">
+    <g transform="matrix(1,0,0,1,0.0716065,204.368)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(0,145,147);"/>
     </g>
     <g transform="matrix(1,0,0,1,308.284,205.385)">
@@ -577,6 +577,11 @@
         <g transform="matrix(25,0,0,25,469.523,130.203)">
         </g>
         <text x="400.736px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Bytes</text>
+    </g>
+    <g transform="matrix(1,0,0,1,2851.06,940.048)">
+        <g transform="matrix(25,0,0,25,468.607,130.203)">
+        </g>
+        <text x="401.652px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">YESA</text>
     </g>
     <g transform="matrix(1,0,0,1,2684.71,748.551)">
         <text x="362.473px" y="99.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Hybrid Phy<tspan x="495.237px 508.787px " y="99.489px 99.489px ">si</tspan>cal</text>
