@@ -566,6 +566,26 @@
                 "All",
                 "Games"
             ]
+        },
+        {
+            "course_id": "CS191",
+            "description": "I'm passionate about building design, biophilic design, and discovering how humans can create better structures that exist in harmony with nature and contribute to the health of the surrounding environment while also promoting human wellbeing. As a CS major, I was also interested in developing practical CS skills that I hadn't explored yet, such as Google Cloud and Firebase, and further developing my existing skills, such as implementing APIs.\n\nConsequently, when I discovered the Hybrid Physical and Digital Spaces Lab (HDPS), their amazing work, and their need for developers to assist them in creating the technological infrastructure to prepare for their upcoming research study, I knew this would be a perfect fit. My independent research with HPDS gave me the opportunity to pursue my computer science and academic learning goals while learning more from the interdisciplinary HPDS Lab doing work I'm passionate about to improve the built environment.\n\nThe Hybrid Physical and Digital Spaces Lab (HDPS) is an interdisciplinary team collaborating to create new knowledge about how to build an environment for enhanced environmental sustainability and occupant wellbeing. The goal of the research lab is to collect insights and create references and tools for those involved with constructing the built environment so they can incorporate digital and physical adaptations that would enhance the environments they are creating. HPDS is conducting a research study soon and wants to automate the retrieval and analysis of fitbit data from study participants and indoor air quality environmental sensor data.\n\nInitially, my research mentors gave me the task of writing Cloud Functions to automate the data collection and some analysis processes from the fitbit and AWAIR environmental sensor APIs and ensure all this data was uploaded to the Firebase backend so they could analyze it for the research study or potentially use it to make the accompanying iOS app used in the research study \"smarter\". As I began learning more about Cloud Functions and the task at hand, I realized there were two prerequisite steps that needed to be taken: creating a script to onboard study participant's fitbit API access tokens to Firebase after they agreed to online consent form granting us access to their fitbit data, and a thoughtful Firebase structure design must be prepared so that there is an organized data hierarchy to begin appending data to.\n\nThis Spring, I created the technical infrastructure crucial to the successful implementation of the research study. This involved:\n        \nPart 1\ncreating a script to automatically upload required information from each user to the backend at the beginning of the study\n        \nPart 2\nrestructuring and organizing the existing Firebase\n        \nPart 3\nusing APIs and Google Cloud Functions to automate processes to retrieve fitbit data from study participants and environmental sensor data\ncreating automated data analysis algorithms to extract insights from this data\nstoring the output of the algorithms and the raw data collected in the Firebase backend.",
+            "project_name": "Hybrid Physical and Digital Spaces Lab Data Collection & Data Analysis Backend Platform Development",
+            "team_members": "Taylore Givens",
+            "placement": [
+                "All",
+                "Behavior Change and Wellness"
+            ]
+        },
+        {
+            "course_id": "CS191",
+            "description": "Previous work by my research mentor established that using both normal and shear force for touch gesture classification on a robotic arm equipped with tactile sensors classifies touch gestures better than just using normal force. My task is to find the best model which uses both normal and shear force to classify touch gestures, and explore its interpretability.",
+            "project_name": "Devansh Sharma",
+            "team_members": "Devansh Sharma",
+            "placement": [
+                "All",
+                "AI Research"
+            ]
         }
     ]
 }
