@@ -4,8 +4,8 @@
   "description": "The web app / printable thing for the Software Fair",
   "main": "index.js",
   "scripts": {
-    "serve": "webpack-dev-server --progress --colors --compress --inline --hot --open --port 65210",
-    "build": "webpack --progress --colors"
+    "serve": "webpack-dev-server --progress --compress --open --port 65210",
+    "build": "webpack --progress"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,8 @@
     "mini-css-extract-plugin": "^2.7.6",
     "sass": "^1.63.3",
     "sass-loader": "^13.3.2",
-    "webpack": "^5.86.0"
+    "webpack": "^5.86.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
   }
 }

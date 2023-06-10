@@ -21,11 +21,13 @@
     </div>
     {{#if description}}
         <div class="fair-submission-deepdive">
-            <input type="checkbox" id="collapsible-{{id}}" class="collapsible-checkbox" />
-            <label class="collapsible-label" for="collapsible-{{id}}"></label>
-            <p class="fair-submission-deepdive-text">
-                {{{description}}}
-            </p>
+            {{#with (idOf .)}}
+                <input type="checkbox" id="collapsible-{{.}}" class="collapsible-checkbox" />
+                <label class="collapsible-label" for="collapsible-{{.}}"></label>
+                <p class="fair-submission-deepdive-text">
+                    {{{../description}}}
+                </p>
+            {{/with}}
         </div>
     {{/if}}
 </div>
