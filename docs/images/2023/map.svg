@@ -224,6 +224,11 @@
         </g>
         <text x="384.478px" y="293.732px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:70.316px;">18</text>
     </g>
+    <g transform="matrix(1,0,0,1,129.41,503.329)">
+        <g transform="matrix(70.3158,0,0,70.3158,468.046,293.732)">
+        </g>
+        <text x="384.478px" y="293.732px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:70.316px;">17</text>
+    </g>
     <g transform="matrix(1,0,0,1,332.006,180.624)">
         <g transform="matrix(70.3158,0,0,70.3158,468.046,293.732)">
         </g>
@@ -311,13 +316,19 @@
         </g>
         <path d="M868.392,330.796C868.392,317.924 863.73,307.474 857.987,307.474L495.102,307.474C489.359,307.474 484.697,317.924 484.697,330.796L484.697,377.441C484.697,390.313 489.359,400.764 495.102,400.764L857.987,400.764C863.73,400.764 868.392,390.313 868.392,377.441L868.392,330.796Z" style="fill:none;stroke:rgb(122,129,255);stroke-width:2.28px;"/>
     </g>
-    <g transform="matrix(1,0,0,1,472.242,484.66)">
+    <g transform="matrix(1,0,0,1,467.607,517.597)">
         <g transform="matrix(58.3333,0,0,58.3333,795.091,375.353)">
         </g>
         <text x="557.998px" y="375.353px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:58.333px;">Security</text>
         <path d="M868.392,330.796C868.392,317.924 857.941,307.474 845.069,307.474L508.019,307.474C495.147,307.474 484.697,317.924 484.697,330.796L484.697,377.441C484.697,390.313 495.147,400.764 508.019,400.764L845.069,400.764C857.941,400.764 868.392,390.313 868.392,377.441L868.392,330.796Z" style="fill:none;stroke:rgb(255,147,0);stroke-width:3.96px;"/>
     </g>
-    <g transform="matrix(1,0,0,1,1400.67,490.445)">
+    <g transform="matrix(1,0,0,1,-111.898,517.597)">
+        <g transform="matrix(58.3333,0,0,58.3333,757.693,375.353)">
+        </g>
+        <text x="595.396px" y="375.353px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:58.333px;">Other</text>
+        <path d="M868.392,330.796C868.392,317.924 857.941,307.474 845.069,307.474L508.019,307.474C495.147,307.474 484.697,317.924 484.697,330.796L484.697,377.441C484.697,390.313 495.147,400.764 508.019,400.764L845.069,400.764C857.941,400.764 868.392,390.313 868.392,377.441L868.392,330.796Z" style="fill:none;stroke:rgb(213,213,213);stroke-width:3.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,1400.33,517.597)">
         <g transform="matrix(58.3333,0,0,58.3333,819.245,375.353)">
         </g>
         <text x="533.844px" y="375.353px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:58.333px;">Educa<tspan x="712.319px 732.969px " y="375.353px 375.353px ">ti</tspan>on</text>
@@ -650,5 +661,12 @@
         <g transform="matrix(221.618,0,0,221.618,2363.91,1553.46)">
         </g>
         <text x="1086.36px" y="1553.46px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:221.618px;">^^ RO<tspan x="1726.65px 1886.05px " y="1553.46px 1553.46px ">AD</tspan> ^^</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-115.763,-24.7325)">
+        <text x="774.363px" y="664.141px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Acoustic Ba<tspan x="919.895px " y="664.141px ">t</tspan></text>
+        <text x="802.958px" y="689.141px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Species</text>
+        <g transform="matrix(25,0,0,25,931.23,714.141)">
+        </g>
+        <text x="771.879px" y="714.141px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Identif<tspan x="849.54px 856.315px 871.171px 885.404px 894.255px " y="714.141px 714.141px 714.141px 714.141px 714.141px ">icati</tspan>on</text>
     </g>
 </svg>
