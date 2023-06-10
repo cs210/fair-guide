@@ -91,8 +91,11 @@
     <g transform="matrix(1,0,0,1,436.096,400.539)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(213,213,213);"/>
     </g>
-    <g transform="matrix(1,0,0,1,752.727,400.539)">
+    <g transform="matrix(0.5,0,0,1,912.212,400.539)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(255,147,0);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,792.819,400.539)">
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(213,213,213);"/>
     </g>
     <g transform="matrix(1,0,0,1,1069.36,400.539)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(255,147,0);"/>
@@ -407,16 +410,7 @@
         </g>
         <text x="372.483px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Benz Lenz</text>
     </g>
-    <g transform="matrix(1,0,0,1,306.142,389.337)">
-        <text x="353.186px" y="99.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Infr<tspan x="394.763px 409.619px " y="99.489px 99.489px ">as</tspan>tr<tspan x="442.346px 457.446px " y="99.489px 99.489px ">uc</tspan>tur<tspan x="506.58px 521.436px 527.686px 535.681px 550.781px " y="99.489px 99.489px 99.489px 99.489px 99.489px ">e for</tspan> R<tspan x="585.339px 600.195px " y="99.489px 99.489px ">ea</tspan>l</text>
-        <text x="358.948px" y="124.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="374.243px 381.018px " y="124.489px 124.489px ">im</tspan>e Identif<tspan x="501.904px 508.679px 523.535px 537.769px 546.619px " y="124.489px 124.489px 124.489px 124.489px 124.489px ">icati</tspan>on of</text>
-        <text x="402.917px" y="149.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="417.297px 432.153px 442.48px 457.483px 472.339px " y="149.489px 149.489px 149.489px 149.489px 149.489px ">arget</tspan>ed DNS</text>
-        <text x="403.381px" y="174.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Infr<tspan x="444.958px 459.814px " y="174.489px 174.489px ">as</tspan>tr<tspan x="492.541px 507.642px " y="174.489px 174.489px ">uc</tspan>tur<tspan x="556.775px " y="174.489px ">e</tspan></text>
-        <g transform="matrix(25,0,0,25,543.762,199.489)">
-        </g>
-        <text x="431.25px" y="199.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Hijac<tspan x="492.554px 506.262px 513.037px " y="199.489px 199.489px 199.489px ">kin</tspan>g</text>
-    </g>
-    <g transform="matrix(1,0,0,1,589.69,475.692)">
+    <g transform="matrix(1,0,0,1,599.613,478.391)">
         <g transform="matrix(25,0,0,25,484.623,130.203)">
         </g>
         <text x="385.636px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Sentinel</text>

@@ -36,13 +36,6 @@
     },
     {
       "course_id": "CS191",
-      "description": "The goal of this project is to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. This first phase involves building data collection infrastructure to collect live data that can be analyzed to enable immediate mitigation of hijacking efforts. ",
-      "project_name": "Infrastructure for Real Time Identification of Targeted DNS Infrastructure Hijacking",
-      "team_members": "Jessica Yu",
-      "placement": ["All", "Security"]
-    },
-    {
-      "course_id": "CS191",
       "description": "The Sentinel Project aims to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. ",
       "project_name": "Sentinel",
       "team_members": "Nathan Bhak, Jessica Yu",
