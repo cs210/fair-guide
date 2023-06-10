@@ -64,7 +64,10 @@
     <g transform="matrix(1,0,0,1,1576.43,713.311)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(118,214,255);"/>
     </g>
-    <g transform="matrix(1,0,0,1,1893.92,713.311)">
+    <g transform="matrix(0.5,0,0,1,1934.01,713.311)">
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(118,214,255);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,2053.41,713.311)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(228,221,0);"/>
     </g>
     <g transform="matrix(1,0,0,1,2211.41,713.311)">
@@ -74,7 +77,7 @@
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(228,221,0);"/>
     </g>
     <g transform="matrix(1,0,0,1,2846.39,713.311)">
-        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(214,214,214);"/>
+        <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(228,221,0);"/>
     </g>
     <g transform="matrix(1,0,0,1,3163.87,713.311)">
         <rect x="80.184" y="107.692" width="238.785" height="102.894" style="fill:rgb(213,213,213);"/>
@@ -393,12 +396,6 @@
         </g>
         <text x="381.479px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">SuperHF</text>
     </g>
-    <g transform="matrix(1,0,0,1,313.437,51.1089)">
-        <text x="383.774px" y="117.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Ma<tspan x="418.833px 427.683px " y="117.703px 117.703px ">tt</tspan>he<tspan x="466.16px " y="117.703px ">w</tspan></text>
-        <g transform="matrix(25,0,0,25,490.659,142.703)">
-        </g>
-        <text x="379.6px" y="142.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">K<tspan x="397.153px 412.253px " y="142.703px 142.703px ">ol</tspan>odner</text>
-    </g>
     <g transform="matrix(1,0,0,1,601.281,72.4501)">
         <g transform="matrix(25,0,0,25,497.776,130.203)">
         </g>
@@ -502,31 +499,46 @@
         </g>
         <text x="380.832px" y="142.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">V<tspan x="396.787px 411.643px " y="142.703px 142.703px ">en</tspan>tur<tspan x="461.02px 475.876px " y="142.703px 142.703px ">es</tspan></text>
     </g>
-    <g transform="matrix(1,0,0,1,1556.89,699.845)">
+    <g transform="matrix(1,0,0,1,1539.53,709.936)">
+        <g transform="matrix(25,0,0,25,483.066,130.203)">
+        </g>
+        <text x="387.192px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">rizzGPT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1884.09,699.845)">
         <g transform="matrix(25,0,0,25,510.019,130.203)">
         </g>
         <text x="360.239px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">BeeT<tspan x="423.227px 438.328px 445.102px 456.357px 465.207px " y="130.203px 130.203px 130.203px 130.203px 130.203px ">hirte</tspan>en</text>
     </g>
-    <g transform="matrix(1,0,0,1,1746.83,791.361)">
+    <g transform="matrix(1,0,0,1,1744.51,790.691)">
+        <g transform="matrix(25,0,0,25,471.506,130.203)">
+        </g>
+        <text x="398.752px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">F<tspan x="412.9px 428px " y="130.203px 130.203px ">oc</tspan>us</text>
+    </g>
+    <g transform="matrix(1,0,0,1,2074.02,791.361)">
         <text x="412.864px" y="117.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="427.244px 441.77px " y="117.703px 117.703px ">ab</tspan></text>
         <g transform="matrix(25,0,0,25,497.965,142.703)">
         </g>
         <text x="372.294px" y="142.703px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Def<tspan x="413.651px 428.507px " y="142.703px 142.703px ">en</tspan>der<tspan x="484.415px " y="142.703px ">s</tspan></text>
     </g>
-    <g transform="matrix(1,0,0,1,1884.69,719.446)">
+    <g transform="matrix(1,0,0,1,2211.88,719.446)">
         <g transform="matrix(25,0,0,25,449.985,130.203)">
         </g>
         <text x="420.273px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">23</text>
     </g>
-    <g transform="matrix(1,0,0,1,2032.74,791.163)">
+    <g transform="matrix(1,0,0,1,2359.94,791.163)">
         <g transform="matrix(25,0,0,25,556.621,130.203)">
         </g>
         <text x="354.692px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">R<tspan x="372.051px 387.151px " y="130.203px 130.203px ">oa</tspan>stMyR<tspan x="476.14px 490.996px " y="130.203px 130.203px ">es</tspan>ume</text>
     </g>
-    <g transform="matrix(1,0,0,1,2216.62,739.716)">
+    <g transform="matrix(1,0,0,1,2515.52,714.721)">
         <g transform="matrix(25,0,0,25,486.778,130.203)">
         </g>
         <text x="424.535px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">ONIT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,2684.51,787.974)">
+        <g transform="matrix(25,0,0,25,501.109,130.203)">
+        </g>
+        <text x="410.204px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Spenny</text>
     </g>
     <g transform="matrix(1,0,0,1,1102.24,807.351)">
         <g transform="matrix(25,0,0,25,486.979,130.203)">
@@ -564,9 +576,9 @@
         <text x="372.965px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">P<tspan x="388.688px 403.788px " y="130.203px 130.203px ">od</tspan>Squad</text>
     </g>
     <g transform="matrix(1,0,0,1,2190.71,482.098)">
-        <g transform="matrix(25,0,0,25,498.685,130.203)">
+        <g transform="matrix(25,0,0,25,505.948,130.203)">
         </g>
-        <text x="371.573px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="385.624px 400.48px " y="130.203px 130.203px ">ea</tspan>m V<tspan x="459.659px 474.515px 485.135px " y="130.203px 130.203px 130.203px ">erv</tspan></text>
+        <text x="364.31px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">T<tspan x="378.361px 393.216px " y="130.203px 130.203px ">ea</tspan>m V<tspan x="452.396px 467.252px 477.872px " y="130.203px 130.203px 130.203px ">erv</tspan>e</text>
     </g>
     <g transform="matrix(1,0,0,1,1562.34,72.9328)">
         <g transform="matrix(25,0,0,25,504.447,130.203)">
@@ -648,7 +660,7 @@
         </g>
         <text x="398.752px" y="130.203px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">F<tspan x="412.9px 428px " y="130.203px 130.203px ">oc</tspan>us</text>
     </g>
-    <g transform="matrix(1,0,0,1,472.524,154.026)">
+    <g transform="matrix(1,0,0,1,413.718,100.774)">
         <text x="374.436px" y="99.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Impr<tspan x="430.002px 444.773px 458.323px " y="99.489px 99.489px 99.489px ">ovi</tspan>ng</text>
         <text x="396.86px" y="124.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Activ<tspan x="458.542px " y="124.489px ">e</tspan></text>
         <text x="360.801px" y="149.489px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:25px;">Learning f<tspan x="483.408px 498.508px " y="149.489px 149.489px ">or</tspan></text>

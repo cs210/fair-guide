@@ -36,6 +36,9 @@ module.exports = {
       data: path.join(__dirname, "src", "data", "data.json"),
       partials: [path.join(__dirname, "src", "templates", "*.handlebars")],
       helpers: {
+        sorted: (submissions) => {
+          return submissions.sort((a, b) => a.project_name.localeCompare(b.project_name))
+        },
         groupsOf: (submissions) => {
           const allGroups = submissions
             .flatMap((submission) => submission.placement)

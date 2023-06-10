@@ -65,7 +65,7 @@
       </section>
       <section class="fair-guide">
         {{#each (groupsOf submissions)}}
-          {{> templates/fair-section submissions=(submissionsOfGroup ../submissions this) name=this }}
+          {{> templates/fair-section submissions=(sorted (submissionsOfGroup ../submissions this)) name=this }}
         {{/each}}
       </section>
     </div>

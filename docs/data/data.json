@@ -47,15 +47,6 @@
         },
         {
             "course_id": "CS191",
-            "description": "Bytes is a revolutionary social media platform that empowers users to amplify their authenticity. As TikTok sounds and podcasts continue to gain popularity in today's digital landscape, Bytes takes social sharing to the next level. Each day, users are presented with a thought-provoking question, designed to inspire reflection and meaningful conversation. Prompts like \u201cWhat is something you learned this week?\u201d open the floor for users to record their thoughts, experiences, and emotions as a shareable audio byte. Bytes gives users until 5pm to record their daily audio updates, after which a unique \"podcast\" is generated, combining the audio bytes of everyone a user follows. Come see what we\u2019ve been working on and unleash your voice in a community that values genuine connections. Amplify your authenticity and experience the power of audio-based social sharing with Bytes. ",
-            "project_name": "Bytes",
-            "team_members": "Jewel Matanane, Liam Smith",
-            "placement": [
-                "All"
-            ]
-        },
-        {
-            "course_id": "CS191",
             "description": "The goal of this project is to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. This first phase involves building data collection infrastructure to collect live data that can be analyzed to enable immediate mitigation of hijacking efforts. ",
             "project_name": "Infrastructure for Real Time Identification of Targeted DNS Infrastructure Hijacking",
             "team_members": "Jessica Yu",
@@ -66,21 +57,12 @@
         },
         {
             "course_id": "CS191",
-            "description": "The goal of this project is to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. ",
+            "description": "The Sentinel Project aims to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. ",
             "project_name": "Sentinel",
             "team_members": "Nathan Bhak, Jessica Yu",
             "placement": [
                 "All",
                 "Security"
-            ]
-        },
-        {
-            "course_id": "CS191",
-            "description": "The Sentinel Project aims to protect users, organizations, and certificate authorities (CAs) against DNS hijacking incidents by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance. ",
-            "project_name": "Sentinel",
-            "team_members": "Jessica Yu, Nathan Bhak",
-            "placement": [
-                "All"
             ]
         },
         {
@@ -132,7 +114,9 @@
             "team_members": "Henry Bradley, Sebastian Campos, Krain Chen, Caroline Tran, Tristan Wang\t",
             "placement": [
                 "All",
-                "Finance"
+                "Finance",
+                "Productivity",
+                "Personal Productivity"
             ]
         },
         {
@@ -291,7 +275,7 @@
         {
             "course_id": "CS194 or CS194W",
             "description": "RoastMyResu.me is a web-based application that aims to provide job seekers with personalized feedback on the quality of their resumes. The platform utilizes large language models (LLMs) fine-tuned on recruiter-vetted resumes to provide an assessment that is both amusing and informative. ",
-            "project_name": " RoastMyResume",
+            "project_name": "RoastMyResume",
             "team_members": "Olivia Otto, Ethan Horoschak, Michael Yan, Daisuke Masuda",
             "placement": [
                 "All",
@@ -342,15 +326,6 @@
                 "All",
                 "Education",
                 "Social Media"
-            ]
-        },
-        {
-            "course_id": "CS194 or CS194W",
-            "description": "Skillbites is an educational content platform where content creators make interactive courses with short-form videos and questions. The platform is designed to provide an entertaining way for people of all ages to engage with educational material ranging from science to street smarts.",
-            "project_name": "SkillBites",
-            "team_members": "Sohit Gatiganti, Grant Park, Anthony Riley, Carson Fleming",
-            "placement": [
-                "All"
             ]
         },
         {
@@ -549,15 +524,6 @@
         },
         {
             "course_id": "CS191",
-            "description": "The \u201cSentinel Project\u201d aims to protect users, organizations, and certificate authorities (CAs) against demonstrated real-world hijacking domain attacks by building and deploying a global monitoring system to collect domain-related data immediately following certificate issuance.",
-            "project_name": "Sentinel",
-            "team_members": "Nathan Bhak, Jessica Yu, Kai Kato, Gautam Akiwate (advisor)",
-            "placement": [
-                "All"
-            ]
-        },
-        {
-            "course_id": "CS191",
             "description": "Ensuring safety and human value alignment in foundation models (FMs) is increasingly important. Supervised Fine-Tuning (SFT) offers simplicity and robustness, while Reinforcement Learning from Human Feedback (RLHF) yields state-of-the-art results but suffers from instability and reward hacking. We propose Supervised Iterative Learning from Human Feedback (SuperHF), a method combining the best of both approaches. SuperHF focuses on the reward model's importance in RLHF for data efficiency and generalization while replacing Proximal Policy Optimization (PPO) with a simpler supervised loss and a KL divergence prior.\n\nWe split our evaluation criteria into robust optimization of the reward while also avoiding reward hacking. For the former, SuperHF beats other training methods on the reward objective. For the latter, we conduct qualitative ratings by GPT-4 to find SuperHF outperforms RLHF in terms of reward, stability, robustness across hyperparameters, and reducing reward hacking.",
             "project_name": "SuperHF: Supervised Iterative Learning from Human Feedback",
             "team_members": "Gabriel Mukobi",
@@ -578,17 +544,6 @@
                 "Personal Productivity",
                 "Behavior Change and Wellness",
                 "AI"
-            ]
-        },
-        {
-            "course_id": "CS191",
-            "description": "Despite the wide availability of remote sensing imagery, deep learning continues to be bottle-necked in this space by the lack labeled data. We explore using active learning to address this need, adapting modern active learning approaches to the structure of remote sensing data. First, we improve upon \u201dcold-start\u201d active learning, which assumes no initial label pool, by using SatMAE, a self-supervised vision transformer, with ProbCover, a state-of-the-art active learning algorithm. Next, we improve on \u201dwarm-start\u201d active learning approaches, which require an initial label pool, by incorporating geographical information with the margin and entropy sampling techniques. We showcase strong results for each domain, demonstrating the use case of active learning in this space. ",
-            "project_name": "Matthew Kolodner",
-            "team_members": "Matthew Kolodner",
-            "placement": [
-                "All",
-                "AI",
-                "AI Research"
             ]
         },
         {
